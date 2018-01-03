@@ -1,0 +1,3362 @@
+@article{grundy1998inconsistency,
+  title={Inconsistency management for multiple-view software development environments},
+  author={Grundy, John and Hosking, John and Mugridge, Warwick B},
+  journal={IEEE Transactions on Software Engineering},
+  volume={24},
+  number={11},
+  pages={960--981},
+  year={1998},
+  publisher={IEEE}
+}
+
+@inproceedings{grundy1999aspect,
+  title={Aspect-oriented requirements engineering for component-based software systems},
+  author={Grundy, John},
+  booktitle={1999 IEEE International Symposium on Requirements Engineering (RE'99).},
+  pages={84--91},
+  year={1999},
+  organization={IEEE}
+}
+
+@inproceedings{mapelsden2002design,
+  title={Design pattern modelling and instantiation using DPML},
+  author={Mapelsden, David and Hosking, John and Grundy, John},
+  booktitle={2002 Conference on Technology of Object-Oriented Languages and Systems Pacific (TOOLS Pacific 2002)},
+  pages={3--11},
+  year={2002},
+  organization={Australian Computer Society, Inc.}
+}
+
+@article{grundy2000multi,
+  title={Multi-perspective specification, design and implementation of software components using aspects},
+  author={Grundy, John},
+  journal={International Journal of Software Engineering and Knowledge Engineering},
+  volume={10},
+  number={06},
+  pages={713--734},
+  year={2000},
+  publisher={World Scientific Publishing Company}
+}
+
+@inproceedings{mehra2005generic,
+  title={A generic approach to supporting diagram differencing and merging for collaborative design},
+  author={Mehra, Akhil and Grundy, John and Hosking, John},
+  booktitle={20th IEEE/ACM International Conference on Automated Software Engineering (ASE 2005)},
+  pages={204--213},
+  year={2005},
+  organization={ACM}
+}
+
+@article{grundy1998decentralized,
+  title={A decentralized architecture for software process modeling and enactment},
+  author={Grundy, John C and Apperley, Mark D and Hosking, John G and Mugridge, Warwick B},
+  journal={IEEE Internet Computing},
+  volume={2},
+  number={5},
+  pages={53--62},
+  year={1998},
+  publisher={IEEE}
+}
+
+@article{grundy1998serendipity,
+  title={Serendipity: integrated environment support for process modelling, enactment and work coordination},
+  author={Grundy, John C and Hosking, John G},
+  journal={Automated Software Engineering},
+  volume={5},
+  number={1},
+  pages={27--60},
+  year={1998},
+  publisher={Springer}
+}
+
+@inproceedings{zhu2004pounamu,
+  title={Pounamu: A meta-tool for multi-view visual language environment construction},
+  author={Zhu, Nianping and Grundy, John and Hosking, John},
+  booktitle={2004 IEEE Symposium on Visual Languages and Human Centric Computing (VL 2004)},
+  pages={254--256},
+  year={2004},
+  organization={IEEE}
+}
+
+@inproceedings{chen2003whiteboard,
+  title={An e-whiteboard application to support early design-stage sketching of UML diagrams},
+  author={Chen, Qi and Grundy, John and Hosking, John},
+  booktitle={2003 IEEE Symposium on Human Centric Computing Languages and Environments (HCC 2003).},
+  pages={219--226},
+  year={2003},
+  organization={IEEE}
+}
+
+@article{grundy2000constructing,
+  title={Constructing component-based software engineering environments: issues and experiences},
+  author={Grundy, John and Mugridge, Warwick and Hosking, John},
+  journal={Information and Software Technology},
+  volume={42},
+  number={2},
+  pages={103--114},
+  year={2000},
+  publisher={Elsevier}
+}
+
+@article{grundy1996supporting,
+  title={Supporting flexible consistency management via discrete change description propagation},
+  author={Grundy, John C and Hosking, John G and Mugridge, Warwick B},
+  journal={Software - Practice \& Experience},
+  volume={26},
+  number={9},
+  pages={1053--1083},
+  year={1996},
+  publisher={Wiley}
+}
+
+@article{grundy2005softarch,
+  title={SoftArch/MTE: Generating distributed system test-beds from high-level software architecture descriptions},
+  author={Grundy, John and Cai, Yuhong and Liu, Anna},
+  journal={Automated Software Engineering},
+  volume={12},
+  number={1},
+  pages={5--39},
+  year={2005},
+  publisher={Kluwer Academic Publishers}
+}
+
+@inproceedings{grundy2000high,
+  title={High-level static and dynamic visualisation of software architectures},
+  author={Grundy, John and Hosking, John},
+  booktitle={2000 IEEE International Symposium on Visual Languages (VL 2000)},
+  pages={5--12},
+  year={2000},
+  organization={IEEE}
+}
+
+@inproceedings{panas20033d,
+  title={A 3D metaphor for software production visualization},
+  author={Panas, Thomas and Berrigan, Rebecca and Grundy, John},
+  booktitle={7th IEEE International Conference on Information Visualization (IV 2003)},
+  pages={314--319},
+  year={2003},
+  organization={IEEE}
+}
+
+@inproceedings{noble1995explicit,
+  title={Explicit relationships in object-oriented development},
+  author={Noble, James and Grundy, John},
+  booktitle={1995 Conference on Technology of Object-Oriented Languages and Systems Pacific (TOOLS Pacific 1995)},
+  volume={18},
+  pages={211--225},
+  year={1995},
+  organization={IEEE}
+}
+
+@article{grundy2002developing,
+  title={Developing adaptable user interfaces for component-based systems},
+  author={Grundy, John and Hosking, John},
+  journal={Interacting with computers},
+  volume={14},
+  number={3},
+  pages={175--194},
+  year={2002},
+  publisher={Elsevier}
+}
+
+@inproceedings{grundy1996towards,
+  title={Towards an integrated environment for method engineering},
+  author={Grundy, John C and Venable, John R},
+  booktitle={IFIP TC8, WG8.1/8.2 Method Engineering 1996 (ME 1996)},
+  volume={1},
+  number={8.2},
+  pages={45--62},
+  year={1996}
+}
+
+@article{grundy2002engineering,
+  title={Engineering plug-in software components to support collaborative work},
+  author={Grundy, John and Hosking, John},
+  journal={Software: Practice and Experience},
+  volume={32},
+  number={10},
+  pages={983--1013},
+  year={2002},
+  publisher={John Wiley \& Sons, Ltd.}
+}
+
+@inproceedings{grundy1998tool,
+  title={Tool integration, collaboration and user interaction issues in component-based software architectures},
+  author={Grundy, John and Mugridge, Rick and Hosking, John and Apperley, Mark},
+  booktitle={Technology of Object-Oriented Languages Pacific 1998 (TOOLS 28).},
+  pages={299--312},
+  year={1998},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1995support,
+  title={Support for collaborative, integrated software development},
+  author={Grundy, John C and Mugridge, Warwick B and Hosking, John G and Amor, Robert W},
+  booktitle={1995 Conference on Software Engineering Environments (SEE'95)},
+  pages={84--94},
+  year={1995},
+  organization={IEEE}
+}
+
+@article{dai2007netpay,
+  title={NetPay: An off-line, decentralized micro-payment system for thin-client applications},
+  author={Dai, Xiaoling and Grundy, John},
+  journal={Electronic Commerce Research and Applications},
+  volume={6},
+  number={1},
+  pages={91--101},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@inproceedings{kot2005information,
+  title={Information visualisation utilising 3D computer game engines case study: a source code comprehension tool},
+  author={Kot, Blazej and Wuensche, Burkhard and Grundy, John and Hosking, John},
+  booktitle={6th ACM SIGCHI New Zealand chapter's international conference on Computer-human interaction},
+  pages={53--60},
+  year={2005},
+  organization={ACM}
+}
+
+@inproceedings{grundy2006generating,
+  title={Generating domain-specific visual language editors from high-level tool specifications},
+  author={Grundy, John and Hosking, John and Zhu, Nianping and Liu, Na},
+  booktitle={21st IEEE/ACM International Conference on Automated Software Engineering, 2006. ASE'06.},
+  pages={25--36},
+  year={2006},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2008marama,
+  title={Marama: an eclipse meta-toolset for generating multi-view environments},
+  author={Grundy, John and Hosking, John and Huh, Jun and Li, Karen Na-Liu},
+  booktitle={30th international Conference on Software Engineering (ICSE 2008)},
+  pages={819--822},
+  year={2008},
+  organization={ACM}
+}
+
+@inproceedings{grundy2001developing,
+  title={Developing software components with the UML, Enterprise Java Beans and aspects},
+  author={Grundy, John and Patel, Rakesh},
+  booktitle={2001 Australian Software Engineering Conference (ASWEC 2001).},
+  pages={127--136},
+  year={2001},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1995providing,
+  title={Providing integrated support for multiple development notations},
+  author={Grundy, John and Venable, John},
+  booktitle={1995 Conference on Advanced Information Systems Engineering (CAiSE*95)},
+  pages={255--268},
+  year={1995},
+  organization={Springer Berlin/Heidelberg}
+}
+
+@inproceedings{grundy1998visual,
+  title={Visual specification of multi-view visual environments},
+  author={Grundy, John C. and Mugridge, WB and Hosking, John G.},
+  booktitle={1998 IEEE Symposium on Visual Languages (VL 1998).},
+  pages={236--243},
+  year={1998},
+  organization={IEEE}
+}
+
+@inproceedings{patel2007ink,
+  title={Ink features for diagram recognition},
+  author={Patel, Rachel and Plimmer, Beryl and Grundy, John and Ihaka, Ross},
+  booktitle={4th Eurographics workshop on Sketch-based interfaces and modeling},
+  pages={131--138},
+  year={2007},
+  organization={ACM}
+}
+
+@inproceedings{grundy2000storage,
+  title={Storage and retrieval of Software Components using Aspects},
+  author={Grundy, John},
+  booktitle={23rd Australasian Computer Science Conference (ACSC 2000).},
+  pages={95--103},
+  year={2000},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2006performance,
+  title={Performance engineering of service compositions},
+  author={Grundy, John and Hosking, John and Li, Lei and Liu, Na},
+  booktitle={2006 international workshop on Service-oriented software engineering},
+  pages={26--32},
+  year={2006},
+  organization={ACM}
+}
+
+@inproceedings{draheim2006realistic,
+  title={Realistic load testing of web applications},
+  author={Draheim, Dirk and Grundy, John and Hosking, John and Lutteroth, Christof and Weber, Gerald},
+  booktitle={10th European Conference on Software Maintenance and Reengineering (CSMR 2006)},
+  pages={11--pp},
+  year={2006},
+  organization={IEEE}
+}
+
+@article{grundy2004domain,
+  title={Domain-specific visual languages for specifying and generating data mapping systems},
+  author={Grundy, John C and Hosking, John G and Amor, RW and Mugridge, Warwick B and Li, Yongqiang},
+  journal={Journal of Visual Languages \& Computing},
+  volume={15},
+  number={3},
+  pages={243--263},
+  year={2004},
+  publisher={Academic Press}
+}
+
+@article{grundy1995constructing,
+  title={Constructing integrated software development environments with MViews},
+  author={Grundy, John C and Hosking, John G},
+  journal={International Journal of Applied Software Technology},
+  volume={2},
+  number={3-4},
+  pages={133--160},
+  year={1995}
+}
+
+@inproceedings{grundy2001software,
+  title={Software architecture modelling, analysis and implementation with SoftArch},
+  author={Grundy, John},
+  booktitle={34th Annual Hawaii International Conference on System Sciences (HICSS 2001)},
+  pages={9--pp},
+  year={2001},
+  organization={IEEE}
+}
+
+@inproceedings{olsson2002supporting,
+  title={Supporting traceability and inconsistency management between software artifacts},
+  author={Olsson, Thomas and Grundy, John},
+  booktitle={2002 International Conference on Software Engineering and Applications (SEA 2002)},
+  year={2002}
+}
+
+@incollection{grundy1995connecting,
+  title={Connecting the pieces},
+  author={Grundy, John and Hosking, John and Fenwick, Stephen and Mugridge, Warwick},
+  booktitle={Visual object-oriented programming},
+  pages={229--252},
+  year={1995},
+  publisher={Manning Publications Co.}
+}
+
+@inproceedings{dai2002architecture,
+  title={Architecture of a micro-payment system for thin-client web applications},
+  author={Dai, Xiaoling and Grundy, John},
+  booktitle={2002 International Conference on Internet Computing (IC 2002)},
+  pages={24--27},
+  year={2002}
+}
+
+@inproceedings{grundy2002building,
+  title={Building multi-device, component-based, thin-client groupware: issues and experiences},
+  author={Grundy, John and Wang, Xing and Hosking, John},
+  booktitle={Australian Computer Science Communications},
+  volume={24},
+  number={4},
+  pages={71--80},
+  year={2002},
+  organization={Australian Computer Society, Inc.}
+}
+
+@inproceedings{singh2004developing,
+  title={Developing .NET web service-based applications with aspect-oriented component engineering},
+  author={Singh, Santokh and Grundy, John and Hosking, John},
+  booktitle={5th Australasian Workshop on Software and System Architectures (AWSA 2004)},
+  year={2004}
+}
+
+@inproceedings{grundy1993constructing,
+  title={Constructing multi-view editing environments using MViews},
+  author={Grundy, John C and Hosking, John G},
+  booktitle={1993 IEEE Symposium on Visual Languages (VL'93)},
+  pages={220--224},
+  year={1993},
+  organization={IEEE}
+}
+
+@article{grundy2003softarch,
+  title={SoftArch: Tool support for integrated software architecture development},
+  author={Grundy, John and Hosking, John},
+  journal={International Journal of Software Engineering and Knowledge Engineering},
+  volume={13},
+  number={02},
+  pages={125--151},
+  year={2003},
+  publisher={World Scientific Publishing Company}
+}
+
+@inproceedings{venable1995integrating,
+  title={Integrating and supporting entity relationship and object role models},
+  author={Venable, John and Grundy, John},
+  booktitle={1995 Conference on Entity-Relationship Modeling (ER'95).},
+  pages={318--328},
+  year={1995},
+  organization={Springer Berlin/Heidelberg}
+}
+
+@article{zhu2007pounamu,
+  title={Pounamu: A meta-tool for exploratory domain-specific visual language tool development},
+  author={Zhu, Nianping and Grundy, John and Hosking, John and Liu, Na and Cao, Shuping and Mehra, Akhil},
+  journal={Journal of Systems and Software},
+  volume={80},
+  number={8},
+  pages={1390--1407},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@inproceedings{grundy2007supporting,
+  title={Supporting generic sketching-based input of diagrams in a domain-specific visual language meta-tool},
+  author={Grundy, John and Hosking, John},
+  booktitle={29th International Conference on Software Engineering (ICSE 2007).},
+  pages={282--291},
+  year={2007},
+  organization={IEEE}
+}
+
+@incollection{grundy2001software,
+  title={Software tools},
+  author={Grundy, John and Hosking, John},
+  booktitle={Wiley Encyclopedia of Software Engineering, 2nd Edition},
+  year={2001},
+  publisher={John Wiley \& Sons, Inc.}
+}
+
+@inproceedings{bossung2004automated,
+  title={Automated data mapping specification via schema heuristics and user interaction},
+  author={Bossung, Sebastian and Stoeckle, Hermann and Grundy, John and Amor, Robert and Hosking, John},
+  booktitle={19th International Conference on Automated Software Engineering (ASE 2004)},
+  pages={208--217},
+  year={2004},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2003environment,
+  title={An environment for developing adaptive, multi-device user interfaces},
+  author={Grundy, John and Yang, Biao},
+  booktitle={4th Australasian user interface conference on User interfaces (AUIC'2003)},
+  pages={47--56},
+  year={2003},
+  organization={Australian Computer Society, Inc.}
+}
+
+@inproceedings{liu2005visual,
+  title={A visual language and environment for composing web services},
+  author={Liu, Na and Grundy, John and Hosking, John},
+  booktitle={20th IEEE/ACM international Conference on Automated software engineering (ASE 2005)},
+  pages={321--324},
+  year={2005},
+  organization={ACM}
+}
+
+@inproceedings{grundy2001generating,
+  title={Generating EDI message translations from visual specifications},
+  author={Grundy, John and Mugridge, Rick and Hosking, John and Kendall, Paul},
+  booktitle={16th Annual International Conference on Automated Software Engineering (ASE 2001)},
+  pages={35--42},
+  year={2001},
+  organization={IEEE}
+}
+
+@inproceedings{hirsch2009visual,
+  title={The Visual Wiki: A new metaphor for knowledge access and management},
+  author={Hirsch, Christian and Hosking, John and Grundy, John and Chaffe, Tim and MacDonald, David and Halytskyy, Yuriy},
+  booktitle={42nd Hawaii International Conference on System Sciences (HICSS'2009).},
+  pages={1--10},
+  year={2009},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1996low,
+  title={Low-level and high-level CSCW support in the Serendipity process modelling environment},
+  author={Grundy, John C and Hosking, John G and Mugridge, Warwick B},
+  booktitle={Sixth Australian Conference on Computer-Human Interaction (OZCHI 1996)},
+  pages={69--76},
+  year={1996},
+  organization={IEEE}
+}
+
+@inproceedings{dai2001comparing,
+  title={Comparing and contrasting micro-payment models for E-commerce systems},
+  author={Dai, Xiaoling and Grundy, John and Lo, Bruce WN},
+  booktitle={International Conferences on Info-tech and Info-net (ICII 2001)},
+  volume={6},
+  pages={35--41},
+  year={2001},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2002automatic,
+  title={Automatic validation of deployed J2EE components using aspects},
+  author={Grundy, John and Ding, Guoliang},
+  booktitle={17th IEEE International Conference on Automated Software Engineering (ASE 2002)},
+  pages={47--56},
+  year={2002},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1998engineering,
+  title={Engineering component-based, user-configurable collaborative editing systems},
+  author={Grundy, John C},
+  booktitle={IFIP TC2/TC13 WG2 Conference on Engineering for Computer-Human Interaction (ECHI 1998)},
+  volume={7},
+  pages={111--128},
+  year={1998}
+}
+
+@article{grundy2005deployed,
+  title={Deployed software component testing using dynamic validation agents},
+  author={Grundy, John and Ding, Guoliang and Hosking, John},
+  journal={Journal of Systems and Software},
+  volume={74},
+  number={1},
+  pages={5--14},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@inproceedings{cai2004experiences,
+  title={Experiences Integrating and Scaling a Performance Test Bed Generator with an Open Source CASE Tool},
+  author={Cai, Yuhong and Grundy, John and Hosking, John},
+  booktitle={19th International Conference on Automated Software Engineering (ASE 2004)},
+  pages={36--45},
+  year={2004},
+  organization={IEEE}
+}
+
+@inproceedings{graham1998external,
+  title={External requirements of groupware development tools},
+  author={Graham, TC Nicholas and Grundy, John},
+  booktitle={Engineering for Human-Computer Interaction (EHCI 1998)},
+  pages={363--376},
+  year={1998},
+  organization={Kluwer: Dordrecht}
+}
+
+@article{salleh2011empirical,
+  title={Empirical studies of pair programming for CS/SE teaching in higher education: A systematic literature review},
+  author={Salleh, Norsaremah and Mendes, Emilia and Grundy, John},
+  journal={IEEE Transactions on Software Engineering},
+  volume={37},
+  number={4},
+  pages={509--525},
+  year={2011},
+  publisher={IEEE}
+}
+
+@inproceedings{mehra2004supporting,
+  title={Supporting collaborative software design with a plug-in, web services-based architecture},
+  author={Mehra, Akhil and Grundy, John and Hosking, John},
+  booktitle={Workshop on Directions in Software Engineering Environments (WoDiSEE) from Proceedings of the 26th International Conference on Software Engineering (ICSE’04)},
+  year={2004}
+}
+
+@inproceedings{grundy1998coordinating,
+  title={Coordinating distributed software development projects with integrated process modelling and enactment environments},
+  author={Grundy, John and Hosking, John and Mugridge, Rick},
+  booktitle={Seventh IEEE International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WET ICE 1998)},
+  pages={39--44},
+  year={1998},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2003approach,
+  title={An approach to developing web services with aspect-oriented component engineering},
+  author={Grundy, John and Panas, Thomas and Singh, Santokh and St{\"o}ckle, Hermann},
+  booktitle={2003 Nordic Conference on Web Services (NCWS 2003)},
+  year={2003}
+}
+
+@incollection{maplesden2007visual,
+  title={A visual language for design pattern modelling and instantiation},
+  author={Maplesden, David and Hosking, John and Grundy, John},
+  booktitle={Design Patterns Formalization Techniques, Toufik Taibi (Ed), Idea Group Inc., Hershey, USA, March 2007.},
+  pages={338--339},
+  year={2007},
+  publisher={Idea Publishing}
+}
+
+@inproceedings{dai2003architecture,
+  title={Architecture for a Component-based, Plug-in Micro-payment System},
+  author={Dai, Xiaoling and Grundy, John},
+  booktitle={5th Asia-Pacific Web Conference (APWeb 2003), September 27-29 2003, Xi’an, China, Springer LNCS 2642, pp. 251-262.},
+  pages={251--262},
+  year={2003},
+  organization={Springer}
+}
+
+@inproceedings{blagojevic2008data,
+  title={A data collection tool for sketched diagrams},
+  author={Blagojevic, Rachel and Plimmer, Beryl and Grundy, John and Wang, Yong},
+  booktitle={5th Eurographics conference on Sketch-Based Interfaces and Modeling},
+  pages={73--80},
+  year={2008},
+  organization={Eurographics Association}
+}
+
+@inproceedings{plimmer2005beautifying,
+  title={Beautifying sketching-based design tool content: issues and experiences},
+  author={Plimmer, Beryl and Grundy, John},
+  booktitle={6th Australasian conference on User interface (AUIC2005)},
+  pages={31--38},
+  year={2005},
+  organization={Australian Computer Society, Inc.}
+}
+
+@inproceedings{gianoutsos1996collaborative,
+  title={Collaborative work with the World Wide Web: adding CSCW support to a Web browser},
+  author={Gianoutsos, Simon and Grundy, John},
+  booktitle={Oz-CSCW 1996},
+  volume={96},
+  pages={14--21},
+  year={1996}
+}
+
+@inproceedings{liu2007maramatatau,
+  title={Maramatatau: Extending a domain specific visual language meta tool with a declarative constraint mechanism},
+  author={Liu, Na and Hosking, John and Grundy, John},
+  booktitle={2007 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2007)},
+  pages={95--103},
+  year={2007},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1999supporting,
+  title={Supporting aspect-oriented component-based systems engineering},
+  author={Grundy, JC},
+  booktitle={11th International Conference on Software Engineering and Knowledge Engineering (SEKE1999)},
+  pages={16--19},
+  year={1999}
+}
+
+@inproceedings{li2002data,
+  title={A data mapping specification environment using a concrete business form-based metaphor},
+  author={Li, Yongqiang and Grundy, John and Amor, Robert and Hosking, John},
+  booktitle={IEEE 2002 Symposia on Human Centric Computing Languages and Environments (HCC 2002).},
+  pages={158--166},
+  year={2002},
+  organization={IEEE}
+}
+
+@inproceedings{dai2004three,
+  title={Three Kinds of E-wallets for a NetPay Micro-payment System},
+  author={Dai, Xiaoling and Grundy, John},
+  booktitle={2004 International Conference on Web Information Systems (WISE 2004)},
+  pages={66--77},
+  year={2004},
+  organization={Springer Berlin/Heidelberg}
+}
+
+@inproceedings{hosking1995cover,
+  title={Cover yourself with Skin},
+  author={Hosking, JG and Fenwick, Stephen and Mugridge, WB and Grundy, JC},
+  booktitle={Proc. OZCHI’95},
+  pages={101--106},
+  year={1995}
+}
+
+@incollection{grundy2004auit,
+  title={AUIT: Adaptable user interface technology with extended Java Server pages},
+  author={Grundy, John and Zou, Wenjing},
+  booktitle={Multiple User Interfaces},
+  pages={149--167},
+  year={2004},
+  publisher={John Wiley \& Sons, Ltd}
+}
+
+@inproceedings{grundy1991visual,
+  title={A visual programming environment for object-oriented languages},
+  author={Grundy, John Collis and Hosking, JG and Hamer, J},
+  booktitle={Technology of Object-oriented Languages and Systems V (TOOLS USA’91)},
+  pages={129--138},
+  year={1991},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2002extending,
+  title={Extending a persistent object framework to enhance enterprise application server performance},
+  author={Grundy, John and Newby, Steve and Whitmore, Thomas and Grundeman, Peter},
+  booktitle={2002 Australian Database Conference (ADC 2002)},
+  volume={24},
+  number={2},
+  pages={57--64},
+  year={2002},
+  organization={Australian Computer Society, Inc.}
+}
+
+@inproceedings{salleh2009empirical,
+  title={An empirical study of the effects of personality in pair programming using the five-factor model},
+  author={Salleh, Norsaremah and Mendes, Emilia and Grundy, John and Burch, Giles St J},
+  booktitle={2009 3rd International Symposium on Empirical Software Engineering and Measurement (ESEM2009)},
+  pages={214--225},
+  year={2009},
+  organization={IEEE Computer Society}
+}
+
+@inproceedings{grundy2000developing,
+  title={Developing adaptable user interfaces for component-based systems},
+  author={Grundy, John and Hosking, John},
+  booktitle={First Australasian User Interface Conference (AUIC 2000)},
+  pages={17--25},
+  year={2000},
+  organization={IEEE}
+}
+
+@inproceedings{dai2005off,
+  title={Off-line micro-payment system for content sharing in P2P networks},
+  author={Dai, Xiaoling and Grundy, John},
+  booktitle={International Conference on Distributed Computing and Internet Technology},
+  pages={297--307},
+  year={2005},
+  organization={Springer Berlin Heidelberg}
+}
+
+@article{grundy1995coordinating,
+  title={Coordinating, capturing and presenting work contexts in CSCW systems},
+  author={Grundy, John C and Mugridge, Warwick B and Hosking, John G and Apperley, Mark D},
+  journal={OZCHI'95},
+  pages={28--30},
+  year={1995}
+}
+
+@inproceedings{grundy1997comparative,
+  title={A comparative analysis of design principles for project-based IT courses},
+  author={Grundy, John},
+  booktitle={2nd Australasian conference on Computer science education (ACE1997)},
+  pages={170--177},
+  year={1997},
+  organization={ACM}
+}
+
+@article{dai2004customer,
+  title={Customer perceptions of a thin-client micro-payment system: issues and experiences},
+  author={Dai, Xiaoling and Grundy, John},
+  journal={Advanced Topics in End User Computing},
+  volume={3},
+  pages={143},
+  year={2004},
+  publisher={IGI Global}
+}
+
+@inproceedings{stoeckle2003approaches,
+  title={Approaches to supporting software visual notation exchange},
+  author={Stoeckle, Hermann and Grundy, John and Hosking, John},
+  booktitle={2003 IEEE Conference on Human Centric Computing Languages and Environments (HCC 2003)},
+  pages={59--66},
+  year={2003},
+  organization={IEEE}
+}
+
+@article{chen2008sumlow,
+  title={SUMLOW: early design-stage sketching of UML diagrams on an E-whiteboard},
+  author={Chen, Qi and Grundy, John and Hosking, John},
+  journal={Softw., Pract. Exper.},
+  volume={38},
+  number={9},
+  pages={961--994},
+  year={2008}
+}
+
+@inproceedings{li2007visual,
+  title={Visual Modelling of Complex Business Processes with Trees, Overlays and Distortion-based Displays},
+  author={Li, Lei and Hosking, John and Grundy, John},
+  booktitle={2007 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2007)},
+  pages={137--144},
+  year={2007},
+  organization={IEEE}
+}
+
+@incollection{petrovski2001web,
+  title={Web-enabling an integrated health informatics system},
+  author={Petrovski, Angel and Grundy, John},
+  booktitle={OOIS 2001},
+  pages={477--485},
+  year={2001},
+  publisher={Springer London}
+}
+
+@inproceedings{zhao2006generating,
+  title={Generating mobile device user interfaces for diagram-based modelling tools},
+  author={Zhao, Dejin and Grundy, John and Hosking, John},
+  booktitle={7th Australasian User interface conference (AUIC2006)},
+  pages={101--108},
+  year={2006},
+  organization={Australian Computer Society, Inc.}
+}
+
+@inproceedings{grundy1996experiences,
+  title={Experiences with facilitating student learning in a group information systems project course},
+  author={Grundy, John C},
+  booktitle={International Conference on Software Engineering: Education and Practice (SEE\&P 1996)},
+  pages={12--19},
+  year={1996},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2004environment,
+  title={An environment for automated performance evaluation of J2EE and ASP. NET thin-client architectures},
+  author={Grundy, John and Wei, Zhong and Nicolescu, Radu and Cai, Yuhong},
+  booktitle={2004 Australian Software Engineering Conference (ASWEC 2004)},
+  pages={300--308},
+  year={2004},
+  organization={IEEE}
+}
+
+@article{grundy1998supporting,
+  title={Supporting large-scale end user specification of workflows, work coordination and tool integration},
+  author={Grundy, John and Hosking, John and Mugridge, Warwick},
+  journal={Journal of Organizational and End User Computing (JOEUC)},
+  volume={10},
+  number={2},
+  pages={38--48},
+  year={1998},
+  publisher={IGI Global}
+}
+
+@inproceedings{yap2005supporting,
+  title={Supporting dynamic software tool integration via web service-based components},
+  author={Yap, Nelson and Chiong, Hau Chean and Grundy, John and Berrigan, Rebecca},
+  booktitle={2005 Australian Software Engineering Conference (ASWEC 2005)},
+  pages={160--169},
+  year={2005},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1996support,
+  title={Support for constructing environments with multiple views},
+  author={Grundy, John C and Hosking, John G and Mugridge, Warwick B and Amor, Robert W},
+  booktitle={2nd international software architecture workshop (ISAW-2) and international workshop on multiple perspectives in software development (Viewpoints' 96) on SIGSOFT'96 workshops},
+  pages={212--216},
+  year={1996},
+  organization={ACM}
+}
+
+@inproceedings{grundy2000method,
+  title={A method and support environment for distributed software component engineering},
+  author={Grundy, John},
+  booktitle={International Conference on Software Methods and Tools. (SMT 2000)},
+  pages={157--166},
+  year={2000},
+  organization={IEEE}
+}
+
+@inproceedings{hosking2008domain,
+  title={A domain specific visual language for design and coordination of supply networks},
+  author={Hosking, John and Mehandjiev, Nikolay and Grundy, John},
+  booktitle={2008 IEEE Symposium onVisual Languages and Human-Centric Computing (VL/HCC 2008)},
+  pages={109--112},
+  year={2008},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2000directions,
+  title={Directions in modelling large-scale software architectures},
+  author={Grundy, John and Hosking, John},
+  booktitle={International Conference on Software Methods and Tools. (SMT 2000)},
+  pages={31--40},
+  year={2000},
+  organization={IEEE}
+}
+
+@inproceedings{wang2006aspect,
+  title={An aspect-oriented UML tool for software development with early aspects},
+  author={Wang, Yang and Singh, Santokh and Hosking, John and Grundy, John},
+  booktitle={2006 international workshop on Early aspects at ICSE},
+  pages={51--58},
+  year={2006},
+  organization={ACM}
+}
+
+@inproceedings{hirsch2008thinkbase,
+  title={Thinkbase: A visual semantic wiki},
+  author={Hirsch, Christian and Grundy, John and Hosking, John},
+  booktitle={Proceedings of the 2007 International Conference on Posters and Demonstrations-Volume 401},
+  pages={118--119},
+  year={2008},
+  organization={CEUR-WS. org}
+}
+
+@inproceedings{liu2007visual,
+  title={A visual language and environment for specifying user interface event handling in design tools},
+  author={Liu, Na and Hosking, John and Grundy, John},
+  booktitle={8th Australasian conference on User interfaces (AUIC 2007)},
+  pages={87--94},
+  year={2007},
+  organization={Australian Computer Society, Inc.}
+}
+
+@inproceedings{grundy1995software,
+  title={Software environment support for integrated formal program specification and development},
+  author={Grundy, John C and Hosking, John G},
+  booktitle={1995 Asia Pacific Software Engineering Conference (APSEC 1995)},
+  pages={264--273},
+  year={1995},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1996towards,
+  title={Towards a unified event-based software architecture},
+  author={Grundy, John C and Hosking, John G and Mugridge, Warwick B},
+  booktitle={2nd international software architecture workshop (ISAW-2)},
+  pages={121--125},
+  year={1996},
+  organization={ACM}
+}
+
+@inproceedings{dai2007comparing,
+  title={Comparing and Contrasting Micro-payment Models for Content Sharing in P2P Networks},
+  author={Dai, Xiaoling and Chaudhary, Kaylash and Grundy, John},
+  booktitle={Third International IEEE Conference on Signal-Image Technologies and Internet-Based System (SITIS'07)},
+  pages={347--354},
+  year={2007},
+  organization={IEEE}
+}
+
+@inproceedings{liu2005visual,
+  title={A visual language and environment for specifying design tool event handling},
+  author={Liu, Na and Hosking, John and Grundy, John},
+  booktitle={2005 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2005)},
+  pages={278--280},
+  year={2005},
+  organization={IEEE}
+}
+
+@article{grundy1999visual,
+  title={Visual specification and monitoring of software agents in decentralized process-centred environments},
+  author={Grundy, John},
+  journal={International Journal of Software Engineering and Knowledge Engineering},
+  volume={9},
+  number={04},
+  pages={425--444},
+  year={1999},
+  publisher={World Scientific Publishing Company}
+}
+
+@inproceedings{grundy2003architecture,
+  title={An architecture for efficient, flexible enterprise system integration},
+  author={Grundy, John C. and Bai, Jun and Blackham, John and Hosking, John G. and Amor, Robert and Parnell, Auckland and Zealand, New},
+  booktitle={2003 International Conference on Internet Computing (IC 2003)},
+  pages={23--26},
+  year={2003}
+}
+
+@inproceedings{mehra2004adding,
+  title={Adding group awareness to design tools using a plug-in, web service-based approach},
+  author={Mehra, Akhil and Grundy, JC and Hosking, JG},
+  booktitle={Sixth International Workshop on Collaborative Editing Systems, CSCW 2004},
+  year={2004},
+  organization={ACM}
+}
+
+@inproceedings{plimmer2006inking,
+  title={Inking in the IDE: Experiences with Pen-based Design and Annotatio},
+  author={Plimmer, Beryl and Grundy, John and Hosking, John and Priest, Richard},
+  booktitle={2006 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2006)},
+  pages={111--115},
+  year={2006},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2000implementation,
+  title={An implementation architecture for aspect-oriented component engineering},
+  author={Grundy, John C.},
+  booktitle={5th International Conference on Parallel and Distributed Processing Techniques and Applications: Special Session on Aspect-oriented Programming},
+  year={2000}
+}
+
+@inproceedings{kim2005suite,
+  title={A suite of visual languages for statistical survey specification},
+  author={Kim, Chul Hwee and Hosking, John and Grundy, John},
+  booktitle={2005 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2005)},
+  pages={19--26},
+  year={2005},
+  organization={IEEE}
+}
+
+@inproceedings{almorsy2010analysis,
+  title={An analysis of the cloud computing security problem},
+  author={Almorsy, Mohamed and Grundy, John and M{\"u}ller, Ingo},
+  booktitle={2010 Asia Pacific Cloud Workshop, Colocated with APSEC2010, Australia},
+  year={2010}
+}
+
+@inproceedings{salleh2010empirical,
+  title={An empirical study of the effects of conscientiousness in pair programming using the five-factor personality model},
+  author={Salleh, Norsaremah and Mendes, Emilia and Grundy, John and Burch, Giles St J},
+  booktitle={32nd ACM/IEEE International Conference on Software Engineering (ICSE 2010)},
+  pages={577--586},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{blackham2001supporting,
+  title={Supporting Pervasive Business via Virtual Database Aggregation},
+  author={Blackham, John and Grundeman, Peter and Grundy, JC and Hosking, JG and Mugridge, WB},
+  booktitle={Evolve 2001},
+  pages={15--16},
+  year={2001}
+}
+
+@article{grundy2004developing,
+  title={Developing software components with aspects: Some issues and experiences},
+  author={Grundy, John and Hosking, John},
+  journal={Chapter 25 in Aspect-Oriented Software Development},
+  pages={585--604},
+  year={2004}
+}
+
+@inproceedings{grundy1998experiences,
+  title={Experiences in using java on a software tool integration project},
+  author={Grundy, John and Hosking, John and Mugridge, Rick},
+  booktitle={1998 International Conference Software Engineering: Education \& Practice (SEEP 1998)},
+  pages={286--293},
+  year={1998},
+  organization={IEEE}
+}
+
+@article{stoeckle2005framework,
+  title={A framework for visual notation exchange},
+  author={Stoeckle, Hermann and Grundy, John and Hosking, John},
+  journal={Journal of Visual Languages \& Computing},
+  volume={16},
+  number={3},
+  pages={187--212},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@inproceedings{li2007eml,
+  title={EML: A tree overlaybased visual language for business process modelling},
+  author={Li, Lei and Hosking, John and Grundy, John},
+  booktitle={2007 International Conference on Enterprise Information Systems (ICEIS 2007)},
+  volume={7},
+  pages={13--19},
+  year={2007}
+}
+
+@article{grundy1993mviews,
+  title={The MViews framework for constructing multi-view editing environments},
+  author={Grundy, John C and Hosking, John G},
+  journal={New Zealand Journal of Computing},
+  volume={4},
+  number={2},
+  pages={31--40},
+  year={1993},
+  publisher={Citeseer}
+}
+
+@inproceedings{mugridge1996towards,
+  title={Towards a constructor kit for visual notations},
+  author={Mugridge, Warwick B and Hosking, John G and Grundy, John},
+  booktitle={Sixth Australian Conference on Computer-Human Interaction (OZCHI 1996)},
+  pages={169--176},
+  year={1996},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2000directions,
+  title={Directions in engineering non-functional requirement compliant middleware applications},
+  author={Grundy, JC and Liu, Anna},
+  booktitle={3rd Australasian Workshop on Software and Systems Architectures (AWSSA 2000)},
+  year={2000}
+}
+
+@inproceedings{ibrahim2010emerging,
+  title={Emerging security challenges of cloud virtual infrastructure},
+  author={Ibrahim, Amani S and Hamlyn-harris, James Hamlyn and Grundy, John},
+  booktitle={2010 Asia Pacific Cloud Workshop, Colocated with APSEC2010, Australia},
+  year={2010}
+}
+
+@inproceedings{cai2007synthesizing,
+  title={Synthesizing client load models for performance engineering via web crawling},
+  author={Cai, Yuhong and Grundy, John and Hosking, John},
+  booktitle={22nd IEEE/ACM International conference on Automated software engineering (ASE 2007)},
+  pages={353--362},
+  year={2007},
+  organization={ACM}
+}
+
+@inproceedings{zhu2005constructing,
+  title={Constructing domain-specific design tools with a visual language meta-tool},
+  author={Zhu, Nianping and Grundy, JC and Hosking, JG},
+  booktitle={2005 Conference on Advanced Information Systems Engineering (CAiSE 2005)},
+  pages={139--144},
+  year={2005}
+}
+
+@inproceedings{kamalrudin2010managing,
+  title={Managing consistency between textual requirements, abstract interactions and Essential Use Cases},
+  author={Kamalrudin, Massila and Grundy, John and Hosking, John},
+  booktitle={IEEE 34th Annual Computer Software and Applications Conference (COMPSAC 2010)},
+  pages={327--336},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1996serving,
+  title={Serving up a Banquet: Towards an environment supporting all aspects of software development},
+  author={Grundy, John C and Hosking, John G and Mugridge, Warwick B},
+  booktitle={International Conference on Software Engineering: Education and Practice (SEE\&P 1996)},
+  pages={465--472},
+  year={1996},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1992mviews,
+  title={MViews: A Framework for Developing Visual Programming Environments.},
+  author={Grundy, John C and Hosking, John G},
+  booktitle={TOOLS (12/9)},
+  pages={465--473},
+  year={1992}
+}
+
+@inproceedings{patel2007exploring,
+  title={Exploring better techniques for diagram recognition},
+  author={Patel, Rachel Venita and Plimmer, Beryl and Grundy, John and Ihaka, Ross},
+  booktitle={2007 New Zealand Computer Science Research Students Conference},
+  year={2007},
+  organization={Computer Science, University of Auckland}
+}
+
+@inproceedings{grundy1998human,
+  title={Human Interaction Issues for User-configurable Collaborative Editing Systems},
+  author={Grundy, John C},
+  booktitle={1st Asia-Pacific Human Computer Interaction Conference (APCHI 1998)},
+  year={1998},
+  organization={IEEE}
+}
+
+@inproceedings{dai2006off,
+  title={Off-line micro-payment protocol for multiple vendors in mobile commerce},
+  author={Dai, Xiaoling and Ayoade, Oluwatomi and Grundy, John},
+  booktitle={Seventh International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT'06)},
+  pages={197--202},
+  year={2006},
+  organization={IEEE}
+}
+
+@inproceedings{liu2004integrating,
+  title={Integrating a zoomable user interfaces concept into a visual language meta-tool environment},
+  author={Liu, Na and Hosking, John and Grundy, John},
+  booktitle={2004 IEEE Symposium on Visual Languages and Human Centric Computing (VL/HCC 2004)},
+  pages={38--40},
+  year={2004},
+  organization={IEEE}
+}
+
+@article{bossung2003semi,
+  title={Semi-automatic discovery of mapping rules to match XML Schemas},
+  author={Bo{\ss}ung, Sebastian and Grundy, John and Hosking, John},
+  journal={Department of Computer Science, The University of Auckland, 71pp},
+  year={2003}
+}
+
+@inproceedings{khambati2008model,
+  title={A model driven approach to care planning systems for consumer engagement in chronic disease management},
+  author={Khambati, Abizer and Warren, Jim and Grundy, John and Hosking, John},
+  booktitle={2008 Australia's Health Informatics Conference (HIC 2008)},
+  year={2008},
+  organization={Health Informatics Society of Australia Ltd (HISA)}
+}
+
+@inproceedings{singh2005improving,
+  title={Improving agile software development using extreme AOCE and aspect-oriented CVS},
+  author={Singh, Santokh and Chen, H-C and Hunter, Oliver and Grundy, John and Hosking, John},
+  booktitle={12th Asia-Pacific Software Engineering Conference (APSEC 2005)},
+  pages={8--pp},
+  year={2005},
+  organization={IEEE}
+}
+
+@inproceedings{white2003experiences,
+  title={Experiences Developing a Collaborative Travel Planning Application with .NET Web Services},
+  author={White, Philip and Grundy, John},
+  booktitle={1st International Conference on Web Services (ICWS 2003)},
+  year={2003}
+}
+
+@inproceedings{dantra2009domain,
+  title={A domain-specific visual language for report writing using Microsoft DSL tools},
+  author={Dantra, Ruskin and Grundy, John and Hosking, John},
+  booktitle={2009 IEEE Symposium onVisual Languages and Human-Centric Computing (VL/HCC 2009)},
+  pages={15--22},
+  year={2009},
+  organization={IEEE}
+}
+
+@article{grundy1997visualising,
+  title={Visualising Event-based Software Systems: Issues and Experiences},
+  author={Grundy, John C and Hosking, John G and Mugridge, Warwick B},
+  journal={SoftVis97},
+  year={1997}
+}
+
+@inproceedings{khambati2008model,
+  title={Model-driven development of mobile personal health care applications},
+  author={Khambati, Abizer and Grundy, John and Warren, James and Hosking, John},
+  booktitle={23rd IEEE/ACM International Conference on Automated Software Engineering (ASE2008)},
+  pages={467--470},
+  year={2008},
+  organization={IEEE Computer Society}
+}
+
+@inproceedings{kamalrudin2010tool,
+  title={Tool support for essential use cases to better capture software requirements},
+  author={Kamalrudin, Massila and Grundy, John and Hosking, John},
+  booktitle={25th IEEE/ACM international conference on Automated software engineering (ASE 2010)},
+  pages={255--264},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{grundy1997summary,
+  title={Summary of the INTERACT97 Workshop on the Next Generation of CSCW Systems},
+  author={Grundy, John},
+  booktitle={Human-Computer Interaction INTERACT’97},
+  pages={699--700},
+  year={1997},
+  organization={Springer US}
+}
+
+@inproceedings{ossher2010flexible,
+  title={Flexible modeling tools (flexitools2010)},
+  author={Ossher, Harold and van der Hoek, Andr{\'e} and Storey, Margaret-Anne and Grundy, John and Bellamy, Rachel},
+  booktitle={32nd ACM/IEEE International Conference on Software Engineering (ICSE2010)},
+  pages={441--442},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{grundy2001visual,
+  title={A visual language and environment for EDI message translation},
+  author={Grundy, John and Mugridge, Rick and Hosking, John and Kendall, Paul},
+  booktitle={Proceedings IEEE Symposia on Human-Centric Computing Languages and Environments (VL/HCC 2001)},
+  pages={330--331},
+  year={2001},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2000distributed,
+  title={Distributed component engineering using a decentralised, internet-based environment},
+  author={Grundy, John},
+  booktitle={3rd ICSE Workshop on Software Engineering over the Internet, Limerick, Ireland, June 2000},
+  year={2000}
+}
+
+@inproceedings{grundy1997support,
+  title={Support for end-user specification of work coordination in workflow systems},
+  author={Grundy, John C and Hosking, John G and Mugridge, Warwick B},
+  booktitle={Proceedings of the 2nd International Workshop on End-User Development, Barcelona, Spain},
+  year={1997}
+}
+
+@inproceedings{stoeckle2003notation,
+  title={Notation exchange converters for software architecture development},
+  author={Stoeckle, Hermann and Grundy, John and Hosking, John},
+  booktitle={11th ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2003)},
+  year={2003}
+}
+
+@inproceedings{salleh2010effects,
+  title={The effects of neuroticism on pair programming: An empirical study in the higher education context},
+  author={Salleh, Norsaremah and Mendes, Emilia and Grundy, John and Burch, Giles St J},
+  booktitle={2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2010)},
+  pages={22},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{grundy1993integrated,
+  title={Integrated object-oriented software development in SPE},
+  author={Grundy, John C and Hoking, JG},
+  booktitle={Proceedings of the 13th NZCS Conference, Aucland, New Zealand},
+  year={1993},
+  organization={NZCS}
+}
+
+@inproceedings{singh2005deploying,
+  title={Deploying Multi-Agents for Intelligent Aspect-Oriented Web Services},
+  author={Singh, Santokh and Hosking, John and Grundy, John},
+  booktitle={Pacific Rim International Workshop on Multi-Agents},
+  pages={284--296},
+  year={2005},
+  organization={Springer Berlin Heidelberg}
+}
+
+@inproceedings{cao2005generating,
+  title={Generating web-based user interfaces for diagramming tools},
+  author={Cao, Shuping and Grundy, John and Hosking, John and Stoeckle, Hermann and Tempero, Ewan and Zhu, Nianping},
+  booktitle={Sixth Australasian conference on User interface (AUIC 2005)},
+  pages={63--72},
+  year={2005},
+  organization={Australian Computer Society, Inc.}
+}
+
+@inproceedings{mugridge1998vixels,
+  title={Vixels, createthroughs, dragthroughs and attachment regions in BuildByWire},
+  author={Mugridge, WB and Hosking, JG and Grundy, JC},
+  booktitle={1998 Australian Computer Human Interaction Conference (OZCHI 1998)},
+  pages={320--327},
+  year={1998},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1997utilising,
+  title={Utilising past event histories in a process-centred software engineering environment},
+  author={Grundy, John C and Mugridge, Warwick B and Hosking, John G},
+  booktitle={1997 Australian Software Engineering Conference (ASWEC 1997)},
+  pages={127--136},
+  year={1997},
+  organization={IEEE}
+}
+
+@inproceedings{kamalrudin2010maramaai,
+  title={MaramaAI: Automated and Visual Approach for Inconsistency Checking of Requirements},
+  author={Kamalrudin, Massila and Hosking, John and Grundy, John},
+  booktitle={18th IEEE International Requirements Engineering Conference (RE 2010)},
+  pages={393--394},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{ali2009critic,
+  title={Critic Authoring Templates for Specifying Domain-Specific Visual Language Tool Critics},
+  author={Ali, Norhayati Mohd and Hosking, John and Huh, Jun and Grundy, John},
+  booktitle={2009 Australian Software Engineering Conference (ASWEC'09)},
+  pages={81--90},
+  year={2009},
+  organization={IEEE}
+}
+
+@inproceedings{grundy2002experiences,
+  title={Experiences developing a thin-client, multi-device travel planning application},
+  author={Grundy, John and Jin, Weiguo},
+  booktitle={Proceedings of the SIGCHI-NZ Symposium on Computer-Human Interaction},
+  pages={85--90},
+  year={2002},
+  organization={ACM}
+}
+
+@inproceedings{grundy1996supporting,
+  title={Supporting collaborative work in integrated information systems engineering environments},
+  author={Grundy, John C and Venable, John R and Hosking, John G and Mugridge, Warwick B},
+  booktitle={Proceedings of the Seventh Workshop on the Next Generation of CASE Tools, Greece},
+  year={1996}
+}
+
+@inproceedings{kamalrudin2011improving,
+  title={Improving requirements quality using essential use case interaction patterns},
+  author={Kamalrudin, Massila and Hosking, John and Grundy, John},
+  booktitle={33rd IEEE/ACM International Conference on Software Engineering (ICSE 2011)},
+  pages={531--540},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{huh2009integrated,
+  title={Integrated data mapping for a software meta-tool},
+  author={Huh, Jun and Grundy, John and Hosking, John and Liu, Karen and Amor, Robert},
+  booktitle={2009 Australian Software Engineering Conference (ASWEC'09)},
+  pages={111--120},
+  year={2009},
+  organization={IEEE}
+}
+
+@techreport{grundy1996supporting,
+  title={Supporting flexible collaborative software development with SPE--Serendipity},
+  author={Grundy, John C},
+  year={1996},
+  institution={Citeseer}
+}
+
+@inproceedings{grundy2001software,
+  title={Software engineering tools},
+  author={Grundy, John},
+  booktitle={34th Annual Hawaii International Conference on System Sciences (HICSS 2001)},
+  pages={3914--3914},
+  year={2001},
+  organization={IEEE}
+}
+
+@article{grundy2004workshop,
+  title={Workshop on directions in software engineering environments (WoDiSEE)},
+  author={Grundy, John and Welland, Ray and Stoeckle, Hermann},
+  journal={ACM SIGSOFT Software Engineering Notes},
+  volume={29},
+  number={5},
+  pages={1--3},
+  year={2004},
+  publisher={ACM}
+}
+
+@inproceedings{grundy1996visual,
+  title={Visual language support for planning and coordination in cooperative work systems},
+  author={Grundy, John C and Hosking, John G},
+  booktitle={1996 IEEE Symposium on Visual Languages (VL 1996)},
+  pages={324--325},
+  year={1996},
+  organization={IEEE}
+}
+
+@article{hosking1995keeping,
+  title={Keeping things consistent},
+  author={Hosking, John and Mugridge, Warwick and Amor, Robert and Grundy, John},
+  journal={New Zealand Journal of Computing},
+  volume={6},
+  number={1},
+  pages={353--362},
+  year={1995},
+  publisher={Citeseer}
+}
+
+@inproceedings{kim2007model,
+  title={Model Driven Design and Implementation of Statistical Surveys},
+  author={Kim, Chul Hwee and Hosking, John and Grundy, John},
+  booktitle={40th Annual Hawaii International Conference on System Sciences (HICSS 2007)},
+  pages={285c--285c},
+  year={2007},
+  organization={IEEE}
+}
+
+@inproceedings{ali2009template,
+  title={Template-based critic authoring for domain-specific visual language tools},
+  author={Ali, Norhayati Mohd and Hosking, John and Huh, Jun and Grundy, John},
+  booktitle={2009 IEEE Symposium onVisual Languages and Human-Centric Computing (VL/HCC 2009)},
+  pages={111--118},
+  year={2009},
+  organization={IEEE}
+}
+
+@article{chaudhary2010experiences,
+  title={Experiences in developing a micro-payment system for peer-to-peer networks},
+  author={Chaudhary, Kaylash and Dai, Xiaoling and Grundy, John},
+  journal={International Journal of Information Technology and Web Engineering (IJITWE)},
+  volume={5},
+  number={1},
+  pages={23--42},
+  year={2010},
+  publisher={IGI Global}
+}
+
+@inproceedings{li2008maramaeml,
+  title={MaramaEML: An Integrated Multi-View Business Process Modelling Environment with Tree-Overlays, Zoomable Interfaces and Code Generation},
+  author={Li, Lei and Hosking, John and Grundy, John},
+  booktitle={Proceedings of the 2008 23rd IEEE/ACM International Conference on Automated Software Engineering},
+  pages={477--478},
+  year={2008},
+  organization={IEEE Computer Society}
+}
+
+@misc{grundy1994collaborative,
+  title={Collaborative, integrated software development with multiple views},
+  author={Grundy, John C and Hosking, John G and Mugridge, Warwick B and Armor, Robert W},
+  journal={Dept Computer Science, University of Waikato},
+  number={Working Paper series 94/6},
+  year={1994}
+}
+
+@inproceedings{kamalrudin2011generating,
+  title={Generating essential user interface prototypes to validate requirements},
+  author={Kamalrudin, Massila and Grundy, John},
+  booktitle={26th IEEE/ACM International Conference on Automated Software Engineering (ASE 2011)},
+  pages={564--567},
+  year={2011},
+  organization={IEEE}
+}
+
+@misc{avgeriou2011relating,
+  title={Relating software requirements and architectures},
+  author={Avgeriou, Paris and Grundy, John and Hall, Jon G. and Lago, Patricia and Mistr{\'\i}k, Ivan},
+  year={2011},
+  publisher={Springer-Verlag New York Inc}
+}
+
+@inproceedings{cai2004software,
+  title={Software Architecture Modelling and Performance Analysis with Argo/MTE},
+  author={Cai, Yuhong and Grundy, John and Hosking, John and Dai, Xiaoling},
+  booktitle={2004 Conference on Software Engineering and Knowledge Engineering (SEKE 2004)},
+  year={2004}
+}
+
+@article{grundy2002teaching,
+  title={Teaching Information Systems with Simulations: Issues and Experiences},
+  author={Grundy, John},
+  journal={Journal of Informatics -- Education and Research},
+  volume={4},
+  number={1},
+  year={2002}
+}
+
+@inproceedings{hosking2007meta,
+  title={Meta tools for implementing domain specific visual languages},
+  author={Hosking, John and Grundy, John},
+  booktitle={22nd IEEE/ACM International conference on Automated software engineering (ASE 2007)},
+  pages={576--576},
+  year={2007},
+  organization={ACM}
+}
+
+@inproceedings{hirsch2010vikibuilder,
+  title={VikiBuilder: end-user specification and generation of visual wikis},
+  author={Hirsch, Christian and Hosking, John and Grundy, John},
+  booktitle={25th IEEE/ACM international conference on Automated software engineering (ASE 2010)},
+  pages={13--22},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{blagojevic2008development,
+  title={Development of techniques for sketched diagram recognition},
+  author={Blagojevic, Rachel and Plimmer, Beryl and Grundy, John and Wang, Yong},
+  booktitle={2008 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2008)},
+  pages={258--259},
+  year={2008},
+  organization={IEEE}
+}
+
+@inproceedings{ali2010taxonomy,
+  title={A taxonomy of computer-supported critics},
+  author={Ali, Norhayati Mohd and Hosking, John and Grundy, John},
+  booktitle={2010 International Symposium on Information Technology (ITSim 2010)},
+  volume={3},
+  pages={1152--1157},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{su2011capturing,
+  title={Capturing architecture documentation navigation trails for content chunking and sharing},
+  author={Su, Moon Ting and Hosking, John and Grundy, John},
+  booktitle={9th Working IEEE/IFIP Conference on Software Architecture (WICSA 2011)},
+  pages={256--259},
+  year={2011},
+  organization={IEEE Computer Society}
+}
+
+@inproceedings{almorsy2011collaboration,
+  title={Collaboration-Based Cloud Computing Security Management Framework},
+  author={Almorsy, Mohemed and Grundy, John and Ibrahim, Amani S},
+  booktitle={IEEE International Conference on Cloud Computing (CLOUD 2011)},
+  pages={364--371},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{blagojevic2011using,
+  title={Using data mining for digital ink recognition: Dividing text and shapes in sketched diagrams},
+  author={Blagojevic, Rachel and Plimmer, Beryl and Grundy, John and Wang, Yong},
+  journal={Computers \& Graphics},
+  volume={35},
+  number={5},
+  pages={976--991},
+  year={2011},
+  publisher={Pergamon}
+}
+
+@techreport{hosking1995using,
+  title={Using change descriptions to maintain consistency across multiple representations},
+  author={Hosking, JG and Grundy, JC},
+  year={1995},
+  institution={Department of Computer Science, The University of Auckland, New Zealand}
+}
+
+@incollection{dai2010netpay,
+  title={NetPay Micro-Payment Protocols for Three Networks},
+  author={Dai, Xiaoling and Grundy, John},
+  booktitle={Emergent Web Intelligence: Advanced Semantic Technologies},
+  pages={429--449},
+  year={2010},
+  publisher={Springer London}
+}
+
+@inproceedings{salleh2011effects,
+  title={The effects of openness to experience on pair programming in a higher education context},
+  author={Salleh, Norsaremah and Mendes, Emilia and Grundy, John},
+  booktitle={24th IEEE-CS Conference on Software Engineering Education and Training (CSEE\&T 2011)},
+  pages={149--158},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{nixon2004reciprocity,
+  title={Reciprocity: an integrated, continuous approach to software training authoring, delivery and monitoring},
+  author={Nixon, April and Grundy, John},
+  booktitle={2004 Australian Software Engineering Conference (ASWEC 2004)},
+  pages={262--270},
+  year={2004},
+  organization={IEEE}
+}
+
+@article{li2011augmenting,
+  title={Augmenting DSVL Meta-Tools with Pattern Specification, Instantiation and Reuse},
+  author={Li, Karen and Hosking, John and Grundy, John and Ly, Tony and Webb, Brian},
+  journal={Electronic Communications of the EASST},
+  volume={31},
+  number={0},
+  year={2011}
+}
+
+@article{hosking2004applying,
+  title={Applying the Evolving Frameworks Pattern Language to Multi-View Software Design Tools},
+  author={Hosking, JG and Grundy, JC and Mugridge, WB},
+  journal={Department of Computer Science, University of Auckland, New Zealand},
+  year={2004}
+}
+
+@inproceedings{kim2007generating,
+  title={Generating Web Services for Statistical Survey Packages from Domain-specific Visual Languages},
+  author={Kim, Chul Hwee and Hosking, John and Grundy, John},
+  booktitle={Incorporating COTS Software into Software Systems: Tools and Techniques, 2007. IWICSS'07. Second International Workshop on},
+  pages={5--5},
+  year={2007},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1999human,
+  title={Human-Computer Interaction Issues For The Configuration Of Component-Based Software Systems},
+  author={Grundy, John and Hosking, John},
+  booktitle={In 1999 Australian Human Computer Interaction Conference (OZCHI 1999), Wagga Wagga Nov 28-30 1999, Charles Sturt University Press},
+  pages={37--43},
+  year={1999}
+}
+
+@misc{grundy2004software,
+  title={Software design system and method},
+  author={Grundy, John and Hosking, John and Cai, Yuhong},
+  year={2004},
+  month=apr # "~19",
+  note={US Patent App. 10/826,381}
+}
+
+@inproceedings{mugridge2002supporting,
+  title={Supporting information mapping in Health Informatics via integrated message transformation},
+  author={Mugridge, W and Grundy, JC and Hosking, JG and Bryant, D},
+  booktitle={2002 Health Informatics New Zealand Conference (HIC 2002)},
+  pages={8--10},
+  year={2002}
+}
+
+@inproceedings{ibrahim2011cloudsec,
+  title={CloudSec: A security monitoring appliance for Virtual Machines in the IaaS cloud model},
+  author={Ibrahim, Amani S and Hamlyn-Harris, James and Grundy, John and Almorsy, Mohamed},
+  booktitle={5th International Conference on Network and System Security (NSS 2011)},
+  pages={113--120},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{grundy2003desert,
+  title={Desert Island},
+  author={Grundy, John},
+  journal={Automated Software Engineering},
+  volume={10},
+  number={3},
+  pages={303--304},
+  year={2003},
+  publisher={Springer}
+}
+
+@misc{moreira2007early,
+  title={Early Aspects: Current Challenges and Future Directions: 10th International Workshop, Vancouver, Canada, March 13, 2007, Revised Selected Papers},
+  author={Moreira, Ana},
+  year={2007},
+  publisher={Springer}
+}
+
+@book{draheim2007software,
+  title={Software Engineering Tools: Trends of Software Engineering Tools and Platforms},
+  author={Draheim, Dirk and Grundy, John and Hosking, John and Lutteroth, Christof and Weber, Gerald},
+  year={2007},
+  publisher={Springer Berlin}
+}
+
+@article{li2010generic,
+  title={A generic technique for domain-specific visual language model refactoring to patterns},
+  author={Li, Karen and Hosking, John and Grundy, John},
+  journal={Electronic Communications of the EASST},
+  volume={31},
+  year={2010}
+}
+
+@inproceedings{ossher2011workshop,
+  title={Workshop on flexible modeling tools:(FlexiTools 2011)},
+  author={Ossher, Harold and van der Hoek, Andr{\'e} and Storey, Margaret-Anne and Grundy, John and Bellamy, Rachel and Petre, Marian},
+  booktitle={33rd IEEE/ACM International Conference on Software Engineering (ICSE 2011), Honolulu, Hawaii, USA, May 2011},
+  pages={1192--1193},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{grundy2007experiences,
+  title={Experiences developing architectures for realizing thin-client diagram editing tools},
+  author={Grundy, John and Hosking, John and Cao, Shuping and Zhao, Denjin and Zhu, Nianping and Tempero, Ewan and Stoeckle, Hermann},
+  journal={Software: Practice and Experience},
+  volume={37},
+  number={12},
+  pages={1245--1283},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{chen2011combination,
+  title={A Combination Approach for Enhancing Automated Traceability},
+  author={Chen, Xiaofan and Hosking, John and Grundy, John},
+  booktitle={33rd IEEE/ACM International Conference on Software Engineering (ICSE 2011), New Idead Track, Honolulu, Hawaii, USA, May 2011},
+  year={2011}
+}
+
+@inproceedings{mohd2010end,
+  title={End-user oriented critic specification for domain-specific visual language tools},
+  author={Mohd Ali, Norhayati and Hosking, John and Grundy, John and Huh, Jun},
+  booktitle={25th IEEE/ACM international conference on Automated software engineering (ASE 2010)},
+  pages={297--300},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{zhang2010design,
+  title={Design of a suite of visual languages for supply chain specification},
+  author={Zhang, Rick and Hosking, John and Grundy, John and Mehandjiev, Nikolay and Carpenter, Martin},
+  booktitle={2010 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2010)},
+  pages={240--243},
+  year={2010},
+  organization={IEEE Computer Society}
+}
+
+@inproceedings{hirsch2010thinkfree,
+  title={ThinkFree: using a visual Wiki for IT knowledge management in a tertiary institution},
+  author={Hirsch, Christian and Hosking, John and Grundy, John and Chaffe, Tim},
+  booktitle={6th International Symposium on Wikis and Open Collaboration (WikiSim 2010)},
+  pages={7},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{chen2011improving,
+  title={Improving automated documentation to code traceability by combining retrieval techniques},
+  author={Chen, Xiaofan and Grundy, John},
+  booktitle={26th IEEE/ACM International Conference on Automated Software Engineering (ASE 2011)},
+  pages={223--232},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1996approaches,
+  title={Approaches for utilising ‘Work Contexts’ in CSCW systems},
+  author={Grundy, John C and Hosking, John G},
+  booktitle={OzCHI'96 Workshop on the Next Generation of CSCW Systems},
+  pages={15--20},
+  year={1996}
+}
+
+@article{grundy2000graduate,
+  title={A Graduate Course on E-commerce Information Systems Engineering},
+  author={Grundy, John},
+  journal={Journal of Informatics Education and Research},
+  volume={2},
+  number={2},
+  year={2000},
+  publisher={IAIM Press}
+}
+
+@inproceedings{yap2011automatic,
+  title={Automatic diagram layout support for the Marama meta-toolset},
+  author={Yap, Pei Shan and Hosking, John and Grundy, John},
+  booktitle={2011 IEEE Symposium onVisual Languages and Human-Centric Computing (VL/HCC 2011)},
+  pages={61--64},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{su2011kaitorocap,
+  title={KaitoroCap: a document navigation capture and visualisation tool},
+  author={Su, Moon Ting and Hosking, John and Grundy, John},
+  booktitle={9th Working IEEE/IFIP Conference on Software Architecture (WICSA 2011)},
+  pages={359--362},
+  year={2011},
+  organization={IEEE Computer Society}
+}
+
+@inproceedings{dai2005three,
+  title={Three integration methods for a component-based NetPay vendor system},
+  author={Dai, Xiaoling and Grundy, John},
+  booktitle={Computational and Information Science, Lecture Notes in Computer Science, 2005, Volume 3314/2005},
+  pages={782--787},
+  year={2005},
+  organization={Springer Berlin/Heidelberg}
+}
+
+@inproceedings{liu2003experiences,
+  title={Experiences Developing an E-whiteboard-based Circuit Designer},
+  author={Liu, Ray and Wong, Lisa and Grundy, John},
+  booktitle={Software Engineering Research and Practice},
+  pages={739--744},
+  year={2003}
+}
+
+@article{grundy2010we,
+  title={What We Know (and Do not Know) About Collaborative Software Engineering},
+  author={Grundy, John},
+  journal={Collaborative Software Engineering},
+  pages={237},
+  year={2010},
+  publisher={Springer Science \& Business Media}
+}
+
+@inproceedings{grundy2000construction,
+  title={Construction of an Integrated and Extensible Software Architecture Modelling Environment},
+  author={Grundy, John},
+  booktitle={2nd ICSE Workshop on Constructing Software Engineering Tools (CoSET 2000), Limerick, Ireland, June 2000},
+  year={2000}
+}
+
+@inproceedings{kanij2011preliminary,
+  title={A Preliminary Study on Factors Affecting Software Testing Team Performance},
+  author={Kanij, Tanjila and Merkel, Robert and Grundy, John},
+  booktitle={2011 International Symposium on Empirical Software Engineering and Measurement (ESEM 2011)},
+  pages={359--362},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{li2009generalised,
+  title={A Generalised Event Handling Framework},
+  author={Li, Karen and Hosking, John and Grundy, John},
+  booktitle={KISS Workshop, 2009 International Conference on Automated Software Engineering (ASE 2009)},
+  year={2009}
+}
+
+@inproceedings{blagojevic2010building,
+  title={Building digital ink recognizers using data mining: distinguishing between text and shapes in hand drawn diagrams},
+  author={Blagojevic, Rachel and Plimmer, Beryl and Grundy, John and Wang, Yong},
+  booktitle={International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems},
+  pages={358--367},
+  year={2010},
+  organization={Springer Berlin Heidelberg}
+}
+
+@article{amor1995directions,
+  title={Directions in modelling environments},
+  author={Amor, Robert and Augenbroe, Godfried and Hosking, John and Rombouts, Wouter and Grundy, John},
+  journal={Automation in Construction},
+  volume={4},
+  number={3},
+  pages={173--187},
+  year={1995},
+  publisher={Elsevier}
+}
+
+@incollection{dai2012p2p,
+  title={P2P-NetPay: A Micro-Payment System for Networks},
+  author={Dai, Xiaoling and Chaudhary, Kaylash and Grundy, John},
+  booktitle={Models for Capitalizing on Web Engineering Advancements: Trends and Discoveries},
+  pages={159--182},
+  year={2012},
+  publisher={Information Science Reference}
+}
+
+@inproceedings{grundy1995vitabal,
+  title={ViTABaL: a visual language supporting design by tool abstraction},
+  author={Grundy, JC and Hosking, JG},
+  booktitle={11th IEEE Symposium on Visual  Languages (VL 1995)},
+  year={1995}
+}
+
+@article{grundy2012software,
+  title={Software Engineering for the Cloud},
+  author={Grundy, John and Kaefer, Gerald and Keong, Jacky and Liu, Anna},
+  journal={IEEE Software},
+  volume={29},
+  number={2},
+  pages={26},
+  year={2012}
+}
+
+@inproceedings{kanij2012performance,
+  title={Performance Assessment Metrics for Software Testers},
+  author={Kanij, Tanjila and Merkel, Robert and Grundy, John},
+  booktitle={3rd ICSE workshop on Co-operative and Human Aspects of Software Engineering (CHASE 2012)},
+  year={2012}
+}
+
+@inproceedings{chen2012energy,
+  title={An Energy Consumption Model and Analysis Tool for Cloud Computing Environments},
+  author={Chen, FeiFei and Schneider, Jean-Guy and Yang, Yun and Grundy, John and He, Qiang},
+  booktitle={1st ICSE Workshop on Green and Sustainable Software Engineering (GREENS 2012)},
+  year={2012}
+}
+
+@inproceedings{almorsy2012smurf,
+  title={SMURF: Supporting Multi-tenancy Using Re-Aspects Framework},
+  author={Almorsy, Mohamed and Grundy, John},
+  booktitle={17th IEEE International Conference on Engineering Complex Computer Systems (ICECCS 2012)},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{jaafar2010high,
+  title={A High-Level Visual Test Specification Model for DSVL},
+  author={Jaafar, Mohamad Farid and Grundy, J and Hosking, J},
+  booktitle={2010 Asia-Pacific Software Engineering Conference (APSEC 2010), Doctoral Symposium, Sydney, Australia, Nov 30 2010.},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{hirsch2010vikibuilder,
+  title={VikiBuilder: Let’s build a Visual Wiki},
+  author={Hirsch, Christian and Hosking, John and Grundy, John},
+  booktitle={Poster and Demo Session at the 21st Australian Software Engineering Conference (ASWEC 2010), Auckland, New Zealand, Apr 6-9, 2010},
+  year={2010}
+}
+
+@inproceedings{almorsy2012tossma,
+  title={TOSSMA: A Tenant-Oriented SaaS Security Management Architecture},
+  author={Almorsy, Mohamed and Grundy, John and Ibrahim, Amani S},
+  booktitle={5th IEEE 2012 International Conference on Cloud Computing (CLOUD 2012), Honolulu, Hawaii, United States, 24-29 June 2012},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{hosking2001applying,
+  title={Applying and evolving the evolving frameworks pattern language},
+  author={Hosking, JG and Grundy, JC and Mugridge, WB},
+  booktitle={Proceedings of the Second Asian Pacific Pattern Languages of Programming Conference, KoalaPLoP'2001},
+  year={2001}
+}
+
+@article{grundy2013generating,
+  title={Generating Domain-Specific Visual Language Tools from Abstract Visual Specifications},
+  author={Grundy, John C and Hosking, John G and Li, Karen and Ali, Norhayati Mohd and Huh, Jun and Li, Richard Lei},
+  journal={IEEE Transactions on Software Engineering},
+  volume={39},
+  number={4},
+  pages={487--515},
+  year={2013},
+  publisher={IEEE}
+}
+
+@inproceedings{he2012qos,
+  title={QoS-Driven Service Selection for Multi-Tenant SaaS},
+  author={He, Qiang and Han, Jun and Yang, Yun and Grundy, John and Jin, Hai},
+  booktitle={5th IEEE 2012 International Conference on Cloud Computing (CLOUD 2012), Honolulu, Hawaii, United States, 24-29 June 2012},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{ibrahim2012supporting,
+  title={Supporting Virtualization-Aware Security Solutions using a Systematic Approach to Overcome the Semantic Gap},
+  author={Ibrahim, Amani S and Hamlyn-Harris, James and Grundy, John and Almorsy, Mohamed},
+  booktitle={5th IEEE 2012 International Conference on Cloud Computing (CLOUD 2012), Honolulu, Hawaii, United States, 24-29 June 2012},
+  year={2012},
+  organization={IEEE}
+}
+
+@incollection{ibrahim2012virtual,
+  title={Virtual Machines Security in IaaS Platform},
+  author={Ibrahim, Amani and Hamlyn-Harris, James and Grundy, John},
+  booktitle={Technical Report},
+  year={2012}
+}
+
+@inproceedings{chen2012visualizing,
+  title={Visualizing Traceability Links between Source Code and Documentation},
+  author={Chen, Xiaofan and Hosking, John and Grundy, John},
+  booktitle={2012 IEEE International Conference on Visual Languages and Human-Centric Computing (VL/HCC 2012)},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{kamalrudin2012supporting,
+  title={Supporting Requirements Modelling in the Malay Language using Essential Use Cases},
+  author={Kamalrudin, Massila and Grundy, John and Hosking, John},
+  booktitle={2012 IEEE International Conference on Visual Languages and Human-Centric Computing (VL/HCC 2012)},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{ibrahim2012supporting,
+  title={Supporting Operating System Kernel Data Disambiguation Using Points-to Analysis},
+  author={Ibrahim, Amani S and Grundy, John and Hamlyn-Harris, James and Almorsy, Mohamed},
+  booktitle={2012 ACM/IEEE International Conference on Automated Software Engineering (ASE 2012)},
+  year={2012},
+  organization={ACM}
+}
+
+@inproceedings{almorsy2012supporting,
+  title={Supporting Automated Vulnerability Analysis using Formalized Vulnerability Signatures},
+  author={Almorsy, Mohemed and Grundy, John and Ibrahim, Amani S},
+  booktitle={2012 ACM/IEEE International Conference on Automated Software Engineering (ASE 2012)},
+  year={2012}
+}
+
+@inproceedings{kamalrudin2012maramaai,
+  title={MaramaAI: Tool Support for Capturing and Managing Consistency of Multi-lingual Requirements},
+  author={Kamalrudin, Massila and Grundy, John and Hosking, John},
+  booktitle={2012 ACM/IEEE International Conference on Automated Software Engineering (ASE 2012)},
+  year={2012},
+  organization={ACM}
+}
+
+@inproceedings{su2012study,
+  title={A Study of Architectural Information Foraging in Software Architecture Documents},
+  author={Su, Moon Ting and Tempero, Ewan and Hosking, John and Grundy, John},
+  booktitle={2012 IEEE/IFIP Working Conference on Software Architecture (WICSA 2012)},
+  year={2012}
+}
+
+@inproceedings{nguyen2012reindetector,
+  title={REInDetector: A Framework for Knowledge-based Requirements Engineering},
+  author={Nguyen, Tuong Huan and Vo, Bao Quoc and Lumpe, Markus and Grundy, John},
+  booktitle={2012 ACM/IEEE International Conference on Automated Software Engineering (ASE 2012)},
+  year={2012},
+  organization={ACM}
+}
+
+@inproceedings{avazpour2012convert,
+  title={CONVErT: A Framework for Complex Model Visualisation and Transformation},
+  author={Avazpour, Iman and Grundy, John},
+  booktitle={2012 IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC 2012)},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{ibrahim2012identifying,
+  title={Identifying OS Kernel Objects for Run-time Security Analysis},
+  author={Ibrahim, Amani S and Hamlyn-Harris, James and Grundy, John and Almorsy, Mohamed},
+  booktitle={Proc. of 6th International Conference on Network and System Security (NSS 2012), Fujian, China, Nov 2012},
+  year={2012},
+  organization={Springer}
+}
+
+@inproceedings{ibrahim2012operating,
+  title={Operating System Kernel Data Disambiguation to Support Security Analysis},
+  author={Ibrahim, Amani S and Hamlyn-Harris, J and Grundy, J and Almorsy, Mohamed},
+  booktitle={Proc. of 6th International Conference on Network and System Security (NSS 2012), Fujian, China, Nov 2012},
+  year={2012},
+  organization={Springer}
+}
+
+@article{grundy2011australian,
+  title={Australian Social Services Agency Software: Requirements, Current Usage and Opportunities},
+  author={Grundy, Judith R and Grundy, John C},
+  journal={Technical Report, Faculty of ICT, Swinburne University of Technology, August 2011},
+  pages={12pp},
+  year={2011}
+}
+
+@inproceedings{almorsy2012vam,
+  title={VAM-aaS: Online Cloud Services Security Vulnerability Analysis and Mitigation-as-a-Service},
+  author={Almorsy, Mohamed and Grundy, John and Ibrahim, Amani S},
+  booktitle={2012 International Conference on Web Information Systems Engineering (WISE 2012), Cypus, Nov 2012},
+  year={2012},
+  organization={Springer}
+}
+
+@inproceedings{almorsy2012supporting,
+  title={Supporting automated software re-engineering using re-aspects},
+  author={Almorsy, Mohamed and Grundy, John and Ibrahim, Amani S},
+  booktitle={27th IEEE/ACM International Conference on Automated Software Engineering (ASE 2012)},
+  pages={230--233},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{li2009visualising,
+  title={Visualising Event-based Information Models: Issues and Experiences},
+  author={Li, Karen and Grundy, JC and Hosking, JG and Li, Lei},
+  booktitle={Proceedings of Visual Analytics in Software Engineering, Workshop at},
+  year={2009}
+}
+
+@article{ibrahim2013digger,
+  title={DIGGER: Identifying Operating System Dynamic Kernel Objects for Run-time Security Analysis},
+  author={Ibrahim, Amani S and Hamlyn-Harris, James and Grundy, John C and Almorsy, Mohamed},
+  journal={International Journal of Internet and Distributed Computing Systems},
+  volume={3},
+  number={1},
+  pages={184--194},
+  year={2013}
+}
+
+@inproceedings{grundy2002recent,
+  title={Recent Experiences with Code Generation and Task Automation Agents in Software Tools},
+  author={Grundy, John and Hosking, John},
+  booktitle={1st International Workshop on the State of the Art in Automated Software Engineering, Irvine, CA, 27th June 2002.},
+  year={2002}
+}
+
+@inproceedings{gianoutsos1996qualitative,
+  title={Qualitative Evaluation of a Collaborative Web Browser},
+  author={Gianoutsos, Simon and Grundy, John},
+  booktitle={OZCHI 1996 Workshop on Next Generation of Collaborative Work Systems},
+  year={1996},
+  organization={University of Waikato}
+}
+
+@inproceedings{almorsy2012mdse,
+  title={MDSE@ R: Model-Driven Security Engineering at Runtime},
+  author={Almorsy, Mohamed and Grundy, John and Ibrahim, Amani S},
+  booktitle={4th International Symposium on Cyberspace Safety and Security (CSS 2012), Melbourne, Australia, Dec 12-13 2012},
+  year={2012},
+  organization={Springer}
+}
+
+@article{salleh2014investigating,
+  title={Investigating the effects of personality traits on pair programming in a higher education setting through a family of experiments},
+  author={Salleh, Norsaremah and Mendes, Emilia and Grundy, John C},
+  journal={Empirical Software Engineering},
+  volume={19},
+  number={3},
+  pages={714--752},
+  year={2014},
+  publisher={Springer}
+}
+
+@article{grundy2013survey,
+  title={A Survey of Australian Human Services Agency Software Usage},
+  author={Grundy, Judith R and Grundy, John C},
+  journal={Journal of Technology in Human Services},
+  volume={31},
+  number={1},
+  year={2013},
+  publisher={Taylor \& Francis,}
+}
+
+@phdthesis{grundy1993multiple,
+  title={Multiple textual and graphical views for Interactive Software Development Environments},
+  author={Grundy, John Collis},
+  year={1993},
+  school={ResearchSpace@ Auckland}
+}
+
+@article{grundy2013setting,
+  title={Setting up and Running Effective Industry Advisory Boards for your Department},
+  author={Grundy, John C},
+  journal={The Department Chair},
+  volume={24},
+  number={4},
+  year={2013},
+  publisher={Jossey-Bass / Wiley}
+}
+
+@article{ip2009realising,
+  title={Realising Web Diagramming Applications with OpenLaszlo and Eclipse},
+  author={Ip, Tony and Lomberg, Kelvin and Grundy, John and Hosking, John and Huh, Jun},
+  journal={Technical Report, University of Auckland},
+  year={2009},
+  publisher={University of Auckland}
+}
+
+@inproceedings{grundy1999integrating,
+  title={Integrating Software Architecture Topics into a Software Engineering Curriculum},
+  author={Grundy, John},
+  booktitle={1999 Australasian Workshop on Software Architectures, Sydney, Nov 1999},
+  year={1999}
+}
+
+@incollection{hall2011introduction,
+  title={Introduction: Relating requirements and architectures},
+  author={Hall, Jon G and Grundy, John and Mistrik, Ivan and Lago, Patricia and Avgeriou, Paris},
+  booktitle={Relating Software Requirements and Architectures},
+  pages={1--9},
+  year={2011},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@incollection{avgeriou2011experiences,
+  title={Experiences from Industrial Projects},
+  author={Avgeriou, Paris and Grundy, John and Hall, J and Lago, Patricia and Mistr{\'\i}k, Ivan},
+  booktitle={Relating Software Requirements and Architectures},
+  pages={199--201},
+  year={2011},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@incollection{grundy2011theoretical,
+  title={Theoretical Underpinnings and Reviews},
+  author={Grundy, John and Lago, Patricia and Avgeriou, Paris and Hall, J and Mistr{\'\i}k, Ivan},
+  booktitle={Relating Software Requirements and Architectures},
+  pages={13--15},
+  year={2011},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@incollection{grundy2011emerging,
+  title={Emerging Issues in Relating Software Requirements and Architecture},
+  author={Grundy, John and Avgeriou, Paris and Hall, J and Lago, Patricia and Mistrik, Ivan},
+  booktitle={Relating Software Requirements and Architectures},
+  pages={303--306},
+  year={2011},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@article{grundy2013guest,
+  title={Guest editors introduction: special issue on innovative automated software engineering tools},
+  author={Grundy, John and Hosking, John},
+  journal={Automated Software Engineering},
+  volume={20},
+  number={2},
+  pages={137--139},
+  year={2013},
+  publisher={Springer US}
+}
+
+@incollection{lago2011tools,
+  title={Tools and Techniques},
+  author={Lago, P and Avgeriou, P and Grundy, J and Hall, J and Mistr{\'\i}k, I},
+  booktitle={Relating software requirements and architecture},
+  year={2011},
+  publisher={Springer}
+}
+
+@inproceedings{grundy2001generation,
+  title={Generation of distributed system test-beds from high-level software architecture descriptions},
+  author={Grundy, John and Cai, Yuhong and Liu, Anna},
+  booktitle={16th IEEE/ACM International Conference on Automated Software Engineering (ASE 2001)},
+  pages={193--200},
+  year={2001},
+  organization={IEEE}
+}
+
+@article{penix2006special,
+  title={Special Issue on Selected Papers from ASE-2003},
+  author={Penix, John and Grundy, John},
+  journal={Automated Software Engineering},
+  year={2006},
+  publisher={Springer}
+}
+
+@inproceedings{almorsy2013automated,
+  title={Automated Software Architecture Security Risk Analysis Using Formalized Signatures},
+  author={Almorsy, Mohamed and Grundy, John and Ibrahim, Amani S},
+  booktitle={2013 IEEE/ACM International Conference on Software Engineering (ICSE 2013), San Franciso, May 2013},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{chen2013experimental,
+  title={Experimental Analysis of Task-based Energy Consumption in Cloud Computing Systems},
+  author={Chen, Feifei and Grundy, John and Yang, Yun and Schneider, Jean-Guy and He, Qiang},
+  booktitle={4th ACM/SPEC International Conference on Performance Engineering (ICPE2013)},
+  year={2013},
+  organization={ACM}
+}
+
+@inproceedings{kanij2013lessons,
+  title={Lessons Learned from Conducting Industry Surveys in Software Testing},
+  author={Kanij, Tanjila and Merkel, Robert and Grundy, John},
+  booktitle={ICSE 2013 Workshop on Conducting Empirical Studies in Industry (CESI 2013)},
+  pages={63--66},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{nguyen2014kbre,
+  title={KBRE: A Framework for knowledge-based Requirements Engineering},
+  author={Nguyen, Tuong Huan and Vo, Bao Quoc and Lumpe, Markus and Grundy, John},
+  journal={Software Quality Journal},
+  volume={22},
+  number={1},
+  pages={87--119},
+  year={2014},
+  publisher={Springer}
+}
+
+@inproceedings{kanij2013empirical,
+  title={An Empirical Study of the Effects of Personality on Software Testing},
+  author={Kanij, Tanjila and Australia, Hawthorn and Merkel, Robert and Australia, Clayton and Grundy, John},
+  booktitle={IEEE Conference on Software Engineering - Education and Training (CSEET2013)},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{chen2013development,
+  title={Development of Robust Traceability Benchmarks},
+  author={Chen, Xiaofan and Hosking, John and Grundy, John and Amor, Robert},
+  booktitle={2013 Australasian Conference on Software Engineering (ASWEC 2013)},
+  year={2013},
+  organization={IEEE}
+}
+
+@incollection{grundy2013architecture,
+  title={Architecture vs Agile: competition or co-operation?},
+  author={Grundy, John},
+  booktitle={Agile Software Architecture: Aligning Agile Processes and Software Architecture},
+  pages={Foreword},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@misc{grundy1996coordinating,
+  title={Coordinating Collaborative Work in an Integrated Information Systems Engineering Enviornment},
+  author={Grundy, John C and Venable, John R and Hosking, John G and Mugridge, Warwick B},
+  journal={Working paper series, Computer Science, University of Waikato, New Zealand},
+  year={1996},
+  publisher={Department Computer Science, University of Waikato}
+}
+
+@incollection{grundy2013economics,
+  title={Economics-driven Software Architecting},
+  author={Grundy, John C},
+  booktitle={Economics-driven Software Architecture},
+  pages={Foreword},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@inproceedings{avazpour2013using,
+  title={Using Concrete Visual Notations as First Class Citizens for Model Transformation Specification},
+  author={Avazpour, Iman and Grundy, John C},
+  booktitle={2013 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2013), San Jose, CA, USA, Sept 15-19 2013},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{grundy2007aswec,
+  title={ASWEC 2007},
+  author={Grundy, John and Han, Jun},
+  year={2007}
+}
+
+@article{crnkovic2005automated,
+  title={Automated Component-Based Software Engineering},
+  author={Crnkovic, I and Schmidt, HW and Stafford, J and Wallnau, K and Grundy, JC and Ding, G and Hosking, J and Zulkernine, M and Seviora, R and Wuyts, R and others},
+  journal={Journal of Systems and Software},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@inproceedings{du2013generating,
+  title={Generating service models by trace subsequence substitution},
+  author={Du, Miao and Schneider, Jean-Guy and Hine, Cameron and Grundy, John and Versteeg, Steve},
+  booktitle={9th  ACM Sigsoft Conference on Quality of software architectures (QoSA 2013)},
+  pages={123--132},
+  year={2013},
+  organization={ACM}
+}
+
+@article{ali2013taxonomy,
+  title={A Taxonomy and Mapping of Computer-based Critiquing Tools},
+  author={Ali, Norhayati Mohamed and Hosking, John G and Grundy, John C},
+  journal={IEEE Transactions on Software Engineering},
+  volume={39},
+  number={11},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{almorsy2014adaptable,
+  title={Adaptable, Model-driven Security Engineering for SaaS Cloud-based Applications},
+  author={Almorsy, Mohamed and Grundy, John C and Ibrahim, Amani},
+  journal={Automated Software Engineering},
+  volume={21},
+  number={2},
+  year={2014},
+  publisher={Springer}
+}
+
+@inproceedings{avazpour2013tool,
+  title={Tool Support for Automatic Model Transformation Specification Using Concrete Visualisations},
+  author={Avazpour, Iman and Grundy, John C and Grunske, Lars},
+  booktitle={2013 IEEE/ACM International Conference on Automated Software Engineering (ASE 2013)},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{tell2013preliminary,
+  title={A Preliminary User Evaluation of an Infrastructure to Support Activity-Based Computing in Global Software Development (ABC4GSD)},
+  author={Tell, Paolo and Babar, Muhammad Ali and Grundy, John},
+  booktitle={8th IEEE International Conference on Global Software Engineering (ICGSE 2013), Bari, Italy, August 26-29 2013},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{almorsy2013suite,
+  title={A Suite of Domain-Specific Visual Languages For Scientific Software Application Modelling},
+  author={Almorsy, Mohamed and Grundy, John and Sadus, Richard and van Straten, Willem},
+  booktitle={2013 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2013), San Jose, CA, USA, Sept 15-19 2013},
+  year={2013},
+  organization={IEEE}
+}
+
+@incollection{avazpour2014dimensions,
+  title={Dimensions and Metrics for Evaluating Recommendation Systems},
+  author={Avazpour, Iman and Pitakrat, T and Grunske, Lars and Grundy, John C},
+  booktitle={Recommendation Systems in Software Engineering},
+  year={2014},
+  publisher={Springer}
+}
+
+@inproceedings{du2013interaction,
+  title={Interaction Traces Mining for Efficient System Responses Generation},
+  author={Du, M. and Versteeg, S. and Schneider, J-G and Han, J. and Grundy, J.C.},
+  booktitle={2nd International Workshop on Software Mining, 11th Nov 2013, Palo Alto, CA, USA},
+  year={2013}
+}
+
+@article{grundy2014managing,
+  title={Managing Faculty “Over-performance”},
+  author={Grundy, John C.},
+  journal={The Department Chair},
+  volume={24},
+  number={4},
+  year={2014},
+  publisher={Jossey-Bass/Wiley}
+}
+
+@article{kanij2014performance,
+  title={Performance Appraisal of Software Testers},
+  author={Kanij, Tanjila and Merkel, Robert and Grundy, John C.},
+  journal={Information and Software Technology},
+  volume={56},
+  number={5},
+  pages={495--505},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{grundy2000jcomposer,
+  title={JComposer/JViews Tutorial},
+  author={Grundy, John},
+  year={2000}
+}
+
+@inproceedings{chen2014automated,
+  title={Automated Analysis of Performance and Energy  Consumption for Cloud Applications},
+  author={Chen, Feiei and Grundy, John C and Schneider, Jean-Guy and Yang, Yun and He, Qiang},
+  booktitle={2014 ACM/SPEC International Confernce on Performance Engineering},
+  year={2014},
+  organization={ACM}
+}
+
+@inproceedings{kanij2014preliminary,
+  title={A Preliminary Survey of Factors Affecting Software Testers},
+  author={Kanij, Tanjila and Merkel, Robert and Grundy, John C},
+  booktitle={2014 Australasian Conference on Software Engineering (ASWEC 2014)},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{almorsy2014secdsvl,
+  title={SecDSVL: A Domain-Specific Visual Language To Support Enterprise Security Modelling},
+  author={Almorsy, Mohamed and Grundy, John C},
+  booktitle={2014 Australasian Conference on Software Engineering (ASWEC 2014)},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{hoon2013analysis,
+  title={An analysis of the mobile app review landscape: trends and implications},
+  author={Hoon, Leonard and Vasa, Rajesh and Schneider, Jean-Guy and Grundy, John and others},
+  journal={Faculty of Information and Communication Technologies, Swinburne University of Technology, Tech. Rep},
+  year={2013}
+}
+
+@article{grundy2006proceedings,
+  title={Proceedings of the IEEE symposium on visual languages and human-centric computing},
+  author={Grundy, John C and Howse, John},
+  year={2006},
+  publisher={IEEE}
+}
+
+@inproceedings{kamalrudin2014pair,
+  title={A Pair-Oriented Requirements Engineering Approach for Analysing Multi-lingual Requirements},
+  author={Kamalrudin, M. and Sidek, S. and Salleh, N. and Hosking, J.G. and Grundy, John C},
+  booktitle={In 1st Asia-Pacific International Conference on Requirements Engineering (APRES 2014)},
+  year={2014},
+  organization={Springer}
+}
+
+@inproceedings{kamalrudin2014capturing,
+  title={Capturing Security Requirements Using Essential Use Cases (EUCs)},
+  author={Kamalrudin, M. and Yahya, S. and Sidek, S. and Grundy, John C.},
+  booktitle={1st Asia-Pacific International Conference on Requirements Engineering (APRES 2014)},
+  year={2014},
+  organization={Springer}
+}
+
+@article{li2014visual,
+  title={A visual language and environment for enterprise system modelling and automation},
+  author={Li, Lei and Grundy, John C. and Hosking, John G.},
+  journal={Journal of Visual Languages and Computing},
+  volume={25},
+  number={4},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@inproceedings{avazpour2014convert,
+  title={CONVErT Meets KIELER: Integrating Advanced Layout Algorithms into By-Example Visualisations},
+  author={Avazpour, Iman and R{\"u}egg, Ulf and Grundy, John},
+  booktitle={IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC 2014)},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{almorsy2014horuscml,
+  title={HorusCML: Context-aware Domain-Specific Visual Languages Designer},
+  author={Almorsy, Mohamed and Grundy, John and R{\"u}egg, Ulf},
+  booktitle={IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC 2014)},
+  number={I},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{kanij2014empirical,
+  title={An Empirical Study to Review and Revise Job Responsibilities of Software Testers},
+  author={Kanij, Tanjila and Merkel, Robert and Grundy, John},
+  booktitle={IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC 2014)},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1997java,
+  title={A Java-based toolkit for the construction of multi-view editing systems},
+  author={Grundy, JC and Mugridge, WB and Hosking, JG},
+  booktitle={2nd  Component Users Conference (CUC1997)},
+  pages={14--18},
+  year={1997}
+}
+
+@inproceedings{grundy1998static,
+  title={Static and dynamic visualisation of component-based software architectures},
+  author={Grundy, JC and Mugridge, WB and Hosking, JG},
+  booktitle={10th International Conference on Software Engineering and Knowledge Engineering (SEKE 1998)},
+  pages={18--20},
+  year={1998}
+}
+
+@inproceedings{singh2005architecture,
+  title={An Architecture for Developing Aspect-Oriented Web Services},
+  author={Singh, S and Grundy, J and Hosking, J and Sun, J},
+  booktitle={3rd European Conference on Web Services},
+  year={2005}
+}
+
+@article{mugridge1995snart94,
+  title={Snart94 Reference/User Manual},
+  author={Mugridge, WB and Grundy, JC and Hosking, JG and Amor, R},
+  journal={Department of Computer Science, University of Auckland, Auckland, New Zealand},
+  year={1995}
+}
+
+@inproceedings{liu2005visual,
+  title={A visual language and environment for composing web services},
+  author={Liu, Na and Grundy, John and Hosking, John},
+  booktitle={Proceedings of the 20th IEEE/ACM international Conference on Automated software engineering},
+  pages={321--324},
+  year={2005},
+  organization={ACM}
+}
+
+@misc{hirsch2016information,
+  title={Information retrieval and presentation methods and systems},
+  author={Hirsch, Christian and Hosking, John and Grundy, John},
+  year={2016},
+  month=may # "~17",
+  note={US Patent 9,342,908}
+}
+
+@article{hsu2014guest,
+  title={Guest editorial: automated techniques for migrating to the Cloud (I)},
+  author={Hsu, Ching-Hsien and Grundy, John},
+  journal={Automated Software Engineering},
+  volume={21},
+  number={3},
+  pages={315--318},
+  year={2014},
+  publisher={Springer US}
+}
+
+@incollection{whitehead2010collaborative,
+  title={Collaborative software engineering: concepts and techniques},
+  author={Whitehead, Jim and Mistr{\'\i}k, Ivan and Grundy, John and Van der Hoek, Andr{\'e}},
+  booktitle={Collaborative Software Engineering},
+  pages={1--30},
+  year={2010},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@inproceedings{nguyen2014guitar,
+  title={GUITAR: an Ontology-based Automated Requirements Analysis Tool},
+  author={Nguyen, Tuong Huan and Grundy, John and Almorsy, Mohamed},
+  booktitle={IEEE International Conference on Requirements Engineering (RE 2014)},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{ru2014software,
+  title={Software Engineering for Multi-tenancy Computing - Challenges and Implications},
+  author={Ru, Jia and Grundy, John C. and Keung, Jacky},
+  booktitle={2014 FSE Workshop on Innovative Software Development Methodologies and Practices (InnovSWDev 2014)},
+  year={2014}
+}
+
+@article{grundy1998proceedings,
+  title={Proceedings of CBISE’98 CaiSE* 98 workshop on component based information systems engineering},
+  author={Grundy, John C},
+  year={1998},
+  publisher={University of Waikato, Department of Computer Science}
+}
+
+@inproceedings{kamalrudin2014automatic,
+  title={Automatic Acceptance Test Case Generation From Essential Use Cases},
+  author={Kamalrudin, Massila and Aiza, M Nor and Grundy, John and Hosking, John and Robinson, Mark},
+  booktitle={13th International Conference on Intelligent Software Methodologies, Tools, and Techniques (SOMET14),},
+  year={2014},
+  organization={IOS press}
+}
+
+@article{grundy2014determining,
+  title={Determining the cause of design model inconsistencies},
+  author={Grundy, John},
+  journal={Computer},
+  volume={47},
+  number={8},
+  pages={6--6},
+  year={2014},
+  publisher={IEEE}
+}
+
+@article{hsu2014guest,
+  title={Guest editorial: automated techniques for migrating to the cloud (II)},
+  author={Hsu, Ching-Hsien and Grundy, John},
+  journal={Automated Software Engineering},
+  volume={21},
+  number={4},
+  pages={439--442},
+  year={2014},
+  publisher={Springer US}
+}
+
+@inproceedings{maplesden2015subsuming,
+  title={Subsuming Methods: Finding New Optimisation Opportunities in Object-Oriented Software},
+  author={Maplesden, David and Tempero, Ewan and Hosking, John G and Grundy, John C},
+  booktitle={5th ACM/SPEC International Conference on Software Performance Engineering (ICPE 2015)},
+  year={2015},
+  organization={ACM}
+}
+
+@article{kim2015suite,
+  title={A suite of visual languages for model-driven development of statistical surveys and services},
+  author={Kim, Chul H. and Grundy, John C. and Hosking, John G.},
+  journal={Journal of Visual Languages and Computing},
+  volume={26},
+  pages={99--125},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{grundy2005experiences,
+  title={Experiences in generating applications from domain-specific visual languages},
+  author={Grundy, John},
+  year={2005}
+}
+
+@inproceedings{maplesden2015performance,
+  title={Performance Analysis using Subsuming Methods: An Industrial Case Study},
+  author={Maplesden, D. and von Randow, K. and Tempero, E. and Hosking, J.G. and Grundy, John C.},
+  booktitle={IEEE/ACM International Conference on Software Engineering (ICSE 2015)},
+  year={2015},
+  organization={ACM}
+}
+
+@article{maplesden2015performance,
+  title={Performance Analysis for Object-Oriented Software: A Systematic Mapping},
+  author={Maplesden, D. and Tempero, E. and Hosking, J.G. and Grundy, John C.},
+  journal={IEEE Transactions on Software Engineering},
+  volume={41},
+  number={7},
+  year={2015},
+  publisher={IEEE}
+}
+
+@article{avazpour2015generating,
+  title={Generating Reusable Visual Notations using Model Transformation},
+  author={Avazpour, I. and Grundy, John C. and Vu, H.},
+  journal={International Journal of Software Engineering and Knowledge Engineering},
+  volume={25},
+  number={2},
+  year={2015},
+  publisher={World Scientific}
+}
+
+@inproceedings{barnett2015bootstrapping,
+  title={Bootstrapping Mobile App Development},
+  author={Barnett, S. and Vasa, R. and Grundy, John C.},
+  booktitle={2015 IEEE/ACM International Conference on Software Engineering (ICSE 2015), Formal Demonstrations Track, Florence, Italy, 18-23 May 2015},
+  year={2015},
+  organization={ACM}
+}
+
+@inproceedings{chen2015stresscloud,
+  title={StressCloud: A Tool for Analysing Performance and Energy Consumption of Cloud Applications},
+  author={Chen, F. and Grundy, John C. and Schneider, J-G and Yang, Y. and He, Q.},
+  booktitle={2015 IEEE/ACM International Conference on Software Engineering (ICSE 2015), Formal Demonstrations Track, Florence, Italy, 18-23 May 2015},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{grundy1995developing,
+  title={Developing CASE tools that support integrated design notations},
+  author={Grundy, JC and Venable, JR},
+  booktitle={Proceedings of the 6th European Workshop on Next Generation of CASE Tools},
+  pages={109--116},
+  year={1995}
+}
+
+@techreport{apperley1996generic,
+  title={A generic, lightweight collaborative notes and messaging facility for groupware applications},
+  author={Apperley, MD and Gianoutsos, S and Grundy, JC and Paynter, G and Reeves, S and Venable, JR},
+  year={1996},
+  institution={Working Paper, Department of Computer Science, University of Waikato}
+}
+
+@misc{almorsy2013adaptive,
+  title={Adaptive Security Management in SaaS Applications, Chapter 8 in Security, Privacy and Trust in Cloud Systems},
+  author={Almorsy, M and Ibrahim, A and Grundy, JC},
+  year={2013},
+  publisher={Springer}
+}
+
+@inproceedings{yuan2015framework,
+  title={A Framework for Convergence of Cloud Services and Internet of Things},
+  author={Yuan, Dong. and Jin, J. and Grundy, John C. and Yang, Yun},
+  booktitle={19th IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD2015)},
+  year={2015},
+  organization={IEEE}
+}
+
+@techreport{grundy1994integrating,
+  title={Integrating CASE tools via hierarchical data model integration},
+  author={Grundy, JC and Venable, J},
+  year={1994},
+  institution={Working Paper, Department of Computer Science, University of Waikato}
+}
+
+@techreport{grundy1996keeping,
+  title={Keeping textual and graphical views of information consistent},
+  author={Grundy, JC and Hosking, JG},
+  year={1996},
+  institution={Working Paper, Department of Computer Science, University of Waikato}
+}
+
+@inproceedings{helland2006service,
+  title={A service-oriented architecture for software process technology},
+  author={Helland, Therese and Grundy, John C. and Hosking, John G.},
+  booktitle={2006 Australian Software Engineering Conference (ASWEC 2006)},
+  pages={10--pp},
+  year={2006},
+  organization={IEEE}
+}
+
+@article{avazpour2015specifying,
+  title={Specifying Model Transformations by Direct Manipulation using Concrete Visual Notations and Interactive Recommendations},
+  author={Avazpour, I. and Grundy, John C. and Grunske, L.},
+  journal={Journal of Visual Languages and Computing},
+  volume={28},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@inproceedings{almorsy2015supporting,
+  title={Supporting Scientists in Re-engineering Sequential Programs to Parallel Using Model-driven Engineering},
+  author={Almorsy, M. and Grundy, John C.},
+  booktitle={1st ICSE Workshop on Software Engineering for High Performance Computing in Science (SE4HPCS  2015), Florence, Italy, May 19 2015.},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{kanij2015empirical,
+  title={An Empirical Investigation of Personality Traits of Software Testers},
+  author={Kanij, T. and Merkel, R. and Grundy, John C.},
+  booktitle={6th ICSE Workshop on Collaborative and Human Aspects of Software Engineering (CHASE 2015), Florence, Italy, May 18 2015.},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{law2015preliminary,
+  title={A Preliminary Study of Open Learner Model Representation Formats to Support Formative Assessment},
+  author={Law, Check Yee and Grundy, John C. and Cain, Andrew and Vasa, Rajesh},
+  booktitle={2015 IEEE Computer Software and Applications Conference (COMPSAC2015), Taichung, Taiwan, July 1-5, 2015},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{wunsche2005framework,
+  title={A framework for game engine based visualisations},
+  author={W{\"u}nsche, Burkhard C and Kot, Blazej and Gits, Andrew and Amor, Robert and Hosking, John and Grundy, John C.},
+  booktitle={in Proceedings of 2005 Image and Vision Computing New Zealand, Nov. 2005},
+  year={2005}
+}
+
+@inproceedings{ali2007generic,
+  title={A Generic Visual Critic Authoring Tool},
+  author={Ali, Norhayati Mohd},
+  booktitle={Visual Languages and Human-Centric Computing, 2007. VL/HCC 2007. IEEE Symposium on},
+  pages={260--261},
+  year={2007},
+  organization={IEEE}
+}
+
+@inproceedings{chen2015automating,
+  title={Automating Performance and Energy Consumption Analysis for Cloud Applications},
+  author={Chen, F. and Grundy, John .C. and Schneider, J-G and Yang, Y. and He, Q.},
+  booktitle={IEEE SERVICES 2015 Visionary Track: The Future of Software Engineering FOR and IN Cloud, New York, USA, July 31 2015, IEEE.},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{zane2015mobile,
+  title={Mobile Application Testing in Industrial Contexts: An Exploratory Multiple Case Study},
+  author={Zane, S. and Salleh, N. and Grundy, John .C.},
+  booktitle={14th International Conference on Intelligent Software Methodologies, Tools and Techniques (SOMET2015), Naples, Italy, Sept 15-17, 2015},
+  year={2015},
+  organization={Springer}
+}
+
+@article{nguyen2016ontology,
+  title={Ontology-based Automated Support for Goal-Use case Model Analysis},
+  author={Nguyen, H. and Grundy, John C. and Almorsy, M.},
+  journal={Software Quality Journal},
+  volume={24},
+  number={3},
+  pages={635--673},
+  year={2016},
+  publisher={Springer}
+}
+
+@inproceedings{nguyen2015rule,
+  title={Rule-based Extraction of Goal-Use Case Models from Text},
+  author={Nguyen, H. and Grundy, John C and Almorsy, M.},
+  booktitle={10th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE/ESEC 2015), Bargamo, Italy, August 31 -- September 4, 2015},
+  year={2015},
+  organization={ACM Press}
+}
+
+@misc{mistrik2015software,
+  title={Software Quality Assurance},
+  author={Mistrik, I. and Soley, R.M. and Ali, N. and Grundy, John .C. and Tekinerdogan, B.},
+  year={2015},
+  publisher={Morgan Kaufmann}
+}
+
+@inproceedings{cao2005architecture,
+  title={An architecture for generating web-based, thin-client diagramming tools},
+  author={Cao, S. and Grundy, John C. and Hosking, J.G. and Tempero, E. and Zhu, N.},
+  booktitle={Proceedings of the 2004 IEEE International Conference on Automated Software Engineering, Linz, Austria, September},
+  pages={20--24},
+  year={2005}
+}
+
+@inproceedings{law2015stakeholder,
+  title={Stakeholder feedback on open learner model visualisation techniques},
+  author={Law, C.Y. and Grundy, John .C. and Vasa, R. and Cain, A.},
+  booktitle={2015 IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC 2015), Atlanta, USA,18-22 October 2015},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{nguyen2015integrating,
+  title={Integrating Goal-oriented and Use Case-based Requirements Engineering: The Missing Link},
+  author={Nguyen, H. and Grundy, John C. and Almorsy, M.},
+  booktitle={18th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS 2015), Ottawa, Canada, Sept 28-Oct 2 2015},
+  year={2015},
+  organization={Springer}
+}
+
+@inproceedings{yusop2015reporting,
+  title={Reporting Usability Defects: Limitations of Open Source Defect Repositories and Suggestions for Improvement},
+  author={Yusop, N.S.Md. and Grundy, John C. and Vasa, Rajesh},
+  booktitle={2015 Australasian Conference on Software Engineering (ASWEC 2015), Adelaide, Australia, 28 Sept-1 Oct 2015},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{farshchi2015experience,
+  title={Experience Report: Anomaly Detection of Cloud Application Operations Using Log and Cloud Metric Correlation Analysis},
+  author={Farshchi, M. and Schneider, J.G. and Weber, Ingo and Grundy, John C.},
+  booktitle={26th IEEE International Symposium on Software Reliability Engineering, Gaithersburg, Maryland (ISSRE 2015), USA, 2-5 Nov 2015.},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{ru2015providing,
+  title={Providing Fairer Resource Allocation for Multi-tenant Cloud-based Systems},
+  author={Ru, Jia and Grundy, John C. and Keung, Jacky and Yang, Yun and Hao, Lin},
+  booktitle={7th IEEE International Conference on Cloud Computing Technology and Science (CloudCom 2015), Vancouver, BC, Canada, Nov 30-Dec 3, 2015},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{barnett2015multi,
+  title={A Multi-view Framework for Generating Mobile Apps},
+  author={Barnett, S. and Avazpour, I. and Vasa, R. and Grundy, John C.},
+  booktitle={2015 IEEE International Symposium on Visual Languages and Human-Centric Computing, Atlanta, USA, Oct 15-19 2015},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{maplesden2016cost,
+  title={A Cost/Benefit Approach to Performance Analysis},
+  author={Maplesden, D. and Tempero, E. and Hosking, J.G. and Grundy, John C.},
+  booktitle={6th ACM/SPEC International Conference on Software Performance Engineering (ICPE 2015), Delft, Netherlands, 12-18 March, 2016},
+  year={2016},
+  organization={ACM}
+}
+
+@incollection{almorsy2016adaptive,
+  title={Adaptive Software Security},
+  author={Almorsy, M. and Grundy, John C. and Ibrahim, A.},
+  booktitle={Chapter 5 in Managing trade-offs in adaptable software architectures, I. Mistrik, J. Grundy, B. Schmerl, R. Kazman, N. Ali (Eds)},
+  year={2016},
+  publisher={Morgan Kaufmann}
+}
+
+@misc{mistrik2016managing,
+  title={Managing trade-offs in adaptable software architectures},
+  author={Mistrik, I. and Grundy, John C. and Schmerl, B. and Kazman, R. and Ali, N.},
+  year={2016},
+  publisher={Morgan Kaufmann}
+}
+
+@inproceedings{avazpour2016v,
+  title={V for Variety: Lessons Learned From Complex Smart Cities Data Harmonization and Integration},
+  author={Avazpour, Iman and Grundy, John C. and Zhu, Liming},
+  booktitle={First International Workshop on Context-Aware​ Smart Cities ​and Intelligent Transport Systems (AwareCities 2016), Sydney, Australia},
+  year={2016}
+}
+
+@inproceedings{versteeg2016opaque,
+  title={Opaque Service Virtualisation: A Practical Tool for Emulating Endpoint Systems},
+  author={Versteeg, S. and Du, M. and Grundy, John C. and Schneider, J-G and Han, J. and Goyal, M.},
+  booktitle={2016 IEEE/ACM International Conference on Software Engineering (ICSE 2016): Software Engineering in Practice Track, Austin, Texas, 14-22 May 2016},
+  year={2016},
+  organization={ACM}
+}
+
+@article{soomro2016effect,
+  title={The Effect of Software Engineers’ Personality traits on Team Climate and Performance: a Systematic Literature Review},
+  author={Soomro, A.B. and Salleh, N. and Mendes, E. and Grundy, John C. and Burch, G. and Nordin, A.},
+  journal={Information and Software Technology},
+  volume={73},
+  pages={pp--52},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@inproceedings{staples2016continuous,
+  title={Continuous Validation for Data Analytics Systems},
+  author={Staples, Mark and Zhu, Liming and Grundy, John C.},
+  booktitle={2016 IEEE/ACM International Conference on Software Engineering (ICSE 2016), Visions of 2025 and Beyond Track, Austin, Texas, USA, May 14-22 2016},
+  year={2016},
+  organization={ACM}
+}
+
+@article{kamalrudin2017maramaaic,
+  title={MaramaAIC: Tool Support for Consistency Management and Validation of Requirements},
+  author={Kamalrudin, M. and Grundy, John C. and Hosking, John G.},
+  journal={Automated Software Engineering},
+  volume={24},
+  number={1},
+  pages={1--45},
+  year={2017},
+  publisher={Springer}
+}
+
+@inproceedings{knudson2016international,
+  title={International Capstone Exchange -- the SUT and NDSU Experience},
+  author={Knudson, D. and Grundy, John C.},
+  booktitle={2016 Capstone Design Conference, June 6-8, 2016, Columbus, OH, USA.},
+  year={2016}
+}
+
+@inproceedings{moketar2016testmereq,
+  title={TestMEReq: Generating Abstract Tests for Requirements Validation},
+  author={Moketar, N.A. and Kamalrudin, K. and Sidek, S. and Robinson, M. and Grundy, John C.},
+  booktitle={3rd International Workshop on Software Engineering Research and Industrial Practice (SER\&IP)},
+  year={2016}
+}
+
+@inproceedings{versteeg2016enhanced,
+  title={Enhanced Playback of Automated Service Emulation Models Using Entropy Analysis},
+  author={Versteeg, S. and Du, M. and Bird, J. and Schneider, J-G and Grundy, John C.},
+  booktitle={2016  International Workshop on Continuous Software Evolution and Delivery (CSED), May 14-15 2016},
+  year={2016}
+}
+
+@article{zain2016systematic,
+  title={A Systematic Mapping Study of Mobile Application Testing Techniques},
+  author={Zain, Samer and Salleh, Norsaremah and Grundy, John C.},
+  journal={Journal of Systems and Software},
+  volume={117},
+  pages={334--356},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@inproceedings{yusop2016reporting,
+  title={Reporting Usability Defects - Do reporters Report What Software Developers Need?},
+  author={Yusop, N.S.M. and Grundy, John C. and Vasa, R.},
+  booktitle={20th International Conference on Evaluation and Assessment in Software Engineering (EASE2016), Limerick, Ireland, 1-3 June 2016,},
+  year={2016},
+  organization={ACM}
+}
+
+@inproceedings{khalajzadeh2016improving,
+  title={Improving Cloud-based Online Social Network Data Placement and Replication},
+  author={Khalajzadeh, H. and Yuan, Dong and Grundy, John C. and Yang, Yun},
+  booktitle={9th IEEE International Conference on Cloud Computing (IEEE CLOUD 2016), June 27 - July 2, 2016, San Francisco, USA},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{kamalrudin2014mereq,
+  title={MEReq: A Tool to Capture and Validate Multi-Lingual Requirements.},
+  author={Kamalrudin, Massila and Sidek, Safiah and Yusop, Noorrezam and Grundy, John C and Hosking, John G},
+  booktitle={SoMeT},
+  pages={231--245},
+  year={2014}
+}
+
+@misc{du2014message,
+  title={Message matching for opaque service virtualization},
+  author={Du, Miao and Schneider, Jean-Guy and Hine, Cameron Murray and Grundy, John Collis and Han, Jun and Versteeg, Steven Cornelis},
+  year={2014},
+  month=mar # "~24",
+  note={US Patent App. 14/223,607}
+}
+
+@misc{du2014systems,
+  title={Systems and methods for clustering trace messages for efficient opaque response generation},
+  author={Du, Miao and Versteeg, Steven Cornelis and Schneider, Jean-Guy and Han, Jun and Grundy, John Collis},
+  year={2014},
+  month=jun # "~16",
+  note={US Patent App. 14/305,322}
+}
+
+@misc{versteeg2014systems,
+  title={Systems and methods for automatically generating message prototypes for accurate and efficient opaque service emulation},
+  author={Versteeg, Steven Cornelis and Du, Miao and Schneider, Jean-Guy and Grundy, John Collis and Han, Jun},
+  year={2014},
+  month=nov # "~7",
+  note={US Patent App. 14/535,950}
+}
+
+@inproceedings{kamalrudin2010maramaai,
+  title={MaramaAI: Tool support for capturing requirement and checking the inconsistency},
+  author={Kamalrudin, M and Hosking, J and Grundy, John},
+  booktitle={Proc. 21st Australian Software Engineering Conference (ASWEC'10)},
+  year={2010}
+}
+
+@inproceedings{su2009kaitorobase,
+  title={Kaitorobase: Visual exploration of software architecture documents},
+  author={Su, Moon Ting and Hirsch, Christian and Hosking, John},
+  booktitle={Proceedings of the 2009 IEEE/ACM International Conference on Automated Software Engineering},
+  pages={657--659},
+  year={2009},
+  organization={IEEE Computer Society}
+}
+
+@article{tekinerdogan2015quality,
+  title={Quality concerns in large-scale and complex software-intensive systems},
+  author={Tekinerdogan, Bedir and Ali, Nour and Grundy, John and Mistrik, Ivan and Soley, Richard},
+  journal={Software Quality Assurance: In Large Scale and Complex Software-intensive Systems},
+  year={2015},
+  publisher={Morgan Kaufmann}
+}
+
+@inproceedings{liu2016domain,
+  title={A Domain-Specific Visual Modeling Language for Testing Environment Emulation},
+  author={Liu, J. and Grundy, John C. and Abdelrazek, M. and Avazpour, I.},
+  booktitle={2016 IEEE Symposium on Visual Languages and Human-Centric Computing, Cambridge, UK, Sept 4-8 2016},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{law2016stakeholder,
+  title={Stakeholder Feedback on Open Learner Model Visualisation Technique},
+  author={Law, C. and Grundy, John C. and Cain, A. and Vasa, R.},
+  booktitle={2016 IEEE Symposium on Visual Languages and Human-Centric Computing, Cambridge, UK, 4-8 Sept 2016},
+  year={2016},
+  organization={IEEE}
+}
+
+@book{grundy1996proceedings,
+  title={Proceedings of the OzCHI'96 Workshop on the Next Generation of CSCW Systems},
+  author={Grundy, John Collis},
+  year={1996},
+  publisher={Department of Computer Science, University of Waikato}
+}
+
+@inproceedings{abdelrazek2015improving,
+  title={Improving Tenants' Trust in SaaS Applications Using Dynamic Security Monitors},
+  author={Abdelrazek, Mohamed Almorsy and Grundy, John and Ibrahim, Amani S},
+  booktitle={Engineering of Complex Computer Systems (ICECCS), 2015 20th International Conference on},
+  pages={70--79},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{moketar2016automated,
+  title={An Automated Collaborative Requirements Engineering Tool for Better Validation of Requirements},
+  author={Moketar, N.A. and Kamalrudin, M. and Sidek, S. and Robinson, M. and Grundy, John C.},
+  booktitle={2016 IEEE/ACM International Conference on Automated Software Engineering (ASE 2016), Singapore, Sept 3-7, 2016},
+  year={2016},
+  organization={ACM}
+}
+
+@inproceedings{liu2016teevml,
+  title={TeeVML: Tool Support for Semi-Automatic Integration Testing Environment Emulation},
+  author={Liu, J. and Grundy, John C. and Abdelrazek, M. and Avazpour, I.},
+  booktitle={2016 IEEE/ACM International Conference on Automated Software Engineering (ASE 2016), Singapore, Sept 3-7, 2016},
+  year={2016},
+  organization={ACM}
+}
+
+@book{grundy1993integrated,
+  title={Integrated OO System Developing Using SPE},
+  author={Grundy, John Collis and Hosking, John G},
+  year={1993},
+  publisher={University of Auckland, Department of Computer Science}
+}
+
+@inproceedings{grundy2015model,
+  title={Model-Driven Engineering for the Social Enterprise.},
+  author={Grundy, John},
+  booktitle={EDOC},
+  pages={39},
+  year={2015}
+}
+
+@article{grundy2013guest,
+  title={Guest editors introduction: special issue on innovative automated software engineering tools—part\# 2},
+  author={Grundy, John and Hosking, John},
+  journal={Automated Software Engineering},
+  volume={20},
+  number={3},
+  pages={297--298},
+  year={2013},
+  publisher={Springer US}
+}
+
+@article{avazpour2015technical,
+  title={Technical Report Australian Household Travel Survey Data Integration, Harmonization and Visualization},
+  author={Avazpour, Iman and Sadauskas, Ramuna and Grundy, John and Zhu, Liming},
+  year={2015}
+}
+
+@article{grundy1997component,
+  title={Component-based Groupware: Issues and Experiences},
+  author={Grundy, John},
+  journal={CSCW in HCI-worldwide},
+  pages={23},
+  year={1997}
+}
+
+@article{du2015network,
+  title={From network traces to system responses: Opaquely emulating software services},
+  author={Du, Miao and Versteeg, Steve and Schneider, Jean-Guy and Grundy, John and Han, Jun},
+  journal={arXiv preprint arXiv:1510.01421},
+  year={2015}
+}
+
+@inproceedings{dam2016deepsoft,
+  title={DeepSoft: A vision for a deep model of software},
+  author={Dam, H.K. and Tran, T. and Grundy, John C.},
+  booktitle={2016 ACM SIGSOFT International Conference on Foundations of Software Engineering (FSE 2016), Seattle, WA, USA},
+  year={2016},
+  organization={ACM}
+}
+
+@inproceedings{stojmenovic2016does,
+  title={Does Textual Word-of-Mouth Affect Look and Feel?},
+  author={Stojmenovic, M. and Grundy, John C. and Farrell, V. and Biddle, R. and Hoon, L.},
+  booktitle={2016 Australian Conference on Human-Computer Interaction (OZCHI 2016), Launceston, Australia, Nov 29-Dec 2 2016},
+  year={2016},
+  organization={ACM}
+}
+
+@article{lam2017heuristics,
+  title={Heuristics-based Indoor Positioning Systems: A Systematic Literature Review},
+  author={Lam, Luan and Tang, Antony and Grundy, John C.},
+  journal={Journal of Location-Based Services},
+  year={2017},
+  publisher={Taylor \& Francis}
+}
+
+@article{su2016usage,
+  title={Usage-based Chunking of Software Architecture Information to Assist Information Finding},
+  author={Su, M.T. and Hosking, John G. and Grundy, John C. and Tempero, E.},
+  journal={Journal of Systems and Software},
+  volume={122},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{grundy2000proceedings,
+  title={Proceedings of the 3rd Australasian Workshop on Software and System Architectures, Sydney, New South Wales, Australia, 19-20 November 2000},
+  author={Grundy, John and Han, Jun and others},
+  year={2000},
+  publisher={Monash University}
+}
+
+@book{seffah2005multiple,
+  title={Multiple user interfaces: cross-platform applications and context-aware interfaces},
+  author={Seffah, Ahmed and Javahery, Homa},
+  year={2005},
+  publisher={John Wiley \& Sons}
+}
+
+@article{mistrik2010collaborative,
+  title={Collaborative software engineering: Challenges and prospects},
+  author={Mistr{\'\i}k, Ivan and Grundy, John and Hoek, A and Whitehead, Jim},
+  journal={Collaborative Software Engineering},
+  pages={389--403},
+  year={2010}
+}
+
+@inproceedings{dai2001comparing,
+  title={Comparing and contrasting micro-payment models for E-commerce systems, Info-tech and Info-net},
+  author={Dai, Xiaoling and Grundy, John and Lo, BruceWN},
+  booktitle={Proceedings. ICII},
+  year={2001}
+}
+
+@book{moreira2007early,
+  title={Early Aspects: Current Challenges and Future Directions},
+  author={Moreira, Ana and Grundy, John},
+  year={2007},
+  publisher={Springer-Verlag Berlin Heidelberg}
+}
+
+@inproceedings{hirsch2009interactive,
+  title={Interactive visualization tools for exploring the semantic graph of large knowledge spaces},
+  author={Hirsch, Christian and Hoking, John and Grundy, John},
+  booktitle={Workshop on visual interfaces to the social and semantic web (VISSW2009)},
+  year={2009}
+}
+
+@inproceedings{yusop2016influences,
+  title={What Influences Usability Defect Reporting? -- A Survey of Software Development Practitioners},
+  author={Yusop, N.S.M. and Schneider, J-G. and Grundy, John C. and Vasa, R.},
+  booktitle={2016 Asia-Pacific Conference on Software Engineering, Hamilton, New Zealand, Dec 6-9 2016},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{yusop2016automated,
+  title={Automated Support to Capture and Validate Security Requirements for Mobile Apps},
+  author={Yusop, N. and Kamalrudin, N. and Saidek, S. and Grundy, John C.},
+  booktitle={3rd Asia-Pacific Requirements Engineering Symposium (APRES2016) 2016, 10-12 November 2016, Nagoya, Japan},
+  year={2016},
+  organization={Springer}
+}
+
+@misc{grundy1992aspect,
+  title={Aspect-Oriented Software Engineering--a Use Case Driven Approach},
+  author={Grundy, J},
+  year={1992},
+  publisher={Addison-Wesley}
+}
+
+@incollection{avazpour2014dimensions,
+  title={Dimensions and metrics for evaluating recommendation systems},
+  author={Avazpour, Iman and Pitakrat, Teerat and Grunske, Lars and Grundy, John},
+  booktitle={Recommendation systems in software engineering},
+  pages={245--273},
+  year={2014},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@misc{panas20033d,
+  title={A 3d metaphor for software production visualization. IV 2003-International Conference on Computer Visualization and Graphics Applications, 314},
+  author={Panas, T and Berrigan, R and Grundy, JS},
+  year={2003},
+  publisher={IEEE CS Press}
+}
+
+@article{grundy2007early,
+  title={Early Aspects: Current Challenges and Future Directions},
+  author={Grundy, John and Moreira, Ana},
+  year={2007}
+}
+
+@inproceedings{law2017user,
+  title={User Perceptions of Using an Open Learner Model Visualisation Tool for Facilitating Self-regulated Learning},
+  author={Law, C-Y. and Grundy, John C. and Cain, A. and Vasa, R. and Cummaudo, A.},
+  booktitle={2017 Australiasian Computing Education Conference (ACE 2017), Jan 30-Feb 3 2017, Geelong, Australia},
+  year={2017},
+  organization={ACM}
+}
+
+@inproceedings{avazpour2017insights,
+  title={Insights into Visualizing Trajectory Recommendation Rankings},
+  author={Avazpour, I. and Grundy, John C.},
+  booktitle={2017 Australiasian User Interface Conference (AUIC 2017), Jan 30-Feb 3 2017, Geelong, Australia},
+  year={2017},
+  organization={ACM}
+}
+
+@inproceedings{singha2017parametric,
+  title={Parametric Statecharts: Designing Flexible IoT Apps},
+  author={Singha, R. and Narula, A. and Grundy, John C.},
+  booktitle={2017 Australiasian Computer Science Conference (ACSC 2017), Jan 30-Feb 3 2017, Geelong, Australia},
+  year={2017},
+  organization={ACM}
+}
+
+@article{he2017keyword,
+  title={Keyword Search for Building Service-Based Systems},
+  author={He, Qiang and Zhou, Rui and Zhang, X. and Wang, Y. and Ye, D. and Chen, Feifei and Grundy, John C. and Yang, Y.},
+  journal={IEEE Transactions on Software Engineering},
+  year={2017},
+  publisher={IEEE}
+}
+
+@article{lam2017characterising,
+  title={Characterising Indoor Positioning Estimation Using Experimental Data from an Active RFID-based Real Time Location System},
+  author={Lam, Luan and Tang, Antony and Grundy, John C.},
+  journal={Journal of Location-Based Services},
+  year={2017},
+  publisher={Taylor \& Francis}
+}
+
+@article{yusop2017reporting,
+  title={Reporting Usability Defects: A Systematic Literature Review},
+  author={Yusop, N.S.M. and Grundy, John C. and Vasa, Rajesh},
+  journal={IEEE Transactions on Software Engineering,},
+  year={2017},
+  publisher={IEEE}
+}
+
+@inproceedings{liu2017testing,
+  title={Testing Environment Emulation: A Model-Driven Approach},
+  author={Liu, J. and Grundy, John C. and Abdelrazek, M. and Avazpour, I.},
+  booktitle={2017 International Conference on Model-Driven Engineering and Software Development (MODELSWARD 2017), Porto, Portugul, 19-21 February 201},
+  year={2017}
+}
+
+@inproceedings{lam2017predicting,
+  title={Predicting Indoor Spatial Movement Using Data Mining and Movement Patterns},
+  author={Lam, L. and Tang, A. and Grundy, John C.},
+  booktitle={IEEE International Conference on Big Data and Smart Computing (IEEE BigComp 2017), Jeju, Korea, February 13-16, 2017},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{hoda2017systematic,
+  title={Systematic literature reviews in agile software development:a tertiary study},
+  author={Hoda, Rashina and Salleh, Norsaremah and Grundy, John C. and Tee, H.M.},
+  journal={Information and Software Technology},
+  year={2017},
+  publisher={Elsevier}
+}

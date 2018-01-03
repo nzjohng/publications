@@ -1,0 +1,4252 @@
+%0 Journal Article
+%T Inconsistency management for multiple-view software development environments
+%A Grundy, John
+%A Hosking, John
+%A Mugridge, Warwick B
+%J IEEE Transactions on Software Engineering
+%V 24
+%N 11
+%P 960-981
+%D 1998
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Aspect-oriented requirements engineering for component-based software systems
+%A Grundy, John
+%B 1999 IEEE International Symposium on Requirements Engineering (RE'99).
+%P 84-91
+%D 1999
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Design pattern modelling and instantiation using DPML
+%A Mapelsden, David
+%A Hosking, John
+%A Grundy, John
+%B 2002 Conference on Technology of Object-Oriented Languages and Systems Pacific (TOOLS Pacific 2002)
+%P 3-11
+%D 2002
+%I Australian Computer Society, Inc.
+
+
+%0 Journal Article
+%T Multi-perspective specification, design and implementation of software components using aspects
+%A Grundy, John
+%J International Journal of Software Engineering and Knowledge Engineering
+%V 10
+%N 06
+%P 713-734
+%@ 0218-1940
+%D 2000
+%I World Scientific Publishing Company
+
+
+%0 Conference Proceedings
+%T A generic approach to supporting diagram differencing and merging for collaborative design
+%A Mehra, Akhil
+%A Grundy, John
+%A Hosking, John
+%B 20th IEEE/ACM International Conference on Automated Software Engineering (ASE 2005)
+%P 204-213
+%D 2005
+%I ACM
+
+
+%0 Journal Article
+%T A decentralized architecture for software process modeling and enactment
+%A Grundy, John C
+%A Apperley, Mark D
+%A Hosking, John G
+%A Mugridge, Warwick B
+%J IEEE Internet Computing
+%V 2
+%N 5
+%P 53-62
+%D 1998
+%I IEEE
+
+
+%0 Journal Article
+%T Serendipity: integrated environment support for process modelling, enactment and work coordination
+%A Grundy, John C
+%A Hosking, John G
+%J Automated Software Engineering
+%V 5
+%N 1
+%P 27-60
+%D 1998
+%I Springer
+
+
+%0 Conference Proceedings
+%T Pounamu: A meta-tool for multi-view visual language environment construction
+%A Zhu, Nianping
+%A Grundy, John
+%A Hosking, John
+%B 2004 IEEE Symposium on Visual Languages and Human Centric Computing (VL 2004)
+%P 254-256
+%D 2004
+%I IEEE
+
+
+%0 Conference Proceedings
+%T An e-whiteboard application to support early design-stage sketching of UML diagrams
+%A Chen, Qi
+%A Grundy, John
+%A Hosking, John
+%B 2003 IEEE Symposium on Human Centric Computing Languages and Environments (HCC 2003).
+%P 219-226
+%D 2003
+%I IEEE
+
+
+%0 Journal Article
+%T Constructing component-based software engineering environments: issues and experiences
+%A Grundy, John
+%A Mugridge, Warwick
+%A Hosking, John
+%J Information and Software Technology
+%V 42
+%N 2
+%P 103-114
+%@ 0950-5849
+%D 2000
+%I Elsevier
+
+
+%0 Journal Article
+%T Supporting flexible consistency management via discrete change description propagation
+%A Grundy, John C
+%A Hosking, John G
+%A Mugridge, Warwick B
+%J Software - Practice & Experience
+%V 26
+%N 9
+%P 1053-1083
+%D 1996
+%I Wiley
+
+
+%0 Journal Article
+%T SoftArch/MTE: Generating distributed system test-beds from high-level software architecture descriptions
+%A Grundy, John
+%A Cai, Yuhong
+%A Liu, Anna
+%J Automated Software Engineering
+%V 12
+%N 1
+%P 5-39
+%D 2005
+%I Kluwer Academic Publishers
+
+
+%0 Conference Proceedings
+%T High-level static and dynamic visualisation of software architectures
+%A Grundy, John
+%A Hosking, John
+%B 2000 IEEE International Symposium on Visual Languages (VL 2000)
+%P 5-12
+%D 2000
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A 3D metaphor for software production visualization
+%A Panas, Thomas
+%A Berrigan, Rebecca
+%A Grundy, John
+%B 7th IEEE International Conference on Information Visualization (IV 2003)
+%P 314-319
+%D 2003
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Explicit relationships in object-oriented development
+%A Noble, James
+%A Grundy, John
+%B 1995 Conference on Technology of Object-Oriented Languages and Systems Pacific (TOOLS Pacific 1995)
+%V 18
+%P 211-225
+%D 1995
+%I IEEE
+
+
+%0 Journal Article
+%T Developing adaptable user interfaces for component-based systems
+%A Grundy, John
+%A Hosking, John
+%J Interacting with computers
+%V 14
+%N 3
+%P 175-194
+%D 2002
+%I Elsevier
+
+
+%0 Conference Proceedings
+%T Towards an integrated environment for method engineering
+%A Grundy, John C
+%A Venable, John R
+%B IFIP TC8, WG8.1/8.2 Method Engineering 1996 (ME 1996)
+%V 1
+%N 8.2
+%P 45-62
+%D 1996
+
+
+%0 Journal Article
+%T Engineering plug‐in software components to support collaborative work
+%A Grundy, John
+%A Hosking, John
+%J Software: Practice and Experience
+%V 32
+%N 10
+%P 983-1013
+%@ 1097-024X
+%D 2002
+%I John Wiley & Sons, Ltd.
+
+
+%0 Conference Proceedings
+%T Tool integration, collaboration and user interaction issues in component-based software architectures
+%A Grundy, John
+%A Mugridge, Rick
+%A Hosking, John
+%A Apperley, Mark
+%B Technology of Object-Oriented Languages Pacific 1998 (TOOLS 28).
+%P 299-312
+%D 1998
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Support for collaborative, integrated software development
+%A Grundy, John C
+%A Mugridge, Warwick B
+%A Hosking, John G
+%A Amor, Robert W
+%B 1995 Conference on Software Engineering Environments (SEE'95)
+%P 84-94
+%D 1995
+%I IEEE
+
+
+%0 Journal Article
+%T NetPay: An off-line, decentralized micro-payment system for thin-client applications
+%A Dai, Xiaoling
+%A Grundy, John
+%J Electronic Commerce Research and Applications
+%V 6
+%N 1
+%P 91-101
+%@ 1567-4223
+%D 2007
+%I Elsevier
+
+
+%0 Conference Proceedings
+%T Information visualisation utilising 3D computer game engines case study: a source code comprehension tool
+%A Kot, Blazej
+%A Wuensche, Burkhard
+%A Grundy, John
+%A Hosking, John
+%B 6th ACM SIGCHI New Zealand chapter's international conference on Computer-human interaction
+%P 53-60
+%D 2005
+%I ACM
+
+
+%0 Conference Proceedings
+%T Generating domain-specific visual language editors from high-level tool specifications
+%A Grundy, John
+%A Hosking, John
+%A Zhu, Nianping
+%A Liu, Na
+%B 21st IEEE/ACM International Conference on Automated Software Engineering, 2006. ASE'06.
+%P 25-36
+%D 2006
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Marama: an eclipse meta-toolset for generating multi-view environments
+%A Grundy, John
+%A Hosking, John
+%A Huh, Jun
+%A Li, Karen Na-Liu
+%B 30th international Conference on Software Engineering (ICSE 2008)
+%P 819-822
+%D 2008
+%I ACM
+
+
+%0 Conference Proceedings
+%T Developing software components with the UML, Enterprise Java Beans and aspects
+%A Grundy, John
+%A Patel, Rakesh
+%B 2001 Australian Software Engineering Conference (ASWEC 2001).
+%P 127-136
+%D 2001
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Providing integrated support for multiple development notations
+%A Grundy, John
+%A Venable, John
+%B 1995 Conference on Advanced Information Systems Engineering (CAiSE*95)
+%P 255-268
+%D 1995
+%I Springer Berlin/Heidelberg
+
+
+%0 Conference Proceedings
+%T Visual specification of multi-view visual environments
+%A Grundy, John C.
+%A Mugridge, WB
+%A Hosking, John G.
+%B 1998 IEEE Symposium on Visual Languages (VL 1998).
+%P 236-243
+%D 1998
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Ink features for diagram recognition
+%A Patel, Rachel
+%A Plimmer, Beryl
+%A Grundy, John
+%A Ihaka, Ross
+%B 4th Eurographics workshop on Sketch-based interfaces and modeling
+%P 131-138
+%D 2007
+%I ACM
+
+
+%0 Conference Proceedings
+%T Storage and retrieval of Software Components using Aspects
+%A Grundy, John
+%B 23rd Australasian Computer Science Conference (ACSC 2000).
+%P 95-103
+%D 2000
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Performance engineering of service compositions
+%A Grundy, John
+%A Hosking, John
+%A Li, Lei
+%A Liu, Na
+%B 2006 international workshop on Service-oriented software engineering
+%P 26-32
+%D 2006
+%I ACM
+
+
+%0 Conference Proceedings
+%T Realistic load testing of web applications
+%A Draheim, Dirk
+%A Grundy, John
+%A Hosking, John
+%A Lutteroth, Christof
+%A Weber, Gerald
+%B 10th European Conference on Software Maintenance and Reengineering (CSMR 2006)
+%P 11 pp.-70
+%D 2006
+%I IEEE
+
+
+%0 Journal Article
+%T Domain-specific visual languages for specifying and generating data mapping systems
+%A Grundy, John C
+%A Hosking, John G
+%A Amor, RW
+%A Mugridge, Warwick B
+%A Li, Yongqiang
+%J Journal of Visual Languages & Computing
+%V 15
+%N 3
+%P 243-263
+%@ 1045-926X
+%D 2004
+%I Academic Press
+
+
+%0 Journal Article
+%T Constructing integrated software development environments with MViews
+%A Grundy, John C
+%A Hosking, John G
+%J International Journal of Applied Software Technology
+%V 2
+%N 3-4
+%P 133-160
+%D 1995
+
+
+%0 Conference Proceedings
+%T Software architecture modelling, analysis and implementation with SoftArch
+%A Grundy, John
+%B 34th Annual Hawaii International Conference on System Sciences (HICSS 2001)
+%P 9 pp.
+%D 2001
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Supporting traceability and inconsistency management between software artifacts
+%A Olsson, Thomas
+%A Grundy, John
+%B 2002 International Conference on Software Engineering and Applications (SEA 2002)
+%D 2002
+
+
+%0 Book Section
+%T Connecting the pieces
+%A Grundy, John
+%A Hosking, John
+%A Fenwick, Stephen
+%A Mugridge, Warwick
+%B Visual object-oriented programming
+%P 229-252
+%D 1995
+%I Manning Publications Co.
+
+
+%0 Conference Proceedings
+%T Architecture of a micro-payment system for thin-client web applications
+%A Dai, Xiaoling
+%A Grundy, John
+%B 2002 International Conference on Internet Computing (IC 2002)
+%P 24-27
+%D 2002
+
+
+%0 Conference Proceedings
+%T Building multi-device, component-based, thin-client groupware: issues and experiences
+%A Grundy, John
+%A Wang, Xing
+%A Hosking, John
+%B Australian Computer Science Communications
+%V 24
+%N 4
+%P 71-80
+%@ 0909925852
+%D 2002
+%I Australian Computer Society, Inc.
+
+
+%0 Conference Proceedings
+%T Developing .NET web service-based applications with aspect-oriented component engineering
+%A Singh, Santokh
+%A Grundy, John
+%A Hosking, John
+%B 5th Australasian Workshop on Software and System Architectures (AWSA 2004)
+%D 2004
+
+
+%0 Conference Proceedings
+%T Constructing multi-view editing environments using MViews
+%A Grundy, John C
+%A Hosking, John G
+%B 1993 IEEE Symposium on Visual Languages (VL'93)
+%P 220-224
+%D 1993
+%I IEEE
+
+
+%0 Journal Article
+%T SoftArch: Tool support for integrated software architecture development
+%A Grundy, John
+%A Hosking, John
+%J International Journal of Software Engineering and Knowledge Engineering
+%V 13
+%N 02
+%P 125-151
+%@ 0218-1940
+%D 2003
+%I World Scientific Publishing Company
+
+
+%0 Conference Proceedings
+%T Integrating and supporting entity relationship and object role models
+%A Venable, John
+%A Grundy, John
+%B 1995 Conference on Entity-Relationship Modeling (ER'95).
+%P 318-328
+%D 1995
+%I Springer Berlin/Heidelberg
+
+
+%0 Journal Article
+%T Pounamu: A meta-tool for exploratory domain-specific visual language tool development
+%A Zhu, Nianping
+%A Grundy, John
+%A Hosking, John
+%A Liu, Na
+%A Cao, Shuping
+%A Mehra, Akhil
+%J Journal of Systems and Software
+%V 80
+%N 8
+%P 1390-1407
+%@ 0164-1212
+%D 2007
+%I Elsevier
+
+
+%0 Conference Proceedings
+%T Supporting generic sketching-based input of diagrams in a domain-specific visual language meta-tool
+%A Grundy, John
+%A Hosking, John
+%B 29th International Conference on Software Engineering (ICSE 2007).
+%P 282-291
+%D 2007
+%I IEEE
+
+
+%0 Book Section
+%T Software tools
+%A Grundy, John
+%A Hosking, John
+%B Wiley Encyclopedia of Software Engineering, 2nd Edition
+%D 2001
+%I John Wiley & Sons, Inc.
+
+
+%0 Conference Proceedings
+%T Automated data mapping specification via schema heuristics and user interaction
+%A Bossung, Sebastian
+%A Stoeckle, Hermann
+%A Grundy, John
+%A Amor, Robert
+%A Hosking, John
+%B 19th International Conference on Automated Software Engineering (ASE 2004)
+%P 208-217
+%D 2004
+%I IEEE
+
+
+%0 Conference Proceedings
+%T An environment for developing adaptive, multi-device user interfaces
+%A Grundy, John
+%A Yang, Biao
+%B 4th Australasian user interface conference on User interfaces (AUIC'2003)
+%P 47-56
+%D 2003
+%I Australian Computer Society, Inc.
+
+
+%0 Conference Proceedings
+%T A visual language and environment for composing web services
+%A Liu, Na
+%A Grundy, John
+%A Hosking, John
+%B 20th IEEE/ACM international Conference on Automated software engineering (ASE 2005)
+%P 321-324
+%D 2005
+%I ACM
+
+
+%0 Conference Proceedings
+%T Generating EDI message translations from visual specifications
+%A Grundy, John
+%A Mugridge, Rick
+%A Hosking, John
+%A Kendall, Paul
+%B 16th Annual International Conference on Automated Software Engineering (ASE 2001)
+%P 35-42
+%D 2001
+%I IEEE
+
+
+%0 Conference Proceedings
+%T The Visual Wiki: A new metaphor for knowledge access and management
+%A Hirsch, Christian
+%A Hosking, John
+%A Grundy, John
+%A Chaffe, Tim
+%A MacDonald, David
+%A Halytskyy, Yuriy
+%B 42nd Hawaii International Conference on System Sciences (HICSS'2009).
+%P 1-10
+%D 2009
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Low-level and high-level CSCW support in the Serendipity process modelling environment
+%A Grundy, John C
+%A Hosking, John G
+%A Mugridge, Warwick B
+%B Sixth Australian Conference on Computer-Human Interaction (OZCHI 1996)
+%P 69-76
+%D 1996
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Comparing and contrasting micro-payment models for E-commerce systems
+%A Dai, Xiaoling
+%A Grundy, John
+%A Lo, Bruce WN
+%B International Conferences on Info-tech and Info-net (ICII 2001)
+%V 6
+%P 35-41 vol. 6
+%D 2001
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Automatic validation of deployed J2EE components using aspects
+%A Grundy, John
+%A Ding, Guoliang
+%B 17th IEEE International Conference on Automated Software Engineering (ASE 2002)
+%P 47-56
+%D 2002
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Engineering component-based, user-configurable collaborative editing systems
+%A Grundy, John C
+%B IFIP TC2/TC13 WG2 Conference on Engineering for Computer-Human Interaction (ECHI 1998)
+%V 7
+%P 111-128
+%D 1998
+
+
+%0 Journal Article
+%T Deployed software component testing using dynamic validation agents
+%A Grundy, John
+%A Ding, Guoliang
+%A Hosking, John
+%J Journal of Systems and Software
+%V 74
+%N 1
+%P 5-14
+%@ 0164-1212
+%D 2005
+%I Elsevier
+
+
+%0 Conference Proceedings
+%T Experiences Integrating and Scaling a Performance Test Bed Generator with an Open Source CASE Tool
+%A Cai, Yuhong
+%A Grundy, John
+%A Hosking, John
+%B 19th International Conference on Automated Software Engineering (ASE 2004)
+%P 36-45
+%D 2004
+%I IEEE
+
+
+%0 Conference Proceedings
+%T External requirements of groupware development tools
+%A Graham, TC Nicholas
+%A Grundy, John
+%B Engineering for Human-Computer Interaction (EHCI 1998)
+%P 363-376
+%D 1998
+%I Kluwer: Dordrecht
+
+
+%0 Journal Article
+%T Empirical studies of pair programming for CS/SE teaching in higher education: A systematic literature review
+%A Salleh, Norsaremah
+%A Mendes, Emilia
+%A Grundy, John
+%J IEEE Transactions on Software Engineering
+%V 37
+%N 4
+%P 509-525
+%D 2011
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Supporting collaborative software design with a plug-in, web services-based architecture
+%A Mehra, Akhil
+%A Grundy, John
+%A Hosking, John
+%B Workshop on Directions in Software Engineering Environments (WoDiSEE) from Proceedings of the 26th International Conference on Software Engineering (ICSE’04)
+%D 2004
+
+
+%0 Conference Proceedings
+%T Coordinating distributed software development projects with integrated process modelling and enactment environments
+%A Grundy, John
+%A Hosking, John
+%A Mugridge, Rick
+%B Seventh IEEE International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WET ICE 1998)
+%P 39-44
+%D 1998
+%I IEEE
+
+
+%0 Conference Proceedings
+%T An approach to developing web services with aspect-oriented component engineering
+%A Grundy, John
+%A Panas, Thomas
+%A Singh, Santokh
+%A Stöckle, Hermann
+%B 2003 Nordic Conference on Web Services (NCWS 2003)
+%D 2003
+
+
+%0 Book Section
+%T A visual language for design pattern modelling and instantiation
+%A Maplesden, David
+%A Hosking, John
+%A Grundy, John
+%B Design Patterns Formalization Techniques, Toufik Taibi (Ed), Idea Group Inc., Hershey, USA, March 2007.
+%P 338-339
+%D 2007
+%I Idea Publishing
+
+
+%0 Conference Proceedings
+%T Architecture for a Component-based, Plug-in Micro-payment System
+%A Dai, Xiaoling
+%A Grundy, John
+%B 5th Asia-Pacific Web Conference (APWeb 2003), September 27-29 2003, Xi’an, China, Springer LNCS 2642, pp. 251-262.
+%P 251-262
+%D 2003
+%I Springer
+
+
+%0 Conference Proceedings
+%T A data collection tool for sketched diagrams
+%A Blagojevic, Rachel
+%A Plimmer, Beryl
+%A Grundy, John
+%A Wang, Yong
+%B 5th Eurographics conference on Sketch-Based Interfaces and Modeling
+%P 73-80
+%D 2008
+%I Eurographics Association
+
+
+%0 Conference Proceedings
+%T Beautifying sketching-based design tool content: issues and experiences
+%A Plimmer, Beryl
+%A Grundy, John
+%B 6th Australasian conference on User interface (AUIC2005)
+%P 31-38
+%D 2005
+%I Australian Computer Society, Inc.
+
+
+%0 Conference Proceedings
+%T Collaborative work with the World Wide Web: adding CSCW support to a Web browser
+%A Gianoutsos, Simon
+%A Grundy, John
+%B Oz-CSCW 1996
+%V 96
+%P 14-21
+%D 1996
+
+
+%0 Conference Proceedings
+%T Maramatatau: Extending a domain specific visual language meta tool with a declarative constraint mechanism
+%A Liu, Na
+%A Hosking, John
+%A Grundy, John
+%B 2007 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2007)
+%P 95-103
+%D 2007
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Supporting aspect-oriented component-based systems engineering
+%A Grundy, JC
+%B 11th International Conference on Software Engineering and Knowledge Engineering (SEKE1999)
+%P 16-19
+%D 1999
+
+
+%0 Conference Proceedings
+%T A data mapping specification environment using a concrete business form-based metaphor
+%A Li, Yongqiang
+%A Grundy, John
+%A Amor, Robert
+%A Hosking, John
+%B IEEE 2002 Symposia on Human Centric Computing Languages and Environments (HCC 2002).
+%P 158-166
+%D 2002
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Three Kinds of E-wallets for a NetPay Micro-payment System
+%A Dai, Xiaoling
+%A Grundy, John
+%B 2004 International Conference on Web Information Systems (WISE 2004)
+%P 66-77
+%D 2004
+%I Springer Berlin/Heidelberg
+
+
+%0 Conference Proceedings
+%T Cover yourself with Skin
+%A Hosking, JG
+%A Fenwick, Stephen
+%A Mugridge, WB
+%A Grundy, JC
+%B Proc. OZCHI’95
+%P 101-106
+%D 1995
+
+
+%0 Book Section
+%T AUIT: Adaptable user interface technology with extended Java Server pages
+%A Grundy, John
+%A Zou, Wenjing
+%B Multiple User Interfaces
+%P 149-167
+%D 2004
+%I John Wiley & Sons, Ltd
+
+
+%0 Conference Proceedings
+%T A visual programming environment for object-oriented languages
+%A Grundy, John Collis
+%A Hosking, JG
+%A Hamer, J
+%B Technology of Object-oriented Languages and Systems V (TOOLS USA’91)
+%P 129-138
+%D 1991
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Extending a persistent object framework to enhance enterprise application server performance
+%A Grundy, John
+%A Newby, Steve
+%A Whitmore, Thomas
+%A Grundeman, Peter
+%B 2002 Australian Database Conference (ADC 2002)
+%V 24
+%N 2
+%P 57-64
+%D 2002
+%I Australian Computer Society, Inc.
+
+
+%0 Conference Proceedings
+%T An empirical study of the effects of personality in pair programming using the five-factor model
+%A Salleh, Norsaremah
+%A Mendes, Emilia
+%A Grundy, John
+%A Burch, Giles St J
+%B 2009 3rd International Symposium on Empirical Software Engineering and Measurement (ESEM2009)
+%P 214-225
+%D 2009
+%I IEEE Computer Society
+
+
+%0 Conference Proceedings
+%T Developing adaptable user interfaces for component-based systems
+%A Grundy, John
+%A Hosking, John
+%B First Australasian User Interface Conference (AUIC 2000)
+%P 17-25
+%D 2000
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Off-line micro-payment system for content sharing in P2P networks
+%A Dai, Xiaoling
+%A Grundy, John
+%B International Conference on Distributed Computing and Internet Technology
+%P 297-307
+%D 2005
+%I Springer Berlin Heidelberg
+
+
+%0 Journal Article
+%T Coordinating, capturing and presenting work contexts in CSCW systems
+%A Grundy, John C
+%A Mugridge, Warwick B
+%A Hosking, John G
+%A Apperley, Mark D
+%J OZCHI'95
+%P 28-30
+%D 1995
+
+
+%0 Conference Proceedings
+%T A comparative analysis of design principles for project-based IT courses
+%A Grundy, John
+%B 2nd Australasian conference on Computer science education (ACE1997)
+%P 170-177
+%D 1997
+%I ACM
+
+
+%0 Journal Article
+%T Customer perceptions of a thin-client micro-payment system: issues and experiences
+%A Dai, Xiaoling
+%A Grundy, John
+%J Advanced Topics in End User Computing
+%V 3
+%P 143
+%@ 1591402972
+%D 2004
+%I IGI Global
+
+
+%0 Conference Proceedings
+%T Approaches to supporting software visual notation exchange
+%A Stoeckle, Hermann
+%A Grundy, John
+%A Hosking, John
+%B 2003 IEEE Conference on Human Centric Computing Languages and Environments (HCC 2003)
+%P 59-66
+%D 2003
+%I IEEE
+
+
+%0 Journal Article
+%T SUMLOW: early design-stage sketching of UML diagrams on an E-whiteboard
+%A Chen, Qi
+%A Grundy, John
+%A Hosking, John
+%J Softw., Pract. Exper.
+%V 38
+%N 9
+%P 961-994
+%D 2008
+
+
+%0 Conference Proceedings
+%T Visual Modelling of Complex Business Processes with Trees, Overlays and Distortion-based Displays
+%A Li, Lei
+%A Hosking, John
+%A Grundy, John
+%B 2007 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2007)
+%P 137-144
+%D 2007
+%I IEEE
+
+
+%0 Book Section
+%T Web-enabling an integrated health informatics system
+%A Petrovski, Angel
+%A Grundy, John
+%B OOIS 2001
+%P 477-485
+%@ 1852335467
+%D 2001
+%I Springer London
+
+
+%0 Conference Proceedings
+%T Generating mobile device user interfaces for diagram-based modelling tools
+%A Zhao, Dejin
+%A Grundy, John
+%A Hosking, John
+%B 7th Australasian User interface conference (AUIC2006)
+%P 101-108
+%D 2006
+%I Australian Computer Society, Inc.
+
+
+%0 Conference Proceedings
+%T Experiences with facilitating student learning in a group information systems project course
+%A Grundy, John C
+%B International Conference on Software Engineering: Education and Practice (SEE&P 1996)
+%P 12-19
+%D 1996
+%I IEEE
+
+
+%0 Conference Proceedings
+%T An environment for automated performance evaluation of J2EE and ASP. NET thin-client architectures
+%A Grundy, John
+%A Wei, Zhong
+%A Nicolescu, Radu
+%A Cai, Yuhong
+%B 2004 Australian Software Engineering Conference (ASWEC 2004)
+%P 300-308
+%D 2004
+%I IEEE
+
+
+%0 Journal Article
+%T Supporting large-scale end user specification of workflows, work coordination and tool integration
+%A Grundy, John
+%A Hosking, John
+%A Mugridge, Warwick
+%J Journal of Organizational and End User Computing (JOEUC)
+%V 10
+%N 2
+%P 38-48
+%@ 1546-2234
+%D 1998
+%I IGI Global
+
+
+%0 Conference Proceedings
+%T Supporting dynamic software tool integration via web service-based components
+%A Yap, Nelson
+%A Chiong, Hau Chean
+%A Grundy, John
+%A Berrigan, Rebecca
+%B 2005 Australian Software Engineering Conference (ASWEC 2005)
+%P 160-169
+%D 2005
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Support for constructing environments with multiple views
+%A Grundy, John C
+%A Hosking, John G
+%A Mugridge, Warwick B
+%A Amor, Robert W
+%B 2nd international software architecture workshop (ISAW-2) and international workshop on multiple perspectives in software development (Viewpoints' 96) on SIGSOFT'96 workshops
+%P 212-216
+%D 1996
+%I ACM
+
+
+%0 Conference Proceedings
+%T A method and support environment for distributed software component engineering
+%A Grundy, John
+%B International Conference on Software Methods and Tools. (SMT 2000)
+%P 157-166
+%D 2000
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A domain specific visual language for design and coordination of supply networks
+%A Hosking, John
+%A Mehandjiev, Nikolay
+%A Grundy, John
+%B 2008 IEEE Symposium onVisual Languages and Human-Centric Computing (VL/HCC 2008)
+%P 109-112
+%D 2008
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Directions in modelling large-scale software architectures
+%A Grundy, John
+%A Hosking, John
+%B International Conference on Software Methods and Tools. (SMT 2000)
+%P 31-40
+%D 2000
+%I IEEE
+
+
+%0 Conference Proceedings
+%T An aspect-oriented UML tool for software development with early aspects
+%A Wang, Yang
+%A Singh, Santokh
+%A Hosking, John
+%A Grundy, John
+%B 2006 international workshop on Early aspects at ICSE
+%P 51-58
+%D 2006
+%I ACM
+
+
+%0 Conference Proceedings
+%T Thinkbase: A visual semantic wiki
+%A Hirsch, Christian
+%A Grundy, John
+%A Hosking, John
+%B Proceedings of the 2007 International Conference on Posters and Demonstrations-Volume 401
+%P 118-119
+%D 2008
+%I CEUR-WS. org
+
+
+%0 Conference Proceedings
+%T A visual language and environment for specifying user interface event handling in design tools
+%A Liu, Na
+%A Hosking, John
+%A Grundy, John
+%B 8th Australasian conference on User interfaces (AUIC 2007)
+%P 87-94
+%D 2007
+%I Australian Computer Society, Inc.
+
+
+%0 Conference Proceedings
+%T Software environment support for integrated formal program specification and development
+%A Grundy, John C
+%A Hosking, John G
+%B 1995 Asia Pacific Software Engineering Conference (APSEC 1995)
+%P 264-273
+%D 1995
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Towards a unified event-based software architecture
+%A Grundy, John C
+%A Hosking, John G
+%A Mugridge, Warwick B
+%B 2nd international software architecture workshop (ISAW-2)
+%P 121-125
+%D 1996
+%I ACM
+
+
+%0 Conference Proceedings
+%T Comparing and Contrasting Micro-payment Models for Content Sharing in P2P Networks
+%A Dai, Xiaoling
+%A Chaudhary, Kaylash
+%A Grundy, John
+%B Third International IEEE Conference on Signal-Image Technologies and Internet-Based System (SITIS'07)
+%P 347-354
+%D 2007
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A visual language and environment for specifying design tool event handling
+%A Liu, Na
+%A Hosking, John
+%A Grundy, John
+%B 2005 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2005)
+%P 278-280
+%D 2005
+%I IEEE
+
+
+%0 Journal Article
+%T Visual specification and monitoring of software agents in decentralized process-centred environments
+%A Grundy, John
+%J International Journal of Software Engineering and Knowledge Engineering
+%V 9
+%N 04
+%P 425-444
+%@ 0218-1940
+%D 1999
+%I World Scientific Publishing Company
+
+
+%0 Conference Proceedings
+%T An architecture for efficient, flexible enterprise system integration
+%A Grundy, John C.
+%A Bai, Jun
+%A Blackham, John
+%A Hosking, John G.
+%A Amor, Robert
+%A Parnell, Auckland
+%A Zealand, New
+%B 2003 International Conference on Internet Computing (IC 2003)
+%P 23-26
+%D 2003
+
+
+%0 Conference Proceedings
+%T Adding group awareness to design tools using a plug-in, web service-based approach
+%A Mehra, Akhil
+%A Grundy, JC
+%A Hosking, JG
+%B Sixth International Workshop on Collaborative Editing Systems, CSCW 2004
+%D 2004
+%I ACM
+
+
+%0 Conference Proceedings
+%T Inking in the IDE: Experiences with Pen-based Design and Annotatio
+%A Plimmer, Beryl
+%A Grundy, John
+%A Hosking, John
+%A Priest, Richard
+%B 2006 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2006)
+%P 111-115
+%D 2006
+%I IEEE
+
+
+%0 Conference Proceedings
+%T An implementation architecture for aspect-oriented component engineering
+%A Grundy, John C.
+%B 5th International Conference on Parallel and Distributed Processing Techniques and Applications: Special Session on Aspect-oriented Programming
+%D 2000
+
+
+%0 Conference Proceedings
+%T A suite of visual languages for statistical survey specification
+%A Kim, Chul Hwee
+%A Hosking, John
+%A Grundy, John
+%B 2005 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2005)
+%P 19-26
+%D 2005
+%I IEEE
+
+
+%0 Conference Proceedings
+%T An analysis of the cloud computing security problem
+%A Almorsy, Mohamed
+%A Grundy, John
+%A Müller, Ingo
+%B 2010 Asia Pacific Cloud Workshop, Colocated with APSEC2010, Australia
+%D 2010
+
+
+%0 Conference Proceedings
+%T An empirical study of the effects of conscientiousness in pair programming using the five-factor personality model
+%A Salleh, Norsaremah
+%A Mendes, Emilia
+%A Grundy, John
+%A Burch, Giles St J
+%B 32nd ACM/IEEE International Conference on Software Engineering (ICSE 2010)
+%P 577-586
+%D 2010
+%I ACM
+
+
+%0 Conference Proceedings
+%T Supporting Pervasive Business via Virtual Database Aggregation
+%A Blackham, John
+%A Grundeman, Peter
+%A Grundy, JC
+%A Hosking, JG
+%A Mugridge, WB
+%B Evolve 2001
+%P 15-16
+%D 2001
+
+
+%0 Journal Article
+%T Developing software components with aspects: Some issues and experiences
+%A Grundy, John
+%A Hosking, John
+%J Chapter 25 in Aspect-Oriented Software Development
+%P 585-604
+%D 2004
+
+
+%0 Conference Proceedings
+%T Experiences in using java on a software tool integration project
+%A Grundy, John
+%A Hosking, John
+%A Mugridge, Rick
+%B 1998 International Conference Software Engineering: Education & Practice (SEEP 1998)
+%P 286-293
+%D 1998
+%I IEEE
+
+
+%0 Journal Article
+%T A framework for visual notation exchange
+%A Stoeckle, Hermann
+%A Grundy, John
+%A Hosking, John
+%J Journal of Visual Languages & Computing
+%V 16
+%N 3
+%P 187-212
+%@ 1045-926X
+%D 2005
+%I Elsevier
+
+
+%0 Conference Proceedings
+%T EML: A tree overlaybased visual language for business process modelling
+%A Li, Lei
+%A Hosking, John
+%A Grundy, John
+%B 2007 International Conference on Enterprise Information Systems (ICEIS 2007)
+%V 7
+%P 13-19
+%D 2007
+
+
+%0 Journal Article
+%T The MViews framework for constructing multi-view editing environments
+%A Grundy, John C
+%A Hosking, John G
+%J New Zealand Journal of Computing
+%V 4
+%N 2
+%P 31-40
+%D 1993
+%I Citeseer
+
+
+%0 Conference Proceedings
+%T Towards a constructor kit for visual notations
+%A Mugridge, Warwick B
+%A Hosking, John G
+%A Grundy, John
+%B Sixth Australian Conference on Computer-Human Interaction (OZCHI 1996)
+%P 169-176
+%D 1996
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Directions in engineering non-functional requirement compliant middleware applications
+%A Grundy, JC
+%A Liu, Anna
+%B 3rd Australasian Workshop on Software and Systems Architectures (AWSSA 2000)
+%D 2000
+
+
+%0 Conference Proceedings
+%T Emerging security challenges of cloud virtual infrastructure
+%A Ibrahim, Amani S
+%A Hamlyn-harris, James Hamlyn
+%A Grundy, John
+%B 2010 Asia Pacific Cloud Workshop, Colocated with APSEC2010, Australia
+%D 2010
+
+
+%0 Conference Proceedings
+%T Synthesizing client load models for performance engineering via web crawling
+%A Cai, Yuhong
+%A Grundy, John
+%A Hosking, John
+%B 22nd IEEE/ACM International conference on Automated software engineering (ASE 2007)
+%P 353-362
+%D 2007
+%I ACM
+
+
+%0 Conference Proceedings
+%T Constructing domain-specific design tools with a visual language meta-tool
+%A Zhu, Nianping
+%A Grundy, JC
+%A Hosking, JG
+%B 2005 Conference on Advanced Information Systems Engineering (CAiSE 2005)
+%P 139-144
+%D 2005
+
+
+%0 Conference Proceedings
+%T Managing consistency between textual requirements, abstract interactions and Essential Use Cases
+%A Kamalrudin, Massila
+%A Grundy, John
+%A Hosking, John
+%B IEEE 34th Annual Computer Software and Applications Conference (COMPSAC 2010)
+%P 327-336
+%D 2010
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Serving up a Banquet: Towards an environment supporting all aspects of software development
+%A Grundy, John C
+%A Hosking, John G
+%A Mugridge, Warwick B
+%B International Conference on Software Engineering: Education and Practice (SEE&P 1996)
+%P 465-472
+%D 1996
+%I IEEE
+
+
+%0 Conference Proceedings
+%T MViews: A Framework for Developing Visual Programming Environments.
+%A Grundy, John C
+%A Hosking, John G
+%B TOOLS (12/9)
+%P 465-473
+%D 1992
+
+
+%0 Conference Proceedings
+%T Exploring better techniques for diagram recognition
+%A Patel, Rachel Venita
+%A Plimmer, Beryl
+%A Grundy, John
+%A Ihaka, Ross
+%B 2007 New Zealand Computer Science Research Students Conference
+%D 2007
+%I Computer Science, University of Auckland
+
+
+%0 Conference Proceedings
+%T Human Interaction Issues for User-configurable Collaborative Editing Systems
+%A Grundy, John C
+%B 1st Asia-Pacific Human Computer Interaction Conference (APCHI 1998)
+%D 1998
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Off-line micro-payment protocol for multiple vendors in mobile commerce
+%A Dai, Xiaoling
+%A Ayoade, Oluwatomi
+%A Grundy, John
+%B Seventh International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT'06)
+%P 197-202
+%D 2006
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Integrating a zoomable user interfaces concept into a visual language meta-tool environment
+%A Liu, Na
+%A Hosking, John
+%A Grundy, John
+%B 2004 IEEE Symposium on Visual Languages and Human Centric Computing (VL/HCC 2004)
+%P 38-40
+%D 2004
+%I IEEE
+
+
+%0 Journal Article
+%T Semi-automatic discovery of mapping rules to match XML Schemas
+%A Boßung, Sebastian
+%A Grundy, John
+%A Hosking, John
+%J Department of Computer Science, The University of Auckland, 71pp
+%D 2003
+
+
+%0 Conference Proceedings
+%T A model driven approach to care planning systems for consumer engagement in chronic disease management
+%A Khambati, Abizer
+%A Warren, Jim
+%A Grundy, John
+%A Hosking, John
+%B 2008 Australia's Health Informatics Conference (HIC 2008)
+%D 2008
+%I Health Informatics Society of Australia Ltd (HISA)
+
+
+%0 Conference Proceedings
+%T Improving agile software development using extreme AOCE and aspect-oriented CVS
+%A Singh, Santokh
+%A Chen, H-C
+%A Hunter, Oliver
+%A Grundy, John
+%A Hosking, John
+%B 12th Asia-Pacific Software Engineering Conference (APSEC 2005)
+%P 8 pp.
+%D 2005
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Experiences Developing a Collaborative Travel Planning Application with .NET Web Services
+%A White, Philip
+%A Grundy, John
+%B 1st International Conference on Web Services (ICWS 2003)
+%D 2003
+
+
+%0 Conference Proceedings
+%T A domain-specific visual language for report writing using Microsoft DSL tools
+%A Dantra, Ruskin
+%A Grundy, John
+%A Hosking, John
+%B 2009 IEEE Symposium onVisual Languages and Human-Centric Computing (VL/HCC 2009)
+%P 15-22
+%D 2009
+%I IEEE
+
+
+%0 Journal Article
+%T Visualising Event-based Software Systems: Issues and Experiences
+%A Grundy, John C
+%A Hosking, John G
+%A Mugridge, Warwick B
+%J SoftVis97
+%D 1997
+
+
+%0 Conference Proceedings
+%T Model-driven development of mobile personal health care applications
+%A Khambati, Abizer
+%A Grundy, John
+%A Warren, James
+%A Hosking, John
+%B 23rd IEEE/ACM International Conference on Automated Software Engineering (ASE2008)
+%P 467-470
+%D 2008
+%I IEEE Computer Society
+
+
+%0 Conference Proceedings
+%T Tool support for essential use cases to better capture software requirements
+%A Kamalrudin, Massila
+%A Grundy, John
+%A Hosking, John
+%B 25th IEEE/ACM international conference on Automated software engineering (ASE 2010)
+%P 255-264
+%D 2010
+%I ACM
+
+
+%0 Conference Proceedings
+%T Summary of the INTERACT97 Workshop on the Next Generation of CSCW Systems
+%A Grundy, John
+%B Human-Computer Interaction INTERACT’97
+%P 699-700
+%@ 147575437X
+%D 1997
+%I Springer US
+
+
+%0 Conference Proceedings
+%T Flexible modeling tools (flexitools2010)
+%A Ossher, Harold
+%A van der Hoek, André
+%A Storey, Margaret-Anne
+%A Grundy, John
+%A Bellamy, Rachel
+%B 32nd ACM/IEEE International Conference on Software Engineering (ICSE2010)
+%P 441-442
+%D 2010
+%I ACM
+
+
+%0 Conference Proceedings
+%T A visual language and environment for EDI message translation
+%A Grundy, John
+%A Mugridge, Rick
+%A Hosking, John
+%A Kendall, Paul
+%B Proceedings IEEE Symposia on Human-Centric Computing Languages and Environments (VL/HCC 2001)
+%P 330-331
+%D 2001
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Distributed component engineering using a decentralised, internet-based environment
+%A Grundy, John
+%B 3rd ICSE Workshop on Software Engineering over the Internet, Limerick, Ireland, June 2000
+%D 2000
+
+
+%0 Conference Proceedings
+%T Support for end-user specification of work coordination in workflow systems
+%A Grundy, John C
+%A Hosking, John G
+%A Mugridge, Warwick B
+%B Proceedings of the 2nd International Workshop on End-User Development, Barcelona, Spain
+%D 1997
+
+
+%0 Conference Proceedings
+%T Notation exchange converters for software architecture development
+%A Stoeckle, Hermann
+%A Grundy, John
+%A Hosking, John
+%B 11th ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2003)
+%D 2003
+
+
+%0 Conference Proceedings
+%T The effects of neuroticism on pair programming: An empirical study in the higher education context
+%A Salleh, Norsaremah
+%A Mendes, Emilia
+%A Grundy, John
+%A Burch, Giles St J
+%B 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2010)
+%P 22
+%D 2010
+%I ACM
+
+
+%0 Conference Proceedings
+%T Integrated object-oriented software development in SPE
+%A Grundy, John C
+%A Hoking, JG
+%B Proceedings of the 13th NZCS Conference, Aucland, New Zealand
+%D 1993
+%I NZCS
+
+
+%0 Conference Proceedings
+%T Deploying Multi-Agents for Intelligent Aspect-Oriented Web Services
+%A Singh, Santokh
+%A Hosking, John
+%A Grundy, John
+%B Pacific Rim International Workshop on Multi-Agents
+%P 284-296
+%D 2005
+%I Springer Berlin Heidelberg
+
+
+%0 Conference Proceedings
+%T Generating web-based user interfaces for diagramming tools
+%A Cao, Shuping
+%A Grundy, John
+%A Hosking, John
+%A Stoeckle, Hermann
+%A Tempero, Ewan
+%A Zhu, Nianping
+%B Sixth Australasian conference on User interface (AUIC 2005)
+%P 63-72
+%D 2005
+%I Australian Computer Society, Inc.
+
+
+%0 Conference Proceedings
+%T Vixels, createthroughs, dragthroughs and attachment regions in BuildByWire
+%A Mugridge, WB
+%A Hosking, JG
+%A Grundy, JC
+%B 1998 Australian Computer Human Interaction Conference (OZCHI 1998)
+%P 320-327
+%D 1998
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Utilising past event histories in a process-centred software engineering environment
+%A Grundy, John C
+%A Mugridge, Warwick B
+%A Hosking, John G
+%B 1997 Australian Software Engineering Conference (ASWEC 1997)
+%P 127-136
+%D 1997
+%I IEEE
+
+
+%0 Conference Proceedings
+%T MaramaAI: Automated and Visual Approach for Inconsistency Checking of Requirements
+%A Kamalrudin, Massila
+%A Hosking, John
+%A Grundy, John
+%B 18th IEEE International Requirements Engineering Conference (RE 2010)
+%P 393-394
+%D 2010
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Critic Authoring Templates for Specifying Domain-Specific Visual Language Tool Critics
+%A Ali, Norhayati Mohd
+%A Hosking, John
+%A Huh, Jun
+%A Grundy, John
+%B 2009 Australian Software Engineering Conference (ASWEC'09)
+%P 81-90
+%D 2009
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Experiences developing a thin-client, multi-device travel planning application
+%A Grundy, John
+%A Jin, Weiguo
+%B Proceedings of the SIGCHI-NZ Symposium on Computer-Human Interaction
+%P 85-90
+%@ 0473085003
+%D 2002
+%I ACM
+
+
+%0 Conference Proceedings
+%T Supporting collaborative work in integrated information systems engineering environments
+%A Grundy, John C
+%A Venable, John R
+%A Hosking, John G
+%A Mugridge, Warwick B
+%B Proceedings of the Seventh Workshop on the Next Generation of CASE Tools, Greece
+%D 1996
+
+
+%0 Conference Proceedings
+%T Improving requirements quality using essential use case interaction patterns
+%A Kamalrudin, Massila
+%A Hosking, John
+%A Grundy, John
+%B 33rd IEEE/ACM International Conference on Software Engineering (ICSE 2011)
+%P 531-540
+%D 2011
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Integrated data mapping for a software meta-tool
+%A Huh, Jun
+%A Grundy, John
+%A Hosking, John
+%A Liu, Karen
+%A Amor, Robert
+%B 2009 Australian Software Engineering Conference (ASWEC'09)
+%P 111-120
+%D 2009
+%I IEEE
+
+
+%0 Report
+%T Supporting flexible collaborative software development with SPE–Serendipity
+%A Grundy, John C
+%D 1996
+%I Citeseer
+
+
+%0 Conference Proceedings
+%T Software engineering tools
+%A Grundy, John
+%B 34th Annual Hawaii International Conference on System Sciences (HICSS 2001)
+%P 3914-3914
+%D 2001
+%I IEEE
+
+
+%0 Journal Article
+%T Workshop on directions in software engineering environments (WoDiSEE)
+%A Grundy, John
+%A Welland, Ray
+%A Stoeckle, Hermann
+%J ACM SIGSOFT Software Engineering Notes
+%V 29
+%N 5
+%P 1-3
+%@ 0163-5948
+%D 2004
+%I ACM
+
+
+%0 Conference Proceedings
+%T Visual language support for planning and coordination in cooperative work systems
+%A Grundy, John C
+%A Hosking, John G
+%B 1996 IEEE Symposium on Visual Languages (VL 1996)
+%P 324-325
+%D 1996
+%I IEEE
+
+
+%0 Journal Article
+%T Keeping things consistent
+%A Hosking, John
+%A Mugridge, Warwick
+%A Amor, Robert
+%A Grundy, John
+%J New Zealand Journal of Computing
+%V 6
+%N 1
+%P 353-362
+%D 1995
+%I Citeseer
+
+
+%0 Conference Proceedings
+%T Model Driven Design and Implementation of Statistical Surveys
+%A Kim, Chul Hwee
+%A Hosking, John
+%A Grundy, John
+%B 40th Annual Hawaii International Conference on System Sciences (HICSS 2007)
+%P 285c-285c
+%D 2007
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Template-based critic authoring for domain-specific visual language tools
+%A Ali, Norhayati Mohd
+%A Hosking, John
+%A Huh, Jun
+%A Grundy, John
+%B 2009 IEEE Symposium onVisual Languages and Human-Centric Computing (VL/HCC 2009)
+%P 111-118
+%D 2009
+%I IEEE
+
+
+%0 Journal Article
+%T Experiences in developing a micro-payment system for peer-to-peer networks
+%A Chaudhary, Kaylash
+%A Dai, Xiaoling
+%A Grundy, John
+%J International Journal of Information Technology and Web Engineering (IJITWE)
+%V 5
+%N 1
+%P 23-42
+%@ 1554-1045
+%D 2010
+%I IGI Global
+
+
+%0 Conference Proceedings
+%T MaramaEML: An Integrated Multi-View Business Process Modelling Environment with Tree-Overlays, Zoomable Interfaces and Code Generation
+%A Li, Lei
+%A Hosking, John
+%A Grundy, John
+%B Proceedings of the 2008 23rd IEEE/ACM International Conference on Automated Software Engineering
+%P 477-478
+%@ 142442187X
+%D 2008
+%I IEEE Computer Society
+
+
+%0 Generic
+%T Collaborative, integrated software development with multiple views
+%A Grundy, John C
+%A Hosking, John G
+%A Mugridge, Warwick B
+%A Armor, Robert W
+%J Dept Computer Science, University of Waikato
+%N Working Paper series 94/6
+%D 1994
+
+
+%0 Conference Proceedings
+%T Generating essential user interface prototypes to validate requirements
+%A Kamalrudin, Massila
+%A Grundy, John
+%B 26th IEEE/ACM International Conference on Automated Software Engineering (ASE 2011)
+%P 564-567
+%D 2011
+%I IEEE
+
+
+%0 Generic
+%T Relating software requirements and architectures
+%A Avgeriou, Paris
+%A Grundy, John
+%A Hall, Jon G.
+%A Lago, Patricia
+%A Mistrík, Ivan
+%D 2011
+%I Springer-Verlag New York Inc
+
+
+%0 Conference Proceedings
+%T Software Architecture Modelling and Performance Analysis with Argo/MTE
+%A Cai, Yuhong
+%A Grundy, John
+%A Hosking, John
+%A Dai, Xiaoling
+%B 2004 Conference on Software Engineering and Knowledge Engineering (SEKE 2004)
+%D 2004
+
+
+%0 Journal Article
+%T Teaching Information Systems with Simulations: Issues and Experiences
+%A Grundy, John
+%J Journal of Informatics – Education and Research
+%V 4
+%N 1
+%D 2002
+
+
+%0 Conference Proceedings
+%T Meta tools for implementing domain specific visual languages
+%A Hosking, John
+%A Grundy, John
+%B 22nd IEEE/ACM International conference on Automated software engineering (ASE 2007)
+%P 576-576
+%D 2007
+%I ACM
+
+
+%0 Conference Proceedings
+%T VikiBuilder: end-user specification and generation of visual wikis
+%A Hirsch, Christian
+%A Hosking, John
+%A Grundy, John
+%B 25th IEEE/ACM international conference on Automated software engineering (ASE 2010)
+%P 13-22
+%D 2010
+%I ACM
+
+
+%0 Conference Proceedings
+%T Development of techniques for sketched diagram recognition
+%A Blagojevic, Rachel
+%A Plimmer, Beryl
+%A Grundy, John
+%A Wang, Yong
+%B 2008 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2008)
+%P 258-259
+%D 2008
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A taxonomy of computer-supported critics
+%A Ali, Norhayati Mohd
+%A Hosking, John
+%A Grundy, John
+%B 2010 International Symposium on Information Technology (ITSim 2010)
+%V 3
+%P 1152-1157
+%D 2010
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Capturing architecture documentation navigation trails for content chunking and sharing
+%A Su, Moon Ting
+%A Hosking, John
+%A Grundy, John
+%B 9th Working IEEE/IFIP Conference on Software Architecture (WICSA 2011)
+%P 256-259
+%D 2011
+%I IEEE Computer Society
+
+
+%0 Conference Proceedings
+%T Collaboration-Based Cloud Computing Security Management Framework
+%A Almorsy, Mohemed
+%A Grundy, John
+%A Ibrahim, Amani S
+%B IEEE International Conference on Cloud Computing (CLOUD 2011)
+%P 364-371
+%D 2011
+%I IEEE
+
+
+%0 Journal Article
+%T Using data mining for digital ink recognition: Dividing text and shapes in sketched diagrams
+%A Blagojevic, Rachel
+%A Plimmer, Beryl
+%A Grundy, John
+%A Wang, Yong
+%J Computers & Graphics
+%V 35
+%N 5
+%P 976-991
+%D 2011
+%I Pergamon
+
+
+%0 Report
+%T Using change descriptions to maintain consistency across multiple representations
+%A Hosking, JG
+%A Grundy, JC
+%@ 1173-3500
+%D 1995
+%I Department of Computer Science, The University of Auckland, New Zealand
+
+
+%0 Book Section
+%T NetPay Micro-Payment Protocols for Three Networks
+%A Dai, Xiaoling
+%A Grundy, John
+%B Emergent Web Intelligence: Advanced Semantic Technologies
+%P 429-449
+%@ 1849960763
+%D 2010
+%I Springer London
+
+
+%0 Conference Proceedings
+%T The effects of openness to experience on pair programming in a higher education context
+%A Salleh, Norsaremah
+%A Mendes, Emilia
+%A Grundy, John
+%B 24th IEEE-CS Conference on Software Engineering Education and Training (CSEE&T 2011)
+%P 149-158
+%D 2011
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Reciprocity: an integrated, continuous approach to software training authoring, delivery and monitoring
+%A Nixon, April
+%A Grundy, John
+%B 2004 Australian Software Engineering Conference (ASWEC 2004)
+%P 262-270
+%D 2004
+%I IEEE
+
+
+%0 Journal Article
+%T Augmenting DSVL Meta-Tools with Pattern Specification, Instantiation and Reuse
+%A Li, Karen
+%A Hosking, John
+%A Grundy, John
+%A Ly, Tony
+%A Webb, Brian
+%J Electronic Communications of the EASST
+%V 31
+%N 0
+%D 2011
+
+
+%0 Journal Article
+%T Applying the Evolving Frameworks Pattern Language to Multi-View Software Design Tools
+%A Hosking, JG
+%A Grundy, JC
+%A Mugridge, WB
+%J Department of Computer Science, University of Auckland, New Zealand
+%D 2004
+
+
+%0 Conference Proceedings
+%T Generating Web Services for Statistical Survey Packages from Domain-specific Visual Languages
+%A Kim, Chul Hwee
+%A Hosking, John
+%A Grundy, John
+%B Incorporating COTS Software into Software Systems: Tools and Techniques, 2007. IWICSS'07. Second International Workshop on
+%P 5-5
+%@ 0769529666
+%D 2007
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Human-Computer Interaction Issues For The Configuration Of Component-Based Software Systems
+%A Grundy, John
+%A Hosking, John
+%B In 1999 Australian Human Computer Interaction Conference (OZCHI 1999), Wagga Wagga Nov 28-30 1999, Charles Sturt University Press
+%P 37-43
+%D 1999
+
+
+%0 Generic
+%T Software design system and method
+%A Grundy, John
+%A Hosking, John
+%A Cai, Yuhong
+%D 2004
+%I US Patent App. 10/826,381
+
+
+%0 Conference Proceedings
+%T Supporting information mapping in Health Informatics via integrated message transformation
+%A Mugridge, W
+%A Grundy, JC
+%A Hosking, JG
+%A Bryant, D
+%B 2002 Health Informatics New Zealand Conference (HIC 2002)
+%P 8-10
+%D 2002
+
+
+%0 Conference Proceedings
+%T CloudSec: A security monitoring appliance for Virtual Machines in the IaaS cloud model
+%A Ibrahim, Amani S
+%A Hamlyn-Harris, James
+%A Grundy, John
+%A Almorsy, Mohamed
+%B 5th International Conference on Network and System Security (NSS 2011)
+%P 113-120
+%D 2011
+%I IEEE
+
+
+%0 Journal Article
+%T Desert Island
+%A Grundy, John
+%J Automated Software Engineering
+%V 10
+%N 3
+%P 303-304
+%@ 0928-8910
+%D 2003
+%I Springer
+
+
+%0 Generic
+%T Early Aspects: Current Challenges and Future Directions: 10th International Workshop, Vancouver, Canada, March 13, 2007, Revised Selected Papers
+%A Moreira, Ana
+%@ 3540768114
+%D 2007
+%I Springer
+
+
+%0 Book
+%T Software Engineering Tools: Trends of Software Engineering Tools and Platforms
+%A Draheim, Dirk
+%A Grundy, John
+%A Hosking, John
+%A Lutteroth, Christof
+%A Weber, Gerald
+%@ 354074939X
+%D 2007
+%I Springer Berlin
+
+
+%0 Journal Article
+%T A generic technique for domain-specific visual language model refactoring to patterns
+%A Li, Karen
+%A Hosking, John
+%A Grundy, John
+%J Electronic Communications of the EASST
+%V 31
+%@ 1863-2122
+%D 2010
+
+
+%0 Conference Proceedings
+%T Workshop on flexible modeling tools:(FlexiTools 2011)
+%A Ossher, Harold
+%A van der Hoek, André
+%A Storey, Margaret-Anne
+%A Grundy, John
+%A Bellamy, Rachel
+%A Petre, Marian
+%B 33rd IEEE/ACM International Conference on Software Engineering (ICSE 2011), Honolulu, Hawaii, USA, May 2011
+%P 1192-1193
+%D 2011
+%I IEEE
+
+
+%0 Journal Article
+%T Experiences developing architectures for realizing thin‐client diagram editing tools
+%A Grundy, John
+%A Hosking, John
+%A Cao, Shuping
+%A Zhao, Denjin
+%A Zhu, Nianping
+%A Tempero, Ewan
+%A Stoeckle, Hermann
+%J Software: Practice and Experience
+%V 37
+%N 12
+%P 1245-1283
+%@ 1097-024X
+%D 2007
+%I Wiley Online Library
+
+
+%0 Conference Proceedings
+%T A Combination Approach for Enhancing Automated Traceability
+%A Chen, Xiaofan
+%A Hosking, John
+%A Grundy, John
+%B 33rd IEEE/ACM International Conference on Software Engineering (ICSE 2011), New Idead Track, Honolulu, Hawaii, USA, May 2011
+%D 2011
+
+
+%0 Conference Proceedings
+%T End-user oriented critic specification for domain-specific visual language tools
+%A Mohd Ali, Norhayati
+%A Hosking, John
+%A Grundy, John
+%A Huh, Jun
+%B 25th IEEE/ACM international conference on Automated software engineering (ASE 2010)
+%P 297-300
+%D 2010
+%I ACM
+
+
+%0 Conference Proceedings
+%T Design of a suite of visual languages for supply chain specification
+%A Zhang, Rick
+%A Hosking, John
+%A Grundy, John
+%A Mehandjiev, Nikolay
+%A Carpenter, Martin
+%B 2010 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2010)
+%P 240-243
+%D 2010
+%I IEEE Computer Society
+
+
+%0 Conference Proceedings
+%T ThinkFree: using a visual Wiki for IT knowledge management in a tertiary institution
+%A Hirsch, Christian
+%A Hosking, John
+%A Grundy, John
+%A Chaffe, Tim
+%B 6th International Symposium on Wikis and Open Collaboration (WikiSim 2010)
+%P 7
+%D 2010
+%I ACM
+
+
+%0 Conference Proceedings
+%T Improving automated documentation to code traceability by combining retrieval techniques
+%A Chen, Xiaofan
+%A Grundy, John
+%B 26th IEEE/ACM International Conference on Automated Software Engineering (ASE 2011)
+%P 223-232
+%D 2011
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Approaches for utilising ‘Work Contexts’ in CSCW systems
+%A Grundy, John C
+%A Hosking, John G
+%B OzCHI'96 Workshop on the Next Generation of CSCW Systems
+%P 15-20
+%D 1996
+
+
+%0 Journal Article
+%T A Graduate Course on E-commerce Information Systems Engineering
+%A Grundy, John
+%J Journal of Informatics Education and Research
+%V 2
+%N 2
+%D 2000
+%I IAIM Press
+
+
+%0 Conference Proceedings
+%T Automatic diagram layout support for the Marama meta-toolset
+%A Yap, Pei Shan
+%A Hosking, John
+%A Grundy, John
+%B 2011 IEEE Symposium onVisual Languages and Human-Centric Computing (VL/HCC 2011)
+%P 61-64
+%D 2011
+%I IEEE
+
+
+%0 Conference Proceedings
+%T KaitoroCap: a document navigation capture and visualisation tool
+%A Su, Moon Ting
+%A Hosking, John
+%A Grundy, John
+%B 9th Working IEEE/IFIP Conference on Software Architecture (WICSA 2011)
+%P 359-362
+%D 2011
+%I IEEE Computer Society
+
+
+%0 Conference Proceedings
+%T Three integration methods for a component-based NetPay vendor system
+%A Dai, Xiaoling
+%A Grundy, John
+%B Computational and Information Science, Lecture Notes in Computer Science, 2005, Volume 3314/2005
+%P 782-787
+%D 2005
+%I Springer Berlin/Heidelberg
+
+
+%0 Conference Proceedings
+%T Experiences Developing an E-whiteboard-based Circuit Designer
+%A Liu, Ray
+%A Wong, Lisa
+%A Grundy, John
+%B Software Engineering Research and Practice
+%P 739-744
+%D 2003
+
+
+%0 Journal Article
+%T What We Know (and Do not Know) About Collaborative Software Engineering
+%A Grundy, John
+%J Collaborative Software Engineering
+%P 237
+%@ 3642102948
+%D 2010
+%I Springer Science & Business Media
+
+
+%0 Conference Proceedings
+%T Construction of an Integrated and Extensible Software Architecture Modelling Environment
+%A Grundy, John
+%B 2nd ICSE Workshop on Constructing Software Engineering Tools (CoSET 2000), Limerick, Ireland, June 2000
+%D 2000
+
+
+%0 Conference Proceedings
+%T A Preliminary Study on Factors Affecting Software Testing Team Performance
+%A Kanij, Tanjila
+%A Merkel, Robert
+%A Grundy, John
+%B 2011 International Symposium on Empirical Software Engineering and Measurement (ESEM 2011)
+%P 359-362
+%D 2011
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A Generalised Event Handling Framework
+%A Li, Karen
+%A Hosking, John
+%A Grundy, John
+%B KISS Workshop, 2009 International Conference on Automated Software Engineering (ASE 2009)
+%D 2009
+
+
+%0 Conference Proceedings
+%T Building digital ink recognizers using data mining: distinguishing between text and shapes in hand drawn diagrams
+%A Blagojevic, Rachel
+%A Plimmer, Beryl
+%A Grundy, John
+%A Wang, Yong
+%B International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems
+%P 358-367
+%@ 3642130216
+%D 2010
+%I Springer Berlin Heidelberg
+
+
+%0 Journal Article
+%T Directions in modelling environments
+%A Amor, Robert
+%A Augenbroe, Godfried
+%A Hosking, John
+%A Rombouts, Wouter
+%A Grundy, John
+%J Automation in Construction
+%V 4
+%N 3
+%P 173-187
+%D 1995
+%I Elsevier
+
+
+%0 Book Section
+%T P2P-NetPay: A Micro-Payment System for Networks
+%A Dai, Xiaoling
+%A Chaudhary, Kaylash
+%A Grundy, John
+%B Models for Capitalizing on Web Engineering Advancements: Trends and Discoveries
+%P 159-182
+%D 2012
+%I Information Science Reference
+
+
+%0 Conference Proceedings
+%T ViTABaL: a visual language supporting design by tool abstraction
+%A Grundy, JC
+%A Hosking, JG
+%B 11th IEEE Symposium on Visual  Languages (VL 1995)
+%D 1995
+
+
+%0 Journal Article
+%T Software Engineering for the Cloud
+%A Grundy, John
+%A Kaefer, Gerald
+%A Keong, Jacky
+%A Liu, Anna
+%J IEEE Software
+%V 29
+%N 2
+%P 26
+%D 2012
+
+
+%0 Conference Proceedings
+%T Performance Assessment Metrics for Software Testers
+%A Kanij, Tanjila
+%A Merkel, Robert
+%A Grundy, John
+%B 3rd ICSE workshop on Co-operative and Human Aspects of Software Engineering (CHASE 2012)
+%D 2012
+
+
+%0 Conference Proceedings
+%T An Energy Consumption Model and Analysis Tool for Cloud Computing Environments
+%A Chen, FeiFei
+%A Schneider, Jean-Guy
+%A Yang, Yun
+%A Grundy, John
+%A He, Qiang
+%B 1st ICSE Workshop on Green and Sustainable Software Engineering (GREENS 2012)
+%D 2012
+
+
+%0 Conference Proceedings
+%T SMURF: Supporting Multi-tenancy Using Re-Aspects Framework
+%A Almorsy, Mohamed
+%A Grundy, John
+%B 17th IEEE International Conference on Engineering Complex Computer Systems (ICECCS 2012)
+%D 2012
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A High-Level Visual Test Specification Model for DSVL
+%A Jaafar, Mohamad Farid
+%A Grundy, J
+%A Hosking, J
+%B 2010 Asia-Pacific Software Engineering Conference (APSEC 2010), Doctoral Symposium, Sydney, Australia, Nov 30 2010.
+%D 2010
+%I IEEE
+
+
+%0 Conference Proceedings
+%T VikiBuilder: Let’s build a Visual Wiki
+%A Hirsch, Christian
+%A Hosking, John
+%A Grundy, John
+%B Poster and Demo Session at the 21st Australian Software Engineering Conference (ASWEC 2010), Auckland, New Zealand, Apr 6-9, 2010
+%D 2010
+
+
+%0 Conference Proceedings
+%T TOSSMA: A Tenant-Oriented SaaS Security Management Architecture
+%A Almorsy, Mohamed
+%A Grundy, John
+%A Ibrahim, Amani S
+%B 5th IEEE 2012 International Conference on Cloud Computing (CLOUD 2012), Honolulu, Hawaii, United States, 24-29 June 2012
+%D 2012
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Applying and evolving the evolving frameworks pattern language
+%A Hosking, JG
+%A Grundy, JC
+%A Mugridge, WB
+%B Proceedings of the Second Asian Pacific Pattern Languages of Programming Conference, KoalaPLoP'2001
+%D 2001
+
+
+%0 Journal Article
+%T Generating Domain-Specific Visual Language Tools from Abstract Visual Specifications
+%A Grundy, John C
+%A Hosking, John G
+%A Li, Karen
+%A Ali, Norhayati Mohd
+%A Huh, Jun
+%A Li, Richard Lei
+%J IEEE Transactions on Software Engineering
+%V 39
+%N 4
+%P 487 - 515
+%D 2013
+%I IEEE
+
+
+%0 Conference Proceedings
+%T QoS-Driven Service Selection for Multi-Tenant SaaS
+%A He, Qiang
+%A Han, Jun
+%A Yang, Yun
+%A Grundy, John
+%A Jin, Hai
+%B 5th IEEE 2012 International Conference on Cloud Computing (CLOUD 2012), Honolulu, Hawaii, United States, 24-29 June 2012
+%D 2012
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Supporting Virtualization-Aware Security Solutions using a Systematic Approach to Overcome the Semantic Gap
+%A Ibrahim, Amani S
+%A Hamlyn-Harris, James
+%A Grundy, John
+%A Almorsy, Mohamed
+%B 5th IEEE 2012 International Conference on Cloud Computing (CLOUD 2012), Honolulu, Hawaii, United States, 24-29 June 2012
+%D 2012
+%I IEEE
+
+
+%0 Book Section
+%T Virtual Machines Security in IaaS Platform
+%A Ibrahim, Amani
+%A Hamlyn-Harris, James
+%A Grundy, John
+%B Technical Report
+%D 2012
+
+
+%0 Conference Proceedings
+%T Visualizing Traceability Links between Source Code and Documentation
+%A Chen, Xiaofan
+%A Hosking, John
+%A Grundy, John
+%B 2012 IEEE International Conference on Visual Languages and Human-Centric Computing (VL/HCC 2012)
+%D 2012
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Supporting Requirements Modelling in the Malay Language using Essential Use Cases
+%A Kamalrudin, Massila
+%A Grundy, John
+%A Hosking, John
+%B 2012 IEEE International Conference on Visual Languages and Human-Centric Computing (VL/HCC 2012)
+%D 2012
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Supporting Operating System Kernel Data Disambiguation Using Points-to Analysis
+%A Ibrahim, Amani S
+%A Grundy, John
+%A Hamlyn-Harris, James
+%A Almorsy, Mohamed
+%B 2012 ACM/IEEE International Conference on Automated Software Engineering (ASE 2012)
+%D 2012
+%I ACM
+
+
+%0 Conference Proceedings
+%T Supporting Automated Vulnerability Analysis using Formalized Vulnerability Signatures
+%A Almorsy, Mohemed
+%A Grundy, John
+%A Ibrahim, Amani S
+%B 2012 ACM/IEEE International Conference on Automated Software Engineering (ASE 2012)
+%D 2012
+
+
+%0 Conference Proceedings
+%T MaramaAI: Tool Support for Capturing and Managing Consistency of Multi-lingual Requirements
+%A Kamalrudin, Massila
+%A Grundy, John
+%A Hosking, John
+%B 2012 ACM/IEEE International Conference on Automated Software Engineering (ASE 2012)
+%D 2012
+%I ACM
+
+
+%0 Conference Proceedings
+%T A Study of Architectural Information Foraging in Software Architecture Documents
+%A Su, Moon Ting
+%A Tempero, Ewan
+%A Hosking, John
+%A Grundy, John
+%B 2012 IEEE/IFIP Working Conference on Software Architecture (WICSA 2012)
+%D 2012
+
+
+%0 Conference Proceedings
+%T REInDetector: A Framework for Knowledge-based Requirements Engineering
+%A Nguyen, Tuong Huan
+%A Vo, Bao Quoc
+%A Lumpe, Markus
+%A Grundy, John
+%B 2012 ACM/IEEE International Conference on Automated Software Engineering (ASE 2012)
+%D 2012
+%I ACM
+
+
+%0 Conference Proceedings
+%T CONVErT: A Framework for Complex Model Visualisation and Transformation
+%A Avazpour, Iman
+%A Grundy, John
+%B 2012 IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC 2012)
+%D 2012
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Identifying OS Kernel Objects for Run-time Security Analysis
+%A Ibrahim, Amani S
+%A Hamlyn-Harris, James
+%A Grundy, John
+%A Almorsy, Mohamed
+%B Proc. of 6th International Conference on Network and System Security (NSS 2012), Fujian, China, Nov 2012
+%D 2012
+%I Springer
+
+
+%0 Conference Proceedings
+%T Operating System Kernel Data Disambiguation to Support Security Analysis
+%A Ibrahim, Amani S
+%A Hamlyn-Harris, J
+%A Grundy, J
+%A Almorsy, Mohamed
+%B Proc. of 6th International Conference on Network and System Security (NSS 2012), Fujian, China, Nov 2012
+%D 2012
+%I Springer
+
+
+%0 Journal Article
+%T Australian Social Services Agency Software: Requirements, Current Usage and Opportunities
+%A Grundy, Judith R
+%A Grundy, John C
+%J Technical Report, Faculty of ICT, Swinburne University of Technology, August 2011
+%P 12pp
+%D 2011
+
+
+%0 Conference Proceedings
+%T VAM-aaS: Online Cloud Services Security Vulnerability Analysis and Mitigation-as-a-Service
+%A Almorsy, Mohamed
+%A Grundy, John
+%A Ibrahim, Amani S
+%B 2012 International Conference on Web Information Systems Engineering (WISE 2012), Cypus, Nov 2012
+%D 2012
+%I Springer
+
+
+%0 Conference Proceedings
+%T Supporting automated software re-engineering using re-aspects
+%A Almorsy, Mohamed
+%A Grundy, John
+%A Ibrahim, Amani S
+%B 27th IEEE/ACM International Conference on Automated Software Engineering (ASE 2012)
+%P 230-233
+%D 2012
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Visualising Event-based Information Models: Issues and Experiences
+%A Li, Karen
+%A Grundy, JC
+%A Hosking, JG
+%A Li, Lei
+%B Proceedings of Visual Analytics in Software Engineering, Workshop at
+%D 2009
+
+
+%0 Journal Article
+%T DIGGER: Identifying Operating System Dynamic Kernel Objects for Run-time Security Analysis
+%A Ibrahim, Amani S
+%A Hamlyn-Harris, James
+%A Grundy, John C
+%A Almorsy, Mohamed
+%J International Journal of Internet and Distributed Computing Systems
+%V 3
+%N 1
+%P 184-194
+%D 2013
+
+
+%0 Conference Proceedings
+%T Recent Experiences with Code Generation and Task Automation Agents in Software Tools
+%A Grundy, John
+%A Hosking, John
+%B 1st International Workshop on the State of the Art in Automated Software Engineering, Irvine, CA, 27th June 2002.
+%D 2002
+
+
+%0 Conference Proceedings
+%T Qualitative Evaluation of a Collaborative Web Browser
+%A Gianoutsos, Simon
+%A Grundy, John
+%B OZCHI 1996 Workshop on Next Generation of Collaborative Work Systems
+%D 1996
+%I University of Waikato
+
+
+%0 Conference Proceedings
+%T MDSE@ R: Model-Driven Security Engineering at Runtime
+%A Almorsy, Mohamed
+%A Grundy, John
+%A Ibrahim, Amani S
+%B 4th International Symposium on Cyberspace Safety and Security (CSS 2012), Melbourne, Australia, Dec 12-13 2012
+%D 2012
+%I Springer
+
+
+%0 Journal Article
+%T Investigating the effects of personality traits on pair programming in a higher education setting through a family of experiments
+%A Salleh, Norsaremah
+%A Mendes, Emilia
+%A Grundy, John C
+%J Empirical Software Engineering
+%V 19
+%N 3
+%P 714-752
+%D 2014
+%I Springer
+
+
+%0 Journal Article
+%T A Survey of Australian Human Services Agency Software Usage
+%A Grundy, Judith R
+%A Grundy, John C
+%J Journal of Technology in Human Services
+%V 31
+%N 1
+%D 2013
+%I Taylor & Francis,
+
+
+%0 Thesis
+%T Multiple textual and graphical views for Interactive Software Development Environments
+%A Grundy, John Collis
+%D 1993
+%I ResearchSpace@ Auckland
+
+
+%0 Journal Article
+%T Setting up and Running Effective Industry Advisory Boards for your Department
+%A Grundy, John C
+%J The Department Chair
+%V 24
+%N 4
+%D 2013
+%I Jossey-Bass / Wiley
+
+
+%0 Journal Article
+%T Realising Web Diagramming Applications with OpenLaszlo and Eclipse
+%A Ip, Tony
+%A Lomberg, Kelvin
+%A Grundy, John
+%A Hosking, John
+%A Huh, Jun
+%J Technical Report, University of Auckland
+%D 2009
+%I University of Auckland
+
+
+%0 Conference Proceedings
+%T Integrating Software Architecture Topics into a Software Engineering Curriculum
+%A Grundy, John
+%B 1999 Australasian Workshop on Software Architectures, Sydney, Nov 1999
+%D 1999
+
+
+%0 Book Section
+%T Introduction: Relating requirements and architectures
+%A Hall, Jon G
+%A Grundy, John
+%A Mistrik, Ivan
+%A Lago, Patricia
+%A Avgeriou, Paris
+%B Relating Software Requirements and Architectures
+%P 1-9
+%D 2011
+%I Springer Berlin Heidelberg
+
+
+%0 Book Section
+%T Experiences from Industrial Projects
+%A Avgeriou, Paris
+%A Grundy, John
+%A Hall, J
+%A Lago, Patricia
+%A Mistrík, Ivan
+%B Relating Software Requirements and Architectures
+%P 199-201
+%@ 3642210007
+%D 2011
+%I Springer Berlin Heidelberg
+
+
+%0 Book Section
+%T Theoretical Underpinnings and Reviews
+%A Grundy, John
+%A Lago, Patricia
+%A Avgeriou, Paris
+%A Hall, J
+%A Mistrík, Ivan
+%B Relating Software Requirements and Architectures
+%P 13-15
+%@ 3642210007
+%D 2011
+%I Springer Berlin Heidelberg
+
+
+%0 Book Section
+%T Emerging Issues in Relating Software Requirements and Architecture
+%A Grundy, John
+%A Avgeriou, Paris
+%A Hall, J
+%A Lago, Patricia
+%A Mistrik, Ivan
+%B Relating Software Requirements and Architectures
+%P 303-306
+%@ 3642210007
+%D 2011
+%I Springer Berlin Heidelberg
+
+
+%0 Journal Article
+%T Guest editors introduction: special issue on innovative automated software engineering tools
+%A Grundy, John
+%A Hosking, John
+%J Automated Software Engineering
+%V 20
+%N 2
+%P 137-139
+%D 2013
+%I Springer US
+
+
+%0 Book Section
+%T Tools and Techniques
+%A Lago, P
+%A Avgeriou, P
+%A Grundy, J
+%A Hall, J
+%A Mistrík, I
+%B Relating software requirements and architecture
+%D 2011
+%I Springer
+
+
+%0 Conference Proceedings
+%T Generation of distributed system test-beds from high-level software architecture descriptions
+%A Grundy, John
+%A Cai, Yuhong
+%A Liu, Anna
+%B 16th IEEE/ACM International Conference on Automated Software Engineering (ASE 2001)
+%P 193-200
+%D 2001
+%I IEEE
+
+
+%0 Journal Article
+%T Special Issue on Selected Papers from ASE-2003
+%A Penix, John
+%A Grundy, John
+%J Automated Software Engineering
+%D 2006
+%I Springer
+
+
+%0 Conference Proceedings
+%T Automated Software Architecture Security Risk Analysis Using Formalized Signatures
+%A Almorsy, Mohamed
+%A Grundy, John
+%A Ibrahim, Amani S
+%B 2013 IEEE/ACM International Conference on Software Engineering (ICSE 2013), San Franciso, May 2013
+%D 2013
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Experimental Analysis of Task-based Energy Consumption in Cloud Computing Systems
+%A Chen, Feifei
+%A Grundy, John
+%A Yang, Yun
+%A Schneider, Jean-Guy
+%A He, Qiang
+%B 4th ACM/SPEC International Conference on Performance Engineering (ICPE2013)
+%D 2013
+%I ACM
+
+
+%0 Conference Proceedings
+%T Lessons Learned from Conducting Industry Surveys in Software Testing
+%A Kanij, Tanjila
+%A Merkel, Robert
+%A Grundy, John
+%B ICSE 2013 Workshop on Conducting Empirical Studies in Industry (CESI 2013)
+%P 63-66
+%D 2013
+%I IEEE
+
+
+%0 Journal Article
+%T KBRE: A Framework for knowledge-based Requirements Engineering
+%A Nguyen, Tuong Huan
+%A Vo, Bao Quoc
+%A Lumpe, Markus
+%A Grundy, John
+%J Software Quality Journal
+%V 22
+%N 1
+%P 87-119
+%D 2014
+%I Springer
+
+
+%0 Conference Proceedings
+%T An Empirical Study of the Effects of Personality on Software Testing
+%A Kanij, Tanjila
+%A Australia, Hawthorn
+%A Merkel, Robert
+%A Australia, Clayton
+%A Grundy, John
+%B IEEE Conference on Software Engineering - Education and Training (CSEET2013)
+%D 2013
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Development of Robust Traceability Benchmarks
+%A Chen, Xiaofan
+%A Hosking, John
+%A Grundy, John
+%A Amor, Robert
+%B 2013 Australasian Conference on Software Engineering (ASWEC 2013)
+%D 2013
+%I IEEE
+
+
+%0 Book Section
+%T Architecture vs Agile: competition or co-operation?
+%A Grundy, John
+%B Agile Software Architecture: Aligning Agile Processes and Software Architecture
+%P Foreword
+%D 2013
+%I Elsevier
+
+
+%0 Generic
+%T Coordinating Collaborative Work in an Integrated Information Systems Engineering Enviornment
+%A Grundy, John C
+%A Venable, John R
+%A Hosking, John G
+%A Mugridge, Warwick B
+%J Working paper series, Computer Science, University of Waikato, New Zealand
+%D 1996
+%I Department Computer Science, University of Waikato
+
+
+%0 Book Section
+%T Economics-driven Software Architecting
+%A Grundy, John C
+%B Economics-driven Software Architecture
+%P Foreword
+%D 2013
+%I Elsevier
+
+
+%0 Conference Proceedings
+%T Using Concrete Visual Notations as First Class Citizens for Model Transformation Specification
+%A Avazpour, Iman
+%A Grundy, John C
+%B 2013 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2013), San Jose, CA, USA, Sept 15-19 2013
+%D 2013
+%I IEEE
+
+
+%0 Journal Article
+%T ASWEC 2007
+%A Grundy, John
+%A Han, Jun
+%D 2007
+
+
+%0 Journal Article
+%T Automated Component-Based Software Engineering
+%A Crnkovic, I
+%A Schmidt, HW
+%A Stafford, J
+%A Wallnau, K
+%A Grundy, JC
+%A Ding, G
+%A Hosking, J
+%A Zulkernine, M
+%A Seviora, R
+%A Wuyts, R
+%J Journal of Systems and Software
+%D 2005
+%I Elsevier
+
+
+%0 Conference Proceedings
+%T Generating service models by trace subsequence substitution
+%A Du, Miao
+%A Schneider, Jean-Guy
+%A Hine, Cameron
+%A Grundy, John
+%A Versteeg, Steve
+%B 9th  ACM Sigsoft Conference on Quality of software architectures (QoSA 2013)
+%P 123-132
+%D 2013
+%I ACM
+
+
+%0 Journal Article
+%T A Taxonomy and Mapping of Computer-based Critiquing Tools
+%A Ali, Norhayati Mohamed
+%A Hosking, John G
+%A Grundy, John C
+%J IEEE Transactions on Software Engineering
+%V 39
+%N 11
+%D 2013
+%I IEEE
+
+
+%0 Journal Article
+%T Adaptable, Model-driven Security Engineering for SaaS Cloud-based Applications
+%A Almorsy, Mohamed
+%A Grundy, John C
+%A Ibrahim, Amani
+%J Automated Software Engineering
+%V 21
+%N 2
+%D 2014
+%I Springer
+
+
+%0 Conference Proceedings
+%T Tool Support for Automatic Model Transformation Specification Using Concrete Visualisations
+%A Avazpour, Iman
+%A Grundy, John C
+%A Grunske, Lars
+%B 2013 IEEE/ACM International Conference on Automated Software Engineering (ASE 2013)
+%D 2013
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A Preliminary User Evaluation of an Infrastructure to Support Activity-Based Computing in Global Software Development (ABC4GSD)
+%A Tell, Paolo
+%A Babar, Muhammad Ali
+%A Grundy, John
+%B 8th IEEE International Conference on Global Software Engineering (ICGSE 2013), Bari, Italy, August 26-29 2013
+%D 2013
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A Suite of Domain-Specific Visual Languages For Scientific Software Application Modelling
+%A Almorsy, Mohamed
+%A Grundy, John
+%A Sadus, Richard
+%A van Straten, Willem
+%B 2013 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2013), San Jose, CA, USA, Sept 15-19 2013
+%D 2013
+%I IEEE
+
+
+%0 Book Section
+%T Dimensions and Metrics for Evaluating Recommendation Systems
+%A Avazpour, Iman
+%A Pitakrat, T
+%A Grunske, Lars
+%A Grundy, John C
+%B Recommendation Systems in Software Engineering
+%D 2014
+%I Springer
+
+
+%0 Conference Proceedings
+%T Interaction Traces Mining for Efficient System Responses Generation
+%A Du, M.
+%A Versteeg, S.
+%A Schneider, J-G
+%A Han, J.
+%A Grundy, J.C.
+%B 2nd International Workshop on Software Mining, 11th Nov 2013, Palo Alto, CA, USA
+%D 2013
+
+
+%0 Journal Article
+%T Managing Faculty “Over-performance”
+%A Grundy, John C.
+%J The Department Chair
+%V 24
+%N 4
+%D 2014
+%I Jossey-Bass/Wiley
+
+
+%0 Journal Article
+%T Performance Appraisal of Software Testers
+%A Kanij, Tanjila
+%A Merkel, Robert
+%A Grundy, John C.
+%J Information and Software Technology
+%V 56
+%N 5
+%P 495–505
+%D 2014
+%I Elsevier
+
+
+%0 Journal Article
+%T JComposer/JViews Tutorial
+%A Grundy, John
+%D 2000
+
+
+%0 Conference Proceedings
+%T Automated Analysis of Performance and Energy  Consumption for Cloud Applications
+%A Chen, Feiei
+%A Grundy, John C
+%A Schneider, Jean-Guy
+%A Yang, Yun
+%A He, Qiang
+%B 2014 ACM/SPEC International Confernce on Performance Engineering
+%D 2014
+%I ACM
+
+
+%0 Conference Proceedings
+%T A Preliminary Survey of Factors Affecting Software Testers
+%A Kanij, Tanjila
+%A Merkel, Robert
+%A Grundy, John C
+%B 2014 Australasian Conference on Software Engineering (ASWEC 2014)
+%D 2014
+%I IEEE
+
+
+%0 Conference Proceedings
+%T SecDSVL: A Domain-Specific Visual Language To Support Enterprise Security Modelling
+%A Almorsy, Mohamed
+%A Grundy, John C
+%B 2014 Australasian Conference on Software Engineering (ASWEC 2014)
+%D 2014
+%I IEEE
+
+
+%0 Journal Article
+%T An analysis of the mobile app review landscape: trends and implications
+%A Hoon, Leonard
+%A Vasa, Rajesh
+%A Schneider, Jean-Guy
+%A Grundy, John
+%J Faculty of Information and Communication Technologies, Swinburne University of Technology, Tech. Rep
+%D 2013
+
+
+%0 Journal Article
+%T Proceedings of the IEEE symposium on visual languages and human-centric computing
+%A Grundy, John C
+%A Howse, John
+%@ 0769525865
+%D 2006
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A Pair-Oriented Requirements Engineering Approach for Analysing Multi-lingual Requirements
+%A Kamalrudin, M.
+%A Sidek, S.
+%A Salleh, N.
+%A Hosking, J.G.
+%A Grundy, John C
+%B In 1st Asia-Pacific International Conference on Requirements Engineering (APRES 2014)
+%D 2014
+%I Springer
+
+
+%0 Conference Proceedings
+%T Capturing Security Requirements Using Essential Use Cases (EUCs)
+%A Kamalrudin, M.
+%A Yahya, S.
+%A Sidek, S.
+%A Grundy, John C.
+%B 1st Asia-Pacific International Conference on Requirements Engineering (APRES 2014)
+%D 2014
+%I Springer
+
+
+%0 Journal Article
+%T A visual language and environment for enterprise system modelling and automation
+%A Li, Lei
+%A Grundy, John C.
+%A Hosking, John G.
+%J Journal of Visual Languages and Computing
+%V 25
+%N 4
+%D 2014
+%I Elsevier
+
+
+%0 Conference Proceedings
+%T CONVErT Meets KIELER: Integrating Advanced Layout Algorithms into By-Example Visualisations
+%A Avazpour, Iman
+%A Rüegg, Ulf
+%A Grundy, John
+%B IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC 2014)
+%D 2014
+%I IEEE
+
+
+%0 Conference Proceedings
+%T HorusCML: Context-aware Domain-Specific Visual Languages Designer
+%A Almorsy, Mohamed
+%A Grundy, John
+%A Rüegg, Ulf
+%B IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC 2014)
+%N I
+%D 2014
+%I IEEE
+
+
+%0 Conference Proceedings
+%T An Empirical Study to Review and Revise Job Responsibilities of Software Testers
+%A Kanij, Tanjila
+%A Merkel, Robert
+%A Grundy, John
+%B IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC 2014)
+%D 2014
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A Java-based toolkit for the construction of multi-view editing systems
+%A Grundy, JC
+%A Mugridge, WB
+%A Hosking, JG
+%B 2nd  Component Users Conference (CUC1997)
+%P 14-18
+%D 1997
+
+
+%0 Conference Proceedings
+%T Static and dynamic visualisation of component-based software architectures
+%A Grundy, JC
+%A Mugridge, WB
+%A Hosking, JG
+%B 10th International Conference on Software Engineering and Knowledge Engineering (SEKE 1998)
+%P 18-20
+%D 1998
+
+
+%0 Conference Proceedings
+%T An Architecture for Developing Aspect-Oriented Web Services
+%A Singh, S
+%A Grundy, J
+%A Hosking, J
+%A Sun, J
+%B 3rd European Conference on Web Services
+%D 2005
+
+
+%0 Journal Article
+%T Snart94 Reference/User Manual
+%A Mugridge, WB
+%A Grundy, JC
+%A Hosking, JG
+%A Amor, R
+%J Department of Computer Science, University of Auckland, Auckland, New Zealand
+%D 1995
+
+
+%0 Conference Proceedings
+%T A visual language and environment for composing web services
+%A Liu, Na
+%A Grundy, John
+%A Hosking, John
+%B Proceedings of the 20th IEEE/ACM international Conference on Automated software engineering
+%P 321-324
+%@ 1581139934
+%D 2005
+%I ACM
+
+
+%0 Generic
+%T Information retrieval and presentation methods and systems
+%A Hirsch, Christian
+%A Hosking, John
+%A Grundy, John
+%D 2016
+%I US Patent 9,342,908
+
+
+%0 Journal Article
+%T Guest editorial: automated techniques for migrating to the Cloud (I)
+%A Hsu, Ching-Hsien
+%A Grundy, John
+%J Automated Software Engineering
+%V 21
+%N 3
+%P 315-318
+%@ 0928-8910
+%D 2014
+%I Springer US
+
+
+%0 Book Section
+%T Collaborative software engineering: concepts and techniques
+%A Whitehead, Jim
+%A Mistrík, Ivan
+%A Grundy, John
+%A Van der Hoek, André
+%B Collaborative Software Engineering
+%P 1-30
+%D 2010
+%I Springer Berlin Heidelberg
+
+
+%0 Conference Proceedings
+%T GUITAR: an Ontology-based Automated Requirements Analysis Tool
+%A Nguyen, Tuong Huan
+%A Grundy, John
+%A Almorsy, Mohamed
+%B IEEE International Conference on Requirements Engineering (RE 2014)
+%D 2014
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Software Engineering for Multi-tenancy Computing - Challenges and Implications
+%A Ru, Jia
+%A Grundy, John C.
+%A Keung, Jacky
+%B 2014 FSE Workshop on Innovative Software Development Methodologies and Practices (InnovSWDev 2014)
+%D 2014
+
+
+%0 Journal Article
+%T Proceedings of CBISE’98 CaiSE* 98 workshop on component based information systems engineering
+%A Grundy, John C
+%@ 1170-487X
+%D 1998
+%I University of Waikato, Department of Computer Science
+
+
+%0 Conference Proceedings
+%T Automatic Acceptance Test Case Generation From Essential Use Cases
+%A Kamalrudin, Massila
+%A Aiza, M Nor
+%A Grundy, John
+%A Hosking, John
+%A Robinson, Mark
+%B 13th International Conference on Intelligent Software Methodologies, Tools, and Techniques (SOMET14),
+%D 2014
+%I IOS press
+
+
+%0 Journal Article
+%T Determining the cause of design model inconsistencies
+%A Grundy, John
+%J Computer
+%V 47
+%N 8
+%P 6-6
+%@ 0018-9162
+%D 2014
+%I IEEE
+
+
+%0 Journal Article
+%T Guest editorial: automated techniques for migrating to the cloud (II)
+%A Hsu, Ching-Hsien
+%A Grundy, John
+%J Automated Software Engineering
+%V 21
+%N 4
+%P 439-442
+%@ 0928-8910
+%D 2014
+%I Springer US
+
+
+%0 Conference Proceedings
+%T Subsuming Methods: Finding New Optimisation Opportunities in Object-Oriented Software
+%A Maplesden, David
+%A Tempero, Ewan
+%A Hosking, John G
+%A Grundy, John C
+%B 5th ACM/SPEC International Conference on Software Performance Engineering (ICPE 2015)
+%D 2015
+%I ACM
+
+
+%0 Journal Article
+%T A suite of visual languages for model-driven development of statistical surveys and services
+%A Kim, Chul H.
+%A Grundy, John C.
+%A Hosking, John G.
+%J Journal of Visual Languages and Computing
+%V 26
+%P 99–125
+%D 2015
+%I Elsevier
+
+
+%0 Journal Article
+%T Experiences in generating applications from domain-specific visual languages
+%A Grundy, John
+%D 2005
+
+
+%0 Conference Proceedings
+%T Performance Analysis using Subsuming Methods: An Industrial Case Study
+%A Maplesden, D.
+%A von Randow, K.
+%A Tempero, E.
+%A Hosking, J.G.
+%A Grundy, John C.
+%B IEEE/ACM International Conference on Software Engineering (ICSE 2015)
+%D 2015
+%I ACM
+
+
+%0 Journal Article
+%T Performance Analysis for Object-Oriented Software: A Systematic Mapping
+%A Maplesden, D.
+%A Tempero, E.
+%A Hosking, J.G.
+%A Grundy, John C.
+%J IEEE Transactions on Software Engineering
+%V 41
+%N 7
+%D 2015
+%I IEEE
+
+
+%0 Journal Article
+%T Generating Reusable Visual Notations using Model Transformation
+%A Avazpour, I.
+%A Grundy, John C.
+%A Vu, H.
+%J International Journal of Software Engineering and Knowledge Engineering
+%V 25
+%N 2
+%D 2015
+%I World Scientific
+
+
+%0 Conference Proceedings
+%T Bootstrapping Mobile App Development
+%A Barnett, S.
+%A Vasa, R.
+%A Grundy, John C.
+%B 2015 IEEE/ACM International Conference on Software Engineering (ICSE 2015), Formal Demonstrations Track, Florence, Italy, 18-23 May 2015
+%D 2015
+%I ACM
+
+
+%0 Conference Proceedings
+%T StressCloud: A Tool for Analysing Performance and Energy Consumption of Cloud Applications
+%A Chen, F.
+%A Grundy, John C.
+%A Schneider, J-G
+%A Yang, Y.
+%A He, Q.
+%B 2015 IEEE/ACM International Conference on Software Engineering (ICSE 2015), Formal Demonstrations Track, Florence, Italy, 18-23 May 2015
+%D 2015
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Developing CASE tools that support integrated design notations
+%A Grundy, JC
+%A Venable, JR
+%B Proceedings of the 6th European Workshop on Next Generation of CASE Tools
+%P 109-116
+%D 1995
+
+
+%0 Report
+%T A generic, lightweight collaborative notes and messaging facility for groupware applications
+%A Apperley, MD
+%A Gianoutsos, S
+%A Grundy, JC
+%A Paynter, G
+%A Reeves, S
+%A Venable, JR
+%D 1996
+%I Working Paper, Department of Computer Science, University of Waikato
+
+
+%0 Generic
+%T Adaptive Security Management in SaaS Applications, Chapter 8 in Security, Privacy and Trust in Cloud Systems
+%A Almorsy, M
+%A Ibrahim, A
+%A Grundy, JC
+%D 2013
+%I Springer
+
+
+%0 Conference Proceedings
+%T A Framework for Convergence of Cloud Services and Internet of Things
+%A Yuan, Dong.
+%A Jin, J.
+%A Grundy, John C.
+%A Yang, Yun
+%B 19th IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD2015)
+%D 2015
+%I IEEE
+
+
+%0 Report
+%T Integrating CASE tools via hierarchical data model integration
+%A Grundy, JC
+%A Venable, J
+%D 1994
+%I Working Paper, Department of Computer Science, University of Waikato
+
+
+%0 Report
+%T Keeping textual and graphical views of information consistent
+%A Grundy, JC
+%A Hosking, JG
+%D 1996
+%I Working Paper, Department of Computer Science, University of Waikato
+
+
+%0 Conference Proceedings
+%T A service-oriented architecture for software process technology
+%A Helland, Therese
+%A Grundy, John C.
+%A Hosking, John G.
+%B 2006 Australian Software Engineering Conference (ASWEC 2006)
+%P 10 pp.-141
+%D 2006
+%I IEEE
+
+
+%0 Journal Article
+%T Specifying Model Transformations by Direct Manipulation using Concrete Visual Notations and Interactive Recommendations
+%A Avazpour, I.
+%A Grundy, John C.
+%A Grunske, L.
+%J Journal of Visual Languages and Computing
+%V 28
+%D 2015
+%I Elsevier
+
+
+%0 Conference Proceedings
+%T Supporting Scientists in Re-engineering Sequential Programs to Parallel Using Model-driven Engineering
+%A Almorsy, M.
+%A Grundy, John C.
+%B 1st ICSE Workshop on Software Engineering for High Performance Computing in Science (SE4HPCS  2015), Florence, Italy, May 19 2015.
+%D 2015
+%I IEEE
+
+
+%0 Conference Proceedings
+%T An Empirical Investigation of Personality Traits of Software Testers
+%A Kanij, T.
+%A Merkel, R.
+%A Grundy, John C.
+%B 6th ICSE Workshop on Collaborative and Human Aspects of Software Engineering (CHASE 2015), Florence, Italy, May 18 2015.
+%D 2015
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A Preliminary Study of Open Learner Model Representation Formats to Support Formative Assessment
+%A Law, Check Yee
+%A Grundy, John C.
+%A Cain, Andrew
+%A Vasa, Rajesh
+%B 2015 IEEE Computer Software and Applications Conference (COMPSAC2015), Taichung, Taiwan, July 1-5, 2015
+%D 2015
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A framework for game engine based visualisations
+%A Wünsche, Burkhard C
+%A Kot, Blazej
+%A Gits, Andrew
+%A Amor, Robert
+%A Hosking, John
+%A Grundy, John C.
+%B in Proceedings of 2005 Image and Vision Computing New Zealand, Nov. 2005
+%D 2005
+
+
+%0 Conference Proceedings
+%T A Generic Visual Critic Authoring Tool
+%A Ali, Norhayati Mohd
+%B Visual Languages and Human-Centric Computing, 2007. VL/HCC 2007. IEEE Symposium on
+%P 260-261
+%@ 0769529879
+%D 2007
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Automating Performance and Energy Consumption Analysis for Cloud Applications
+%A Chen, F.
+%A Grundy, John .C.
+%A Schneider, J-G
+%A Yang, Y.
+%A He, Q.
+%B IEEE SERVICES 2015 Visionary Track: The Future of Software Engineering FOR and IN Cloud, New York, USA, July 31 2015, IEEE.
+%D 2015
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Mobile Application Testing in Industrial Contexts: An Exploratory Multiple Case Study
+%A Zane, S.
+%A Salleh, N.
+%A Grundy, John .C.
+%B 14th International Conference on Intelligent Software Methodologies, Tools and Techniques (SOMET2015), Naples, Italy, Sept 15-17, 2015
+%D 2015
+%I Springer
+
+
+%0 Journal Article
+%T Ontology-based Automated Support for Goal-Use case Model Analysis
+%A Nguyen, H.
+%A Grundy, John C.
+%A Almorsy, M.
+%J Software Quality Journal
+%V 24
+%N 3
+%P 635-673
+%D 2016
+%I Springer
+
+
+%0 Conference Proceedings
+%T Rule-based Extraction of Goal-Use Case Models from Text
+%A Nguyen, H.
+%A Grundy, John C
+%A Almorsy, M.
+%B 10th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE/ESEC 2015), Bargamo, Italy, August 31 – September 4, 2015
+%D 2015
+%I ACM Press
+
+
+%0 Generic
+%T Software Quality Assurance
+%A Mistrik, I.
+%A Soley, R.M.
+%A Ali, N.
+%A Grundy, John .C.
+%A Tekinerdogan, B.
+%D 2015
+%I Morgan Kaufmann
+
+
+%0 Conference Proceedings
+%T An architecture for generating web-based, thin-client diagramming tools
+%A Cao, S.
+%A Grundy, John C.
+%A Hosking, J.G.
+%A Tempero, E.
+%A Zhu, N.
+%B Proceedings of the 2004 IEEE International Conference on Automated Software Engineering, Linz, Austria, September
+%P 20-24
+%D 2005
+
+
+%0 Conference Proceedings
+%T Stakeholder feedback on open learner model visualisation techniques
+%A Law, C.Y.
+%A Grundy, John .C.
+%A Vasa, R.
+%A Cain, A.
+%B 2015 IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC 2015), Atlanta, USA,18-22 October 2015
+%D 2015
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Integrating Goal-oriented and Use Case-based Requirements Engineering: The Missing Link
+%A Nguyen, H.
+%A Grundy, John C.
+%A Almorsy, M.
+%B 18th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS 2015), Ottawa, Canada, Sept 28-Oct 2 2015
+%D 2015
+%I Springer
+
+
+%0 Conference Proceedings
+%T Reporting Usability Defects: Limitations of Open Source Defect Repositories and Suggestions for Improvement
+%A Yusop, N.S.Md.
+%A Grundy, John C.
+%A Vasa, Rajesh
+%B 2015 Australasian Conference on Software Engineering (ASWEC 2015), Adelaide, Australia, 28 Sept-1 Oct 2015
+%D 2015
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Experience Report: Anomaly Detection of Cloud Application Operations Using Log and Cloud Metric Correlation Analysis
+%A Farshchi, M.
+%A Schneider, J.G.
+%A Weber, Ingo
+%A Grundy, John C.
+%B 26th IEEE International Symposium on Software Reliability Engineering, Gaithersburg, Maryland (ISSRE 2015), USA, 2-5 Nov 2015.
+%D 2015
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Providing Fairer Resource Allocation for Multi-tenant Cloud-based Systems
+%A Ru, Jia
+%A Grundy, John C.
+%A Keung, Jacky
+%A Yang, Yun
+%A Hao, Lin
+%B 7th IEEE International Conference on Cloud Computing Technology and Science (CloudCom 2015), Vancouver, BC, Canada, Nov 30-Dec 3, 2015
+%D 2015
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A Multi-view Framework for Generating Mobile Apps
+%A Barnett, S.
+%A Avazpour, I.
+%A Vasa, R.
+%A Grundy, John C.
+%B 2015 IEEE International Symposium on Visual Languages and Human-Centric Computing, Atlanta, USA, Oct 15-19 2015
+%D 2015
+%I IEEE
+
+
+%0 Conference Proceedings
+%T A Cost/Benefit Approach to Performance Analysis
+%A Maplesden, D.
+%A Tempero, E.
+%A Hosking, J.G.
+%A Grundy, John C.
+%B 6th ACM/SPEC International Conference on Software Performance Engineering (ICPE 2015), Delft, Netherlands, 12-18 March, 2016
+%D 2016
+%I ACM
+
+
+%0 Book Section
+%T Adaptive Software Security
+%A Almorsy, M.
+%A Grundy, John C.
+%A Ibrahim, A.
+%B Chapter 5 in Managing trade-offs in adaptable software architectures, I. Mistrik, J. Grundy, B. Schmerl, R. Kazman, N. Ali (Eds)
+%D 2016
+%I Morgan Kaufmann
+
+
+%0 Generic
+%T Managing trade-offs in adaptable software architectures
+%A Mistrik, I.
+%A Grundy, John C.
+%A Schmerl, B.
+%A Kazman, R.
+%A Ali, N.
+%D 2016
+%I Morgan Kaufmann
+
+
+%0 Conference Proceedings
+%T V for Variety: Lessons Learned From Complex Smart Cities Data Harmonization and Integration
+%A Avazpour, Iman
+%A Grundy, John C.
+%A Zhu, Liming
+%B First International Workshop on Context-Aware​ Smart Cities ​and Intelligent Transport Systems (AwareCities 2016), Sydney, Australia
+%D 2016
+
+
+%0 Conference Proceedings
+%T Opaque Service Virtualisation: A Practical Tool for Emulating Endpoint Systems
+%A Versteeg, S.
+%A Du, M.
+%A Grundy, John C.
+%A Schneider, J-G
+%A Han, J.
+%A Goyal, M.
+%B 2016 IEEE/ACM International Conference on Software Engineering (ICSE 2016): Software Engineering in Practice Track, Austin, Texas, 14-22 May 2016
+%D 2016
+%I ACM
+
+
+%0 Journal Article
+%T The Effect of Software Engineers’ Personality traits on Team Climate and Performance: a Systematic Literature Review
+%A Soomro, A.B.
+%A Salleh, N.
+%A Mendes, E.
+%A Grundy, John C.
+%A Burch, G.
+%A Nordin, A.
+%J Information and Software Technology
+%V 73
+%P pp 52–65
+%D 2016
+%I Elsevier
+
+
+%0 Conference Proceedings
+%T Continuous Validation for Data Analytics Systems
+%A Staples, Mark
+%A Zhu, Liming
+%A Grundy, John C.
+%B 2016 IEEE/ACM International Conference on Software Engineering (ICSE 2016), Visions of 2025 and Beyond Track, Austin, Texas, USA, May 14-22 2016
+%D 2016
+%I ACM
+
+
+%0 Journal Article
+%T MaramaAIC: Tool Support for Consistency Management and Validation of Requirements
+%A Kamalrudin, M.
+%A Grundy, John C.
+%A Hosking, John G.
+%J Automated Software Engineering
+%V 24
+%N 1
+%P 1-45
+%D 2017
+%I Springer
+
+
+%0 Conference Proceedings
+%T International Capstone Exchange – the SUT and NDSU Experience
+%A Knudson, D.
+%A Grundy, John C.
+%B 2016 Capstone Design Conference, June 6-8, 2016, Columbus, OH, USA.
+%D 2016
+
+
+%0 Conference Proceedings
+%T TestMEReq: Generating Abstract Tests for Requirements Validation
+%A Moketar, N.A.
+%A Kamalrudin, K.
+%A Sidek, S.
+%A Robinson, M.
+%A Grundy, John C.
+%B 3rd International Workshop on Software Engineering Research and Industrial Practice (SER&IP)
+%D 2016
+
+
+%0 Conference Proceedings
+%T Enhanced Playback of Automated Service Emulation Models Using Entropy Analysis
+%A Versteeg, S.
+%A Du, M.
+%A Bird, J.
+%A Schneider, J-G
+%A Grundy, John C.
+%B 2016  International Workshop on Continuous Software Evolution and Delivery (CSED), May 14-15 2016
+%D 2016
+
+
+%0 Journal Article
+%T A Systematic Mapping Study of Mobile Application Testing Techniques
+%A Zain, Samer
+%A Salleh, Norsaremah
+%A Grundy, John C.
+%J Journal of Systems and Software
+%V 117
+%P 334-356
+%D 2016
+%I Elsevier
+
+
+%0 Conference Proceedings
+%T Reporting Usability Defects - Do reporters Report What Software Developers Need?
+%A Yusop, N.S.M.
+%A Grundy, John C.
+%A Vasa, R.
+%B 20th International Conference on Evaluation and Assessment in Software Engineering (EASE2016), Limerick, Ireland, 1-3 June 2016,
+%D 2016
+%I ACM
+
+
+%0 Conference Proceedings
+%T Improving Cloud-based Online Social Network Data Placement and Replication
+%A Khalajzadeh, H.
+%A Yuan, Dong
+%A Grundy, John C.
+%A Yang, Yun
+%B 9th IEEE International Conference on Cloud Computing (IEEE CLOUD 2016), June 27 - July 2, 2016, San Francisco, USA
+%D 2016
+%I IEEE
+
+
+%0 Conference Proceedings
+%T MEReq: A Tool to Capture and Validate Multi-Lingual Requirements.
+%A Kamalrudin, Massila
+%A Sidek, Safiah
+%A Yusop, Noorrezam
+%A Grundy, John C
+%A Hosking, John G
+%B SoMeT
+%P 231-245
+%D 2014
+
+
+%0 Generic
+%T Message matching for opaque service virtualization
+%A Du, Miao
+%A Schneider, Jean-Guy
+%A Hine, Cameron Murray
+%A Grundy, John Collis
+%A Han, Jun
+%A Versteeg, Steven Cornelis
+%D 2014
+%I US Patent App. 14/223,607
+
+
+%0 Generic
+%T Systems and methods for clustering trace messages for efficient opaque response generation
+%A Du, Miao
+%A Versteeg, Steven Cornelis
+%A Schneider, Jean-Guy
+%A Han, Jun
+%A Grundy, John Collis
+%D 2014
+%I US Patent App. 14/305,322
+
+
+%0 Generic
+%T Systems and methods for automatically generating message prototypes for accurate and efficient opaque service emulation
+%A Versteeg, Steven Cornelis
+%A Du, Miao
+%A Schneider, Jean-Guy
+%A Grundy, John Collis
+%A Han, Jun
+%D 2014
+%I US Patent App. 14/535,950
+
+
+%0 Conference Proceedings
+%T MaramaAI: Tool support for capturing requirement and checking the inconsistency
+%A Kamalrudin, M
+%A Hosking, J
+%A Grundy, John
+%B Proc. 21st Australian Software Engineering Conference (ASWEC'10)
+%D 2010
+
+
+%0 Conference Proceedings
+%T Kaitorobase: Visual exploration of software architecture documents
+%A Su, Moon Ting
+%A Hirsch, Christian
+%A Hosking, John
+%B Proceedings of the 2009 IEEE/ACM International Conference on Automated Software Engineering
+%P 657-659
+%@ 0769538916
+%D 2009
+%I IEEE Computer Society
+
+
+%0 Journal Article
+%T Quality concerns in large-scale and complex software-intensive systems
+%A Tekinerdogan, Bedir
+%A Ali, Nour
+%A Grundy, John
+%A Mistrik, Ivan
+%A Soley, Richard
+%J Software Quality Assurance: In Large Scale and Complex Software-intensive Systems
+%@ 0128025417
+%D 2015
+%I Morgan Kaufmann
+
+
+%0 Conference Proceedings
+%T A Domain-Specific Visual Modeling Language for Testing Environment Emulation
+%A Liu, J.
+%A Grundy, John C.
+%A Abdelrazek, M.
+%A Avazpour, I.
+%B 2016 IEEE Symposium on Visual Languages and Human-Centric Computing, Cambridge, UK, Sept 4-8 2016
+%D 2016
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Stakeholder Feedback on Open Learner Model Visualisation Technique
+%A Law, C.
+%A Grundy, John C.
+%A Cain, A.
+%A Vasa, R.
+%B 2016 IEEE Symposium on Visual Languages and Human-Centric Computing, Cambridge, UK, 4-8 Sept 2016
+%D 2016
+%I IEEE
+
+
+%0 Book
+%T Proceedings of the OzCHI'96 Workshop on the Next Generation of CSCW Systems
+%A Grundy, John Collis
+%D 1996
+%I Department of Computer Science, University of Waikato
+
+
+%0 Conference Proceedings
+%T Improving Tenants' Trust in SaaS Applications Using Dynamic Security Monitors
+%A Abdelrazek, Mohamed Almorsy
+%A Grundy, John
+%A Ibrahim, Amani S
+%B Engineering of Complex Computer Systems (ICECCS), 2015 20th International Conference on
+%P 70-79
+%D 2015
+%I IEEE
+
+
+%0 Conference Proceedings
+%T An Automated Collaborative Requirements Engineering Tool for Better Validation of Requirements
+%A Moketar, N.A.
+%A Kamalrudin, M.
+%A Sidek, S.
+%A Robinson, M.
+%A Grundy, John C.
+%B 2016 IEEE/ACM International Conference on Automated Software Engineering (ASE 2016), Singapore, Sept 3-7, 2016
+%D 2016
+%I ACM
+
+
+%0 Conference Proceedings
+%T TeeVML: Tool Support for Semi-Automatic Integration Testing Environment Emulation
+%A Liu, J.
+%A Grundy, John C.
+%A Abdelrazek, M.
+%A Avazpour, I.
+%B 2016 IEEE/ACM International Conference on Automated Software Engineering (ASE 2016), Singapore, Sept 3-7, 2016
+%D 2016
+%I ACM
+
+
+%0 Book
+%T Integrated OO System Developing Using SPE
+%A Grundy, John Collis
+%A Hosking, John G
+%D 1993
+%I University of Auckland, Department of Computer Science
+
+
+%0 Conference Proceedings
+%T Model-Driven Engineering for the Social Enterprise.
+%A Grundy, John
+%B EDOC
+%P 39
+%D 2015
+
+
+%0 Journal Article
+%T Guest editors introduction: special issue on innovative automated software engineering tools—part# 2
+%A Grundy, John
+%A Hosking, John
+%J Automated Software Engineering
+%V 20
+%N 3
+%P 297-298
+%@ 0928-8910
+%D 2013
+%I Springer US
+
+
+%0 Journal Article
+%T Technical Report Australian Household Travel Survey Data Integration, Harmonization and Visualization
+%A Avazpour, Iman
+%A Sadauskas, Ramuna
+%A Grundy, John
+%A Zhu, Liming
+%D 2015
+
+
+%0 Journal Article
+%T Component-based Groupware: Issues and Experiences
+%A Grundy, John
+%J CSCW in HCI-worldwide
+%P 23
+%D 1997
+
+
+%0 Journal Article
+%T From network traces to system responses: Opaquely emulating software services
+%A Du, Miao
+%A Versteeg, Steve
+%A Schneider, Jean-Guy
+%A Grundy, John
+%A Han, Jun
+%J arXiv preprint arXiv:1510.01421
+%D 2015
+
+
+%0 Conference Proceedings
+%T DeepSoft: A vision for a deep model of software
+%A Dam, H.K.
+%A Tran, T.
+%A Grundy, John C.
+%B 2016 ACM SIGSOFT International Conference on Foundations of Software Engineering (FSE 2016), Seattle, WA, USA
+%D 2016
+%I ACM
+
+
+%0 Conference Proceedings
+%T Does Textual Word-of-Mouth Affect Look and Feel?
+%A Stojmenovic, M.
+%A Grundy, John C.
+%A Farrell, V.
+%A Biddle, R.
+%A Hoon, L.
+%B 2016 Australian Conference on Human-Computer Interaction (OZCHI 2016), Launceston, Australia, Nov 29-Dec 2 2016
+%D 2016
+%I ACM
+
+
+%0 Journal Article
+%T Heuristics-based Indoor Positioning Systems: A Systematic Literature Review
+%A Lam, Luan
+%A Tang, Antony
+%A Grundy, John C.
+%J Journal of Location-Based Services
+%D 2017
+%I Taylor & Francis
+
+
+%0 Journal Article
+%T Usage-based Chunking of Software Architecture Information to Assist Information Finding
+%A Su, M.T.
+%A Hosking, John G.
+%A Grundy, John C.
+%A Tempero, E.
+%J Journal of Systems and Software
+%V 122
+%D 2016
+%I Elsevier
+
+
+%0 Journal Article
+%T Proceedings of the 3rd Australasian Workshop on Software and System Architectures, Sydney, New South Wales, Australia, 19-20 November 2000
+%A Grundy, John
+%A Han, Jun
+%D 2000
+%I Monash University
+
+
+%0 Book
+%T Multiple user interfaces: cross-platform applications and context-aware interfaces
+%A Seffah, Ahmed
+%A Javahery, Homa
+%@ 047009169X
+%D 2005
+%I John Wiley & Sons
+
+
+%0 Journal Article
+%T Collaborative software engineering: Challenges and prospects
+%A Mistrík, Ivan
+%A Grundy, John
+%A Hoek, A
+%A Whitehead, Jim
+%J Collaborative Software Engineering
+%P 389-403
+%D 2010
+
+
+%0 Conference Proceedings
+%T Comparing and contrasting micro-payment models for E-commerce systems, Info-tech and Info-net
+%A Dai, Xiaoling
+%A Grundy, John
+%A Lo, BruceWN
+%B Proceedings. ICII
+%D 2001
+
+
+%0 Book
+%T Early Aspects: Current Challenges and Future Directions
+%A Moreira, Ana
+%A Grundy, John
+%D 2007
+%I Springer-Verlag Berlin Heidelberg
+
+
+%0 Conference Proceedings
+%T Interactive visualization tools for exploring the semantic graph of large knowledge spaces
+%A Hirsch, Christian
+%A Hoking, John
+%A Grundy, John
+%B Workshop on visual interfaces to the social and semantic web (VISSW2009)
+%D 2009
+
+
+%0 Conference Proceedings
+%T What Influences Usability Defect Reporting? – A Survey of Software Development Practitioners
+%A Yusop, N.S.M.
+%A Schneider, J-G.
+%A Grundy, John C.
+%A Vasa, R.
+%B 2016 Asia-Pacific Conference on Software Engineering, Hamilton, New Zealand, Dec 6-9 2016
+%D 2016
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Automated Support to Capture and Validate Security Requirements for Mobile Apps
+%A Yusop, N.
+%A Kamalrudin, N.
+%A Saidek, S.
+%A Grundy, John C.
+%B 3rd Asia-Pacific Requirements Engineering Symposium (APRES2016) 2016, 10-12 November 2016, Nagoya, Japan
+%D 2016
+%I Springer
+
+
+%0 Generic
+%T Aspect-Oriented Software Engineering–a Use Case Driven Approach
+%A Grundy, J
+%D 1992
+%I Addison-Wesley
+
+
+%0 Book Section
+%T Dimensions and metrics for evaluating recommendation systems
+%A Avazpour, Iman
+%A Pitakrat, Teerat
+%A Grunske, Lars
+%A Grundy, John
+%B Recommendation systems in software engineering
+%P 245-273
+%D 2014
+%I Springer Berlin Heidelberg
+
+
+%0 Generic
+%T A 3d metaphor for software production visualization. IV 2003-International Conference on Computer Visualization and Graphics Applications, 314
+%A Panas, T
+%A Berrigan, R
+%A Grundy, JS
+%D 2003
+%I IEEE CS Press
+
+
+%0 Journal Article
+%T Early Aspects: Current Challenges and Future Directions
+%A Grundy, John
+%A Moreira, Ana
+%D 2007
+
+
+%0 Conference Proceedings
+%T User Perceptions of Using an Open Learner Model Visualisation Tool for Facilitating Self-regulated Learning
+%A Law, C-Y.
+%A Grundy, John C.
+%A Cain, A.
+%A Vasa, R.
+%A Cummaudo, A.
+%B 2017 Australiasian Computing Education Conference (ACE 2017), Jan 30-Feb 3 2017, Geelong, Australia
+%D 2017
+%I ACM
+
+
+%0 Conference Proceedings
+%T Insights into Visualizing Trajectory Recommendation Rankings
+%A Avazpour, I.
+%A Grundy, John C.
+%B 2017 Australiasian User Interface Conference (AUIC 2017), Jan 30-Feb 3 2017, Geelong, Australia
+%D 2017
+%I ACM
+
+
+%0 Conference Proceedings
+%T Parametric Statecharts: Designing Flexible IoT Apps
+%A Singha, R.
+%A Narula, A.
+%A Grundy, John C.
+%B 2017 Australiasian Computer Science Conference (ACSC 2017), Jan 30-Feb 3 2017, Geelong, Australia
+%D 2017
+%I ACM
+
+
+%0 Journal Article
+%T Keyword Search for Building Service-Based Systems
+%A He, Qiang
+%A Zhou, Rui
+%A Zhang, X.
+%A Wang, Y.
+%A Ye, D.
+%A Chen, Feifei
+%A Grundy, John C.
+%A Yang, Y.
+%J IEEE Transactions on Software Engineering
+%D 2017
+%I IEEE
+
+
+%0 Journal Article
+%T Characterising Indoor Positioning Estimation Using Experimental Data from an Active RFID-based Real Time Location System
+%A Lam, Luan
+%A Tang, Antony
+%A Grundy, John C.
+%J Journal of Location-Based Services
+%D 2017
+%I Taylor & Francis
+
+
+%0 Journal Article
+%T Reporting Usability Defects: A Systematic Literature Review
+%A Yusop, N.S.M.
+%A Grundy, John C.
+%A Vasa, Rajesh
+%J IEEE Transactions on Software Engineering,
+%D 2017
+%I IEEE
+
+
+%0 Conference Proceedings
+%T Testing Environment Emulation: A Model-Driven Approach
+%A Liu, J.
+%A Grundy, John C.
+%A Abdelrazek, M.
+%A Avazpour, I.
+%B 2017 International Conference on Model-Driven Engineering and Software Development (MODELSWARD 2017), Porto, Portugul, 19-21 February 201
+%D 2017
+
+
+%0 Conference Proceedings
+%T Predicting Indoor Spatial Movement Using Data Mining and Movement Patterns
+%A Lam, L.
+%A Tang, A.
+%A Grundy, John C.
+%B IEEE International Conference on Big Data and Smart Computing (IEEE BigComp 2017), Jeju, Korea, February 13-16, 2017
+%D 2017
+%I IEEE
+
+
+%0 Journal Article
+%T Systematic literature reviews in agile software development:a tertiary study
+%A Hoda, Rashina
+%A Salleh, Norsaremah
+%A Grundy, John C.
+%A Tee, H.M.
+%J Information and Software Technology
+%D 2017
+%I Elsevier
