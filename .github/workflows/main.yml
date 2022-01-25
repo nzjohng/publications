@@ -21,7 +21,7 @@ jobs:
       id: sitemap
       uses: cicirello/generate-sitemap@v1
       with:
-        base-url-path: https://github.com/nzjohng/publications/
+        base-url-path: https://nzjohng.github.io/publications/
 
     - name: Output stats
       run: |
