@@ -5,3 +5,5 @@ safe: false
 url: "https://nzjohng.github.io/" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
+- name: generate-sitemap
+  uses: cicirello/generate-sitemap@v1.8.1
