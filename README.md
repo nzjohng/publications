@@ -9,7 +9,8 @@ John Grundy's publications repository
     
        {% for doc in doclist %}
             {% if doc.name contains '.md' or doc.name contains '.html' %}
-                - <li>[ { doc.url } ] ( {{ site.url }}{{ doc.url }} )
+ - { doc.url }
+ - [{ doc.url }]({{ site.url }}{{ doc.url }})
             {% endif %}
         {% endfor %}
     
