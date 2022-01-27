@@ -4,7 +4,7 @@
     
        {% for file in filelist %}
             {% if file.name contains '.pdf' and file.path contains 'papers' %}
- - [{{ file.path }}]({{ site.url }}{{ file.path }})
+ - [{{ file.path }}]({{ site.baseurl }}{{ file.path }})
             {% endif %}
         {% endfor %}
         
