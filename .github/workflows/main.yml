@@ -38,7 +38,7 @@ jobs:
           the [generate-sitemap](https://github.com/cicirello/generate-sitemap) 
           GitHub action.  
         commit-message: "Automated sitemap update."
-        author: Vincent A. Cicirello <cicirello@users.noreply.github.com>
-        committer: Vincent A. Cicirello <cicirello@users.noreply.github.com>
+        author: John Grundy <nzjohng@users.noreply.github.com>
+        committer: John Grundy <nzjohng@users.noreply.github.com>
         branch: create-pull-request/sitemap
         delete-branch: true
