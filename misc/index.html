@@ -4,6 +4,12 @@ title: misc documents
 ---
 <head>
   
+         {% for file in filelist %}
+            {% if file.name contains '.pdf' and file.path contains 'misc' %}
+<link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
+            {% endif %}
+        {% endfor %} 
+  
 </head>
 <body>
   <h1>List of Misc documents</h1>
