@@ -1,20 +1,24 @@
 ---
-layout: default
-title: misc documents
 
-         {% for file in filelist %}
-            {% if file.name contains '.pdf' and file.path contains 'misc' %}
-         <link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
-            {% endif %}
-        {% endfor %} 
-
----
+{% assign filelist = site.static_files | sort: 'path'  %}
 
 <head>
-         <title>Misc Documents</title>
+<title>Misc Documents</title>
          {% for file in filelist %}
             {% if file.name contains '.pdf' and file.path contains 'misc' %}
-         <link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
+<link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
+            {% endif %}
+        {% endfor %} 
+</head>
+
+---
+{% assign filelist = site.static_files | sort: 'path'  %}
+
+<head>
+<title>Misc Documents</title>
+         {% for file in filelist %}
+            {% if file.name contains '.pdf' and file.path contains 'misc' %}
+<link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
             {% endif %}
         {% endfor %} 
 </head>
@@ -22,7 +26,6 @@ title: misc documents
 
   <h1>XXX Misc documents</h1>
 
-{% assign filelist = site.static_files | sort: 'path'  %}
 <ul>
        {% for file in filelist %}
             {% if file.name contains '.pdf' and file.path contains 'misc' %}
