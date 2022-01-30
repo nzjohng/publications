@@ -16,11 +16,11 @@ title: misc documents
   <h1>XXX Misc documents</h1>
 
 {% assign filelist = site.static_files | sort: 'path'  %}
-    
+<ul>
        {% for file in filelist %}
             {% if file.name contains '.pdf' and file.path contains 'misc' %}
-<a href="{{ site.baseurl }}{{ file.path }}">{{ file.name }}</a>
+<li><a href="{{ site.baseurl }}{{ file.path }}">{{ file.name }}</a></li>
             {% endif %}
         {% endfor %}
-        
+</ul>
  
