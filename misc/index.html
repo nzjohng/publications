@@ -1,17 +1,17 @@
 ---
 layout: default
 title: misc documents
-
-         {% for file in filelist %}
-            {% if file.name contains '.pdf' and file.path contains 'misc' %}
-<link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
-            {% endif %}
-        {% endfor %} 
-
-
 ---
 
-  
+<head>
+         <title>Misc Documents</title>
+         {% for file in filelist %}
+            {% if file.name contains '.pdf' and file.path contains 'misc' %}
+         <link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
+            {% endif %}
+        {% endfor %} 
+</head>
+<body>
 
   <h1>XXX Misc documents</h1>
 
@@ -24,3 +24,4 @@ title: misc documents
         {% endfor %}
 </ul>
  
+</body>
