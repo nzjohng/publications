@@ -3,7 +3,7 @@
 {% assign filelist = site.static_files | sort: 'path'  %}
 
 <head>
-<title>Misc Documents</title>
+         
          {% for file in filelist %}
             {% if file.name contains '.pdf' and file.path contains 'misc' %}
 <link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
