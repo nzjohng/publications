@@ -1,21 +1,9 @@
 ---
 
-{% assign filelist = site.static_files | sort: 'path'  %}
-
-<head>
-         
-         {% for file in filelist %}
-            {% if file.name contains '.pdf' and file.path contains 'misc' %}
-<link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
-            {% endif %}
-        {% endfor %} 
-</head>
-
 ---
 {% assign filelist = site.static_files | sort: 'path'  %}
 
 <head>
-<title>Misc Documents</title>
          {% for file in filelist %}
             {% if file.name contains '.pdf' and file.path contains 'misc' %}
 <link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
@@ -23,8 +11,8 @@
         {% endfor %} 
 </head>
 <body>
-
-  <h1>XXX Misc documents</h1>
+<title>Misc Documents</title>
+<h1>Misc documents</h1>
 
 <ul>
        {% for file in filelist %}
