@@ -1,6 +1,13 @@
 ---
 layout: default
 title: misc documents
+
+         {% for file in filelist %}
+            {% if file.name contains '.pdf' and file.path contains 'misc' %}
+         <link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
+            {% endif %}
+        {% endfor %} 
+
 ---
 
 <head>
