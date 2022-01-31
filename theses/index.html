@@ -1,0 +1,25 @@
+---
+
+---
+{% assign filelist = site.static_files | sort: 'path'  %}
+
+<head>
+         {% for file in filelist %}
+            {% if file.name contains '.pdf' and file.path contains 'theses' %}
+<link rel="canonical" href="{{ site.baseurl }}{{ file.path }}" />
+            {% endif %}
+        {% endfor %} 
+</head>
+<body>
+<title>John Grundy's Theses Documents</title>
+<h1>John Grundy's Theses documents</h1>
+
+<ul>
+       {% for file in filelist %}
+            {% if file.name contains '.pdf' and file.path contains 'theses' %}
+<li><a href="{{ site.baseurl }}{{ file.path }}">{{ file.name }}</a></li>
+            {% endif %}
+        {% endfor %}
+</ul>
+ 
+</body>
