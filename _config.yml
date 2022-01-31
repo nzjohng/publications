@@ -4,6 +4,7 @@ description: Papers, talks, (old) code, misc docs
 safe: false
 url: "https://nzjohng.github.io/" # the base hostname & protocol for your site
 baseurl: /publications
+fullurl: "https://nzjohng.github.io/publications/"
 plugins:
   - jekyll-sitemap
 
