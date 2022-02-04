@@ -13,14 +13,6 @@
 <lastmod>2018-01-05T08:46:13+11:00</lastmod>
 </url>
 <url>
-<loc>https://nzjohng.github.io/publications/docs/</loc>
-<lastmod>2022-01-31T12:14:13+11:00</lastmod>
-</url>
-<url>
-<loc>https://nzjohng.github.io/publications/misc/</loc>
-<lastmod>2022-01-31T12:08:10+11:00</lastmod>
-</url>
-<url>
 <loc>https://nzjohng.github.io/publications/misc/Academy ICT.pdf</loc>
 <lastmod>2020-06-29T17:45:25+10:00</lastmod>
 </url>
@@ -51,10 +43,6 @@
 <url>
 <loc>https://nzjohng.github.io/publications/misc/se_charter.pdf</loc>
 <lastmod>2018-01-03T17:28:01+11:00</lastmod>
-</url>
-<url>
-<loc>https://nzjohng.github.io/publications/papers/</loc>
-<lastmod>2022-01-31T12:10:29+11:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/papers/EFPL.pdf</loc>
@@ -439,6 +427,10 @@
 <url>
 <loc>https://nzjohng.github.io/publications/papers/ccis2021_2.pdf</loc>
 <lastmod>2021-02-27T12:52:11+11:00</lastmod>
+</url>
+<url>
+<loc>https://nzjohng.github.io/publications/papers/ccis2022.pdf</loc>
+<lastmod>2022-02-05T09:07:57+11:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/papers/cesei2013.pdf</loc>
@@ -2097,10 +2089,6 @@
 <lastmod>2018-01-03T16:44:05+11:00</lastmod>
 </url>
 <url>
-<loc>https://nzjohng.github.io/publications/talks/</loc>
-<lastmod>2022-01-31T12:11:27+11:00</lastmod>
-</url>
-<url>
 <loc>https://nzjohng.github.io/publications/talks/ACSW2014-ECR-WS.pdf</loc>
 <lastmod>2018-01-03T17:00:35+11:00</lastmod>
 </url>
@@ -2561,8 +2549,8 @@
 <lastmod>2018-01-03T17:12:31+11:00</lastmod>
 </url>
 <url>
-<loc>https://nzjohng.github.io/publications/theses/</loc>
-<lastmod>2022-01-31T12:12:33+11:00</lastmod>
+<loc>https://nzjohng.github.io/publications/theses/alex2021.pdf</loc>
+<lastmod>2022-02-03T15:04:24+11:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/theses/ali2010.pdf</loc>
@@ -2625,6 +2613,10 @@
 <lastmod>2018-01-03T17:13:18+11:00</lastmod>
 </url>
 <url>
+<loc>https://nzjohng.github.io/publications/theses/jirayus2021.pdf</loc>
+<lastmod>2022-02-03T14:56:13+11:00</lastmod>
+</url>
+<url>
 <loc>https://nzjohng.github.io/publications/theses/kamalrudin2011.pdf</loc>
 <lastmod>2018-01-03T17:13:18+11:00</lastmod>
 </url>
@@ -2653,6 +2645,10 @@
 <lastmod>2018-01-03T17:13:18+11:00</lastmod>
 </url>
 <url>
+<loc>https://nzjohng.github.io/publications/theses/mila2016.pdf</loc>
+<lastmod>2022-02-03T14:42:12+11:00</lastmod>
+</url>
+<url>
 <loc>https://nzjohng.github.io/publications/theses/moeller2009.pdf</loc>
 <lastmod>2018-01-03T17:13:18+11:00</lastmod>
 </url>
@@ -2663,6 +2659,10 @@
 <url>
 <loc>https://nzjohng.github.io/publications/theses/nixon2002.pdf</loc>
 <lastmod>2018-01-03T17:16:38+11:00</lastmod>
+</url>
+<url>
+<loc>https://nzjohng.github.io/publications/theses/phu2021.pdf</loc>
+<lastmod>2022-02-03T15:04:24+11:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/theses/rivali2016.pdf</loc>
@@ -2687,6 +2687,10 @@
 <url>
 <loc>https://nzjohng.github.io/publications/theses/xiang2006.pdf</loc>
 <lastmod>2018-01-03T17:16:38+11:00</lastmod>
+</url>
+<url>
+<loc>https://nzjohng.github.io/publications/theses/xiaoyu2021.pdf</loc>
+<lastmod>2022-02-03T15:04:24+11:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/theses/yusop2018.pdf</loc>
