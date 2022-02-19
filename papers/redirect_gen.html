@@ -17,7 +17,7 @@
 <ul>
        {% for file in filelist %}
             {% if file.name contains '.pdf' and file.path contains 'papers' %}
-<li><a href="https://raw.githubusercontent.com/nzjohng/publications/master/papers/{{ file.name }}" ></a>{{ file.name }}</li>
+<li><a href="https://raw.githubusercontent.com/nzjohng/publications/master/papers/{{ file.name }}">{{ file.name }}</a></li>
             {% endif %}
         {% endfor %}
 </ul>
