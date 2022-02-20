@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: John Grundy's publications repository
 description: Papers, talks, (old) code, misc docs
 safe: false
-url: "https://nzjohng.github.io/" # the base hostname & protocol for your site
+url: "https://nzjohng.github.io" # the base hostname & protocol for your site
 baseurl: /publications
 fullurl: "https://nzjohng.github.io/publications"
 plugins:
