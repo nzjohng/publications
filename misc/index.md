@@ -1,3 +1,5 @@
+{% include google_analytics.html %}
+
 # List of Misc documents
 
 {% assign filelist = site.static_files | sort: 'path'  %}
