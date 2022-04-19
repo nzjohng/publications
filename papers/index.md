@@ -1,3 +1,5 @@
+{% include google_analytics.html %}
+
 # List of Papers
 
 {% assign filelist = site.static_files | sort: 'path'  %}
