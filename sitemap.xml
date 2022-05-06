@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://nzjohng.github.io/publications/google_analytics.html</loc>
+<lastmod>2022-04-19T16:47:02+10:00</lastmod>
+</url>
+<url>
 <loc>https://nzjohng.github.io/publications/googlefc74177e4e0107fb.html</loc>
 <lastmod>2021-03-27T10:27:54+11:00</lastmod>
+</url>
+<url>
+<loc>https://nzjohng.github.io/publications/_includes/google_analytics.html</loc>
+<lastmod>2022-04-19T16:59:16+10:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/code/JComposerTutorial.pdf</loc>
@@ -433,6 +441,10 @@
 <lastmod>2022-02-05T09:07:57+11:00</lastmod>
 </url>
 <url>
+<loc>https://nzjohng.github.io/publications/papers/ccis2022_2.pdf</loc>
+<lastmod>2022-05-06T22:02:56+10:00</lastmod>
+</url>
+<url>
 <loc>https://nzjohng.github.io/publications/papers/cesei2013.pdf</loc>
 <lastmod>2018-01-03T15:54:12+11:00</lastmod>
 </url>
@@ -538,7 +550,7 @@
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/papers/compsac2022.pdf</loc>
-<lastmod>2022-04-05T15:56:03+10:00</lastmod>
+<lastmod>2022-04-08T11:28:16+10:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/papers/coset00.pdf</loc>
@@ -595,6 +607,10 @@
 <url>
 <loc>https://nzjohng.github.io/publications/papers/csur2022.pdf</loc>
 <lastmod>2021-12-27T09:46:32+11:00</lastmod>
+</url>
+<url>
+<loc>https://nzjohng.github.io/publications/papers/csur2022_3.pdf</loc>
+<lastmod>2022-05-06T20:01:19+10:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/papers/cuc97.pdf</loc>
@@ -1897,6 +1913,10 @@
 <lastmod>2022-01-17T16:12:15+11:00</lastmod>
 </url>
 <url>
+<loc>https://nzjohng.github.io/publications/papers/tse2022_3.pdf</loc>
+<lastmod>2022-05-02T15:19:07+10:00</lastmod>
+</url>
+<url>
 <loc>https://nzjohng.github.io/publications/papers/tse98.pdf</loc>
 <lastmod>2018-01-03T16:43:36+11:00</lastmod>
 </url>
@@ -2321,6 +2341,10 @@
 <lastmod>2021-04-23T15:44:12+10:00</lastmod>
 </url>
 <url>
+<loc>https://nzjohng.github.io/publications/talks/ENASE2022.pdf</loc>
+<lastmod>2022-04-26T10:22:43+10:00</lastmod>
+</url>
+<url>
 <loc>https://nzjohng.github.io/publications/talks/ESEM2010.pdf</loc>
 <lastmod>2018-01-03T17:00:35+11:00</lastmod>
 </url>
@@ -2649,6 +2673,10 @@
 <lastmod>2018-01-03T17:13:18+11:00</lastmod>
 </url>
 <url>
+<loc>https://nzjohng.github.io/publications/theses/chen2022.pdf</loc>
+<lastmod>2022-05-06T22:30:02+10:00</lastmod>
+</url>
+<url>
 <loc>https://nzjohng.github.io/publications/theses/dai2003.pdf</loc>
 <lastmod>2018-01-03T17:13:18+11:00</lastmod>
 </url>
@@ -2659,6 +2687,10 @@
 <url>
 <loc>https://nzjohng.github.io/publications/theses/ding2002.pdf</loc>
 <lastmod>2018-01-03T17:13:18+11:00</lastmod>
+</url>
+<url>
+<loc>https://nzjohng.github.io/publications/theses/gao2022.pdf</loc>
+<lastmod>2022-05-06T22:30:02+10:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/theses/helland2004.pdf</loc>
