@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://nzjohng.github.io/publications/DScThesisGrundy2021.pdf</loc>
+<lastmod>2023-06-09T09:47:39+10:00</lastmod>
+</url>
+<url>
 <loc>https://nzjohng.github.io/publications/google_analytics.html</loc>
 <lastmod>2022-04-19T16:47:02+10:00</lastmod>
 </url>
@@ -51,6 +55,10 @@
 <url>
 <loc>https://nzjohng.github.io/publications/misc/se_charter.pdf</loc>
 <lastmod>2018-01-03T17:28:01+11:00</lastmod>
+</url>
+<url>
+<loc>https://nzjohng.github.io/publications/papers/DScThesisGrundyIntroduction2021.pdf</loc>
+<lastmod>2023-06-09T08:59:35+10:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/papers/EFPL.pdf</loc>
@@ -1651,6 +1659,10 @@
 <url>
 <loc>https://nzjohng.github.io/publications/papers/re2021_4.pdf</loc>
 <lastmod>2021-08-02T09:37:21+10:00</lastmod>
+</url>
+<url>
+<loc>https://nzjohng.github.io/publications/papers/re2023.pdf</loc>
+<lastmod>2023-06-06T15:35:22+10:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/papers/re99.pdf</loc>
