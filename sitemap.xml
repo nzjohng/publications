@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://nzjohng.github.io/publications/DScThesisGrundy2021.pdf</loc>
-<lastmod>2023-06-09T09:47:39+10:00</lastmod>
-</url>
-<url>
 <loc>https://nzjohng.github.io/publications/google_analytics.html</loc>
 <lastmod>2022-04-19T16:47:02+10:00</lastmod>
 </url>
@@ -607,6 +603,10 @@
 <url>
 <loc>https://nzjohng.github.io/publications/papers/compsac2022.pdf</loc>
 <lastmod>2022-04-08T11:28:16+10:00</lastmod>
+</url>
+<url>
+<loc>https://nzjohng.github.io/publications/papers/compsac2023_1.pdf</loc>
+<lastmod>2023-06-21T14:53:41+10:00</lastmod>
 </url>
 <url>
 <loc>https://nzjohng.github.io/publications/papers/compsac2023_2.pdf</loc>
