@@ -5,7 +5,7 @@ safe: false
 url: "https://nzjohng.github.io" # the base hostname & protocol for your site
 baseurl: /publications
 fullurl: "https://nzjohng.github.io/publications"
-google_analytics: "G-DTKH4G8RWH"
+google_analytics: "G-YBYTW63GFN"
 plugins:
   - jekyll-sitemap
 
